@@ -8,7 +8,7 @@ contentSelector = "p.whot-detail"
 imageSelector = "div.whot-list a img"
 waitUntil = "networkidle"
 
-[m_thearer_nodeulmusic]
+[m_thearer_kspodome]
 title = "YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장)"
 url = "http://m.ticket.yes24.com/Perf/Detail/TheaterPerfList.aspx?IdPerf=40616&IdTheater=3237"
 entrySelector = "div.goods_listArea.gType_list.topBdrNo ul.yGoodsUnit li"
