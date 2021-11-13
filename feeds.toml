@@ -1,4 +1,24 @@
-[thearer_3607]
+[thearer_kspodome]
+title = "YES24 티켓 ─ 장소 ─ KSPO DOME(올림픽체조경기장)"
+url = "http://ticket.yes24.com/Theater/3237"
+entrySelector = "div.venue-view-list-wrap ul li"
+titleSelector = "p.whot-tit"
+linkSelector = "div.whot-list a"
+contentSelector = "p.whot-detail"
+imageSelector = "div.whot-list a img"
+waitUntil = "networkidle"
+
+[m_thearer_nodeulmusic]
+title = "YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장)"
+url = "http://m.ticket.yes24.com/Perf/Detail/TheaterPerfList.aspx?IdPerf=40616&IdTheater=3237"
+entrySelector = "div.goods_listArea.gType_list.topBdrNo ul.yGoodsUnit li"
+titleSelector = "p.goods_name.limit_pad1ln"
+linkSelector = "a.lnk_goods"
+contentSelector = "em.yes_m"
+imageSelector = "em.imgBdr img"
+waitUntil = "networkidle"
+
+[thearer_nodeulmusic]
 title = "YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스"
 url = "http://ticket.yes24.com/Theater/3607"
 entrySelector = "div.venue-view-list-wrap ul li"
@@ -8,7 +28,7 @@ contentSelector = "p.whot-detail"
 imageSelector = "div.whot-list a img"
 waitUntil = "networkidle"
 
-[m_thearer_3607]
+[m_thearer_nodeulmusic]
 title = "YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스"
 url = "http://m.ticket.yes24.com/Perf/Detail/TheaterPerfList.aspx?IdPerf=40616&IdTheater=3607"
 entrySelector = "div.goods_listArea.gType_list.topBdrNo ul.yGoodsUnit li"
