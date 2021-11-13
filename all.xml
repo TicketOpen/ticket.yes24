@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Nov 2021 13:44:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 14:20:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -66,6 +66,111 @@
             <pubDate>Sat, 13 Nov 2021 12:06:38 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.12 ~ 2021.11.14]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202109/20210907/20210907-40057.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WONHO CONCERT〈WE ARE YOUNG〉 (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/40293</link>
+            <guid>http://ticket.yes24.com/Perf/40293</guid>
+            <pubDate>Sat, 13 Nov 2021 14:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.13 ~ 2021.11.14]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2021 적재 전국투어 ＇서로의 서로＇- 서울 (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/40431</link>
+            <guid>http://ticket.yes24.com/Perf/40431</guid>
+            <pubDate>Sat, 13 Nov 2021 14:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.19 ~ 2021.11.21]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[콘서트 브랜디드 VOL.1〈팔로알토, 허클베리피, 저스디스, EK〉 (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/40721</link>
+            <guid>http://ticket.yes24.com/Perf/40721</guid>
+            <pubDate>Sat, 13 Nov 2021 14:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.23 ~ 2021.11.23]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[희노애락 (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/40753</link>
+            <guid>http://ticket.yes24.com/Perf/40753</guid>
+            <pubDate>Sat, 13 Nov 2021 14:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.27 ~ 2021.11.28]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2021 VICTON FANMEETING [Sweet Travel] (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/40697</link>
+            <guid>http://ticket.yes24.com/Perf/40697</guid>
+            <pubDate>Sat, 13 Nov 2021 14:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.04 ~ 2021.12.05]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[온앤오프（ONF）2021 LIVE CONTACT :: CODE ＃1. [REVERSE] (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/40677</link>
+            <guid>http://ticket.yes24.com/Perf/40677</guid>
+            <pubDate>Sat, 13 Nov 2021 14:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.09 ~ 2021.12.12]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL） (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/36086</link>
+            <guid>http://ticket.yes24.com/Perf/36086</guid>
+            <pubDate>Sat, 13 Nov 2021 14:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[2021.04.22 ~ 2022.04.24]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[희노애락 (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40753</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40753</guid>
+            <pubDate>Sat, 13 Nov 2021 14:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.27 ~ 2021.11.28]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211111/20211111-40753.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[콘서트 브랜디드 VOL.1〈팔로알토, 허클베리피, 저스디스, EK〉 (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40721</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40721</guid>
+            <pubDate>Sat, 13 Nov 2021 14:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.23 ~ 2021.11.23]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211108/20211108-40721.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 VICTON FANMEETING [Sweet Travel] (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40697</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40697</guid>
+            <pubDate>Sat, 13 Nov 2021 14:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.04 ~ 2021.12.05]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211108/20211108-40697.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[온앤오프（ONF）2021 LIVE CONTACT :: CODE ＃1. [REVERSE] (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40677</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40677</guid>
+            <pubDate>Sat, 13 Nov 2021 14:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.09 ~ 2021.12.12]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211104/20211104-40677.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 적재 전국투어 ＇서로의 서로＇- 서울 (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40431</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40431</guid>
+            <pubDate>Sat, 13 Nov 2021 14:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.19 ~ 2021.11.21]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211110/20211110-40431.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WONHO CONCERT〈WE ARE YOUNG〉 (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40293</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40293</guid>
+            <pubDate>Sat, 13 Nov 2021 14:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.13 ~ 2021.11.14]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202110/20211007/20211007-40293.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL） (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=36086</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=36086</guid>
+            <pubDate>Sat, 13 Nov 2021 14:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[2021.04.22 ~ 2022.04.24]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211101/20211101-36086.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
