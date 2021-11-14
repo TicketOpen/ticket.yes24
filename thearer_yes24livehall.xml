@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/Theater/2497</id>
     <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
-    <updated>2021-11-14T05:38:28.241Z</updated>
+    <updated>2021-11-14T17:42:24.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/Theater/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[WONHO CONCERT〈WE ARE YOUNG〉]]></title>
-        <id>http://ticket.yes24.com/Perf/40293</id>
-        <link href="http://ticket.yes24.com/Perf/40293"/>
-        <updated>2021-11-13T14:20:49.183Z</updated>
-        <content type="html"><![CDATA[2021.11.13 ~ 2021.11.14]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[2021 적재 전국투어 ＇서로의 서로＇- 서울]]></title>
         <id>http://ticket.yes24.com/Perf/40431</id>
