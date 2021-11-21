@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 05:38:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 17:44:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Sat, 13 Nov 2021 14:20:55 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.09 ~ 2021.12.12]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211115/20211115-40677.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 적재 전국투어 ＇서로의 서로＇- 서울]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40431</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40431</guid>
-            <pubDate>Sat, 13 Nov 2021 14:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.19 ~ 2021.11.21]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211110/20211110-40431.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL）]]></title>
