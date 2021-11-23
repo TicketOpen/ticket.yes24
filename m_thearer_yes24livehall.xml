@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 05:39:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 17:46:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Sat, 13 Nov 2021 14:20:55 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.27 ~ 2021.11.28]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211111/20211111-40753.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콘서트 브랜디드 VOL.1〈팔로알토, 허클베리피, 저스디스, EK〉]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40721</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40721</guid>
-            <pubDate>Sat, 13 Nov 2021 14:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.23 ~ 2021.11.23]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211108/20211108-40721.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 VICTON FANMEETING [Sweet Travel]]]></title>

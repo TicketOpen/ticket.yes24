@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/Theater/3607</id>
     <title>YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스</title>
-    <updated>2021-11-23T05:39:15.181Z</updated>
+    <updated>2021-11-23T17:46:01.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/Theater/favicon.ico</icon>
     <entry>
@@ -32,5 +32,12 @@
         <link href="http://ticket.yes24.com/Perf/40459"/>
         <updated>2021-11-13T13:44:46.252Z</updated>
         <content type="html"><![CDATA[2021.12.12 ~ 2021.12.12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 김사월 연말 단독 공연〈밖은 너무 추워 나는〉]]></title>
+        <id>http://ticket.yes24.com/Perf/40876</id>
+        <link href="http://ticket.yes24.com/Perf/40876"/>
+        <updated>2021-11-23T17:45:32.226Z</updated>
+        <content type="html"><![CDATA[2021.12.17 ~ 2021.12.19]]></content>
     </entry>
 </feed>
