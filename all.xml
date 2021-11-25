@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 17:45:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 05:37:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -73,11 +73,26 @@
             <content:encoded><![CDATA[2021.12.17 ~ 2021.12.19]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[기프트 연말콘서트 [GIFT VILLAGE] (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
+            <link>http://ticket.yes24.com/Perf/40907</link>
+            <guid>http://ticket.yes24.com/Perf/40907</guid>
+            <pubDate>Thu, 25 Nov 2021 05:37:08 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.25 ~ 2021.12.25]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2021 너드커넥션 연말 콘서트〈신세기 명화극장〉 (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
             <link>http://ticket.yes24.com/Perf/40890</link>
             <guid>http://ticket.yes24.com/Perf/40890</guid>
             <pubDate>Wed, 24 Nov 2021 17:45:17 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.31 ~ 2022.01.02]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[기프트 연말콘서트 [GIFT VILLAGE] (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40907</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40907</guid>
+            <pubDate>Thu, 25 Nov 2021 05:37:14 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.25 ~ 2021.12.25]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211125/20211125-40907.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 너드커넥션 연말 콘서트〈신세기 명화극장〉 (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
@@ -156,11 +171,26 @@
             <content:encoded><![CDATA[2021.12.18 ~ 2021.12.19]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2F 단독 콘서트 〈If〉 (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/40888</link>
+            <guid>http://ticket.yes24.com/Perf/40888</guid>
+            <pubDate>Thu, 25 Nov 2021 05:37:22 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.24 ~ 2021.12.26]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL） (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
             <link>http://ticket.yes24.com/Perf/36086</link>
             <guid>http://ticket.yes24.com/Perf/36086</guid>
             <pubDate>Sat, 13 Nov 2021 14:20:49 GMT</pubDate>
             <content:encoded><![CDATA[2021.04.22 ~ 2022.04.24]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2F 단독 콘서트 〈If〉 (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40888</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40888</guid>
+            <pubDate>Thu, 25 Nov 2021 05:37:29 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.24 ~ 2021.12.26]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211124/20211124-40888.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[FANTASY IN I’ll LAND (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
