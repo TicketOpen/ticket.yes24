@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 05:39:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 17:43:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,13 +36,6 @@
             <pubDate>Sat, 13 Nov 2021 13:44:37 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.11 ~ 2021.12.12]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211110/20211110-40733.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 김수영 단독공연 [EPISODE] (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
-            <link>http://ticket.yes24.com/Perf/40616</link>
-            <guid>http://ticket.yes24.com/Perf/40616</guid>
-            <pubDate>Sat, 13 Nov 2021 12:06:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.27 ~ 2021.11.28]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[데이브레이크 ‘× ÷ SHOW 시즌 3’ : 3배의 즐거움을 함께 나누자 (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
@@ -142,27 +135,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211115/20211115-40791.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2021 김수영 단독공연 [EPISODE] (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40616</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40616</guid>
-            <pubDate>Sat, 13 Nov 2021 12:06:38 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.27 ~ 2021.11.28]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202110/20211027/20211027-40616.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[유미 단독 콘서트 [Let’s just live today] (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40459</link>
             <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40459</guid>
             <pubDate>Sat, 13 Nov 2021 12:06:38 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.12 ~ 2021.12.12]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211110/20211110-40459.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[희노애락 (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://ticket.yes24.com/Perf/40753</link>
-            <guid>http://ticket.yes24.com/Perf/40753</guid>
-            <pubDate>Sat, 13 Nov 2021 14:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.27 ~ 2021.11.28]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[온앤오프（ONF）2021 LIVE CONTACT :: CODE ＃1. [REVERSE] (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
@@ -207,14 +185,6 @@
             <pubDate>Wed, 17 Nov 2021 05:38:43 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.18 ~ 2021.12.19]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211117/20211117-40818.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[희노애락 (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40753</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40753</guid>
-            <pubDate>Sat, 13 Nov 2021 14:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.27 ~ 2021.11.28]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211111/20211111-40753.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[온앤오프（ONF）2021 LIVE CONTACT :: CODE ＃1. [REVERSE] (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>

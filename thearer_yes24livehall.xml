@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/Theater/2497</id>
     <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
-    <updated>2021-11-28T05:39:05.390Z</updated>
+    <updated>2021-11-28T17:43:20.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/Theater/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[희노애락]]></title>
-        <id>http://ticket.yes24.com/Perf/40753</id>
-        <link href="http://ticket.yes24.com/Perf/40753"/>
-        <updated>2021-11-13T14:20:49.188Z</updated>
-        <content type="html"><![CDATA[2021.11.27 ~ 2021.11.28]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[온앤오프（ONF）2021 LIVE CONTACT :: CODE ＃1. [REVERSE]]]></title>
         <id>http://ticket.yes24.com/Perf/40677</id>
