@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 17:44:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 05:36:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -179,11 +179,26 @@
             <content:encoded><![CDATA[2021.12.24 ~ 2021.12.26]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[MC몽 20주년 콘서트: 이제부터 시작이다! (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/40924</link>
+            <guid>http://ticket.yes24.com/Perf/40924</guid>
+            <pubDate>Tue, 30 Nov 2021 05:36:16 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.30 ~ 2021.12.31]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL） (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
             <link>http://ticket.yes24.com/Perf/36086</link>
             <guid>http://ticket.yes24.com/Perf/36086</guid>
             <pubDate>Sat, 13 Nov 2021 14:20:49 GMT</pubDate>
             <content:encoded><![CDATA[2021.04.22 ~ 2022.04.24]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MC몽 20주년 콘서트: 이제부터 시작이다! (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40924</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40924</guid>
+            <pubDate>Tue, 30 Nov 2021 05:36:26 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.30 ~ 2021.12.31]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211129/20211129-40924.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2F 단독 콘서트 〈If〉 (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
