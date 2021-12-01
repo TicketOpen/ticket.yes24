@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/Theater/3237</id>
     <title>YES24 티켓 ─ 장소 ─ KSPO DOME(올림픽체조경기장)</title>
-    <updated>2021-11-30T17:42:41.934Z</updated>
+    <updated>2021-12-01T05:38:13.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/Theater/favicon.ico</icon>
     <entry>
@@ -18,12 +18,5 @@
         <link href="http://ticket.yes24.com/Perf/40801"/>
         <updated>2021-11-22T05:36:57.411Z</updated>
         <content type="html"><![CDATA[2021.12.17 ~ 2021.12.19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TWICE 4TH WORLD TOUR ‘Ⅲ’]]></title>
-        <id>http://ticket.yes24.com/Perf/40901</id>
-        <link href="http://ticket.yes24.com/Perf/40901"/>
-        <updated>2021-11-29T17:44:13.177Z</updated>
-        <content type="html"><![CDATA[2021.12.24 ~ 2021.12.26]]></content>
     </entry>
 </feed>
