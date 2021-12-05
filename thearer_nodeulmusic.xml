@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/Theater/3607</id>
     <title>YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스</title>
-    <updated>2021-12-05T05:40:20.574Z</updated>
+    <updated>2021-12-05T17:43:58.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/Theater/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[데이브레이크 ‘× ÷ SHOW 시즌 3’ : 3배의 즐거움을 함께 나누자]]></title>
-        <id>http://ticket.yes24.com/Perf/40791</id>
-        <link href="http://ticket.yes24.com/Perf/40791"/>
-        <updated>2021-11-16T05:36:14.781Z</updated>
-        <content type="html"><![CDATA[2021.12.03 ~ 2021.12.05]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[wave to earth 단독공연 [wave field 0.1]]]></title>
         <id>http://ticket.yes24.com/Perf/40841</id>
