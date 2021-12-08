@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 17:47:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 05:38:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,11 +88,26 @@
             <content:encoded><![CDATA[2021.12.25 ~ 2021.12.25]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2021 SUPER SPEED MUSIC FESTIVAL (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
+            <link>http://ticket.yes24.com/Perf/41011</link>
+            <guid>http://ticket.yes24.com/Perf/41011</guid>
+            <pubDate>Wed, 08 Dec 2021 05:37:46 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.26 ~ 2021.12.26]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2021 너드커넥션 연말 콘서트〈신세기 명화극장〉 (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
             <link>http://ticket.yes24.com/Perf/40890</link>
             <guid>http://ticket.yes24.com/Perf/40890</guid>
             <pubDate>Wed, 24 Nov 2021 17:45:17 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.31 ~ 2022.01.02]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2021 SUPER SPEED MUSIC FESTIVAL (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41011</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41011</guid>
+            <pubDate>Wed, 08 Dec 2021 05:37:55 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.26 ~ 2021.12.26]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202112/20211208/20211208-41011.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안녕하신가영 EP 발매기념 단독 콘서트 ‘가장（ ）자리에서’ (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
