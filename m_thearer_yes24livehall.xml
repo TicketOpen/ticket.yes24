@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 05:38:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 17:45:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,7 +44,7 @@
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=36086</link>
             <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=36086</guid>
             <pubDate>Sat, 13 Nov 2021 14:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[2021.04.22 ~ 2022.04.24]]></content:encoded>
+            <content:encoded><![CDATA[2022.04.22 ~ 2022.04.24]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211101/20211101-36086.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
