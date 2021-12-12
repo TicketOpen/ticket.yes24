@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/Theater/3237</id>
     <title>YES24 티켓 ─ 장소 ─ KSPO DOME(올림픽체조경기장)</title>
-    <updated>2021-12-12T05:36:56.673Z</updated>
+    <updated>2021-12-12T17:45:25.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/Theater/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[쇼미더머니10 콘서트:THE CLIMAX]]></title>
-        <id>http://ticket.yes24.com/Perf/40733</id>
-        <link href="http://ticket.yes24.com/Perf/40733"/>
-        <updated>2021-11-13T13:44:22.128Z</updated>
-        <content type="html"><![CDATA[2021.12.11 ~ 2021.12.12]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[서울] 나훈아 AGAIN 테스형]]></title>
         <id>http://ticket.yes24.com/Perf/40801</id>

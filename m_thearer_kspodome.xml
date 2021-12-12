@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 05:36:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 17:45:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Mon, 22 Nov 2021 05:37:06 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.17 ~ 2021.12.19]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211118/20211118-40801.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼미더머니10 콘서트:THE CLIMAX]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40733</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40733</guid>
-            <pubDate>Sat, 13 Nov 2021 13:44:37 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.11 ~ 2021.12.12]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211110/20211110-40733.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
