@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 05:37:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 17:44:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Wed, 01 Dec 2021 17:47:21 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.25 ~ 2021.12.26]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211129/20211129-40901.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[서울] 나훈아 AGAIN 테스형]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40801</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40801</guid>
-            <pubDate>Mon, 22 Nov 2021 05:37:06 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.17 ~ 2021.12.19]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211118/20211118-40801.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
