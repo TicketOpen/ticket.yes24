@@ -4,17 +4,9 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 05:38:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 17:47:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2021 SUPER SPEED MUSIC FESTIVAL]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41011</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41011</guid>
-            <pubDate>Wed, 08 Dec 2021 05:37:55 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.26 ~ 2021.12.26]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202112/20211208/20211208-41011.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[안녕하신가영 EP 발매기념 단독 콘서트 ‘가장（ ）자리에서’]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40910</link>

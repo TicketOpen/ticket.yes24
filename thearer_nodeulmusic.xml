@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/Theater/3607</id>
     <title>YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스</title>
-    <updated>2021-12-21T05:38:27.164Z</updated>
+    <updated>2021-12-21T17:47:54.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/Theater/favicon.ico</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="http://ticket.yes24.com/Perf/40907"/>
         <updated>2021-11-25T05:37:08.418Z</updated>
         <content type="html"><![CDATA[2021.12.25 ~ 2021.12.25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 SUPER SPEED MUSIC FESTIVAL]]></title>
-        <id>http://ticket.yes24.com/Perf/41011</id>
-        <link href="http://ticket.yes24.com/Perf/41011"/>
-        <updated>2021-12-08T05:37:46.456Z</updated>
-        <content type="html"><![CDATA[2021.12.26 ~ 2021.12.26]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021 너드커넥션 연말 콘서트〈신세기 명화극장〉]]></title>
