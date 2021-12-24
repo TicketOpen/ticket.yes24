@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 05:38:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 17:45:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,13 +23,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211129/20211129-40901.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[안녕하신가영 EP 발매기념 단독 콘서트 ‘가장（ ）자리에서’ (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
-            <link>http://ticket.yes24.com/Perf/40910</link>
-            <guid>http://ticket.yes24.com/Perf/40910</guid>
-            <pubDate>Thu, 25 Nov 2021 17:43:52 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.24 ~ 2021.12.24]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[기프트 연말콘서트 [GIFT VILLAGE] (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
             <link>http://ticket.yes24.com/Perf/40907</link>
             <guid>http://ticket.yes24.com/Perf/40907</guid>
@@ -42,14 +35,6 @@
             <guid>http://ticket.yes24.com/Perf/40890</guid>
             <pubDate>Wed, 24 Nov 2021 17:45:17 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.31 ~ 2022.01.02]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[안녕하신가영 EP 발매기념 단독 콘서트 ‘가장（ ）자리에서’ (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40910</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40910</guid>
-            <pubDate>Thu, 25 Nov 2021 17:44:02 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.24 ~ 2021.12.24]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211125/20211125-40910.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기프트 연말콘서트 [GIFT VILLAGE] (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>

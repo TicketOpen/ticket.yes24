@@ -4,17 +4,9 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 05:38:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 17:45:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[안녕하신가영 EP 발매기념 단독 콘서트 ‘가장（ ）자리에서’]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40910</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40910</guid>
-            <pubDate>Thu, 25 Nov 2021 17:44:02 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.24 ~ 2021.12.24]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211125/20211125-40910.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[기프트 연말콘서트 [GIFT VILLAGE]]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40907</link>
