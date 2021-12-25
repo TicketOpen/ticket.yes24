@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Dec 2021 05:37:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 17:44:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,26 +23,11 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211129/20211129-40901.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기프트 연말콘서트 [GIFT VILLAGE] (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
-            <link>http://ticket.yes24.com/Perf/40907</link>
-            <guid>http://ticket.yes24.com/Perf/40907</guid>
-            <pubDate>Thu, 25 Nov 2021 05:37:08 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.25 ~ 2021.12.25]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2021 너드커넥션 연말 콘서트〈신세기 명화극장〉 (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
             <link>http://ticket.yes24.com/Perf/40890</link>
             <guid>http://ticket.yes24.com/Perf/40890</guid>
             <pubDate>Wed, 24 Nov 2021 17:45:17 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.31 ~ 2022.01.02]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[기프트 연말콘서트 [GIFT VILLAGE] (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40907</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40907</guid>
-            <pubDate>Thu, 25 Nov 2021 05:37:14 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.25 ~ 2021.12.25]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211125/20211125-40907.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 너드커넥션 연말 콘서트〈신세기 명화극장〉 (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
