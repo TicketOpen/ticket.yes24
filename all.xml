@@ -4,23 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Dec 2021 05:40:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Dec 2021 17:45:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[TWICE 4TH WORLD TOUR ‘Ⅲ’ (YES24 티켓 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
-            <link>http://ticket.yes24.com/Perf/40901</link>
-            <guid>http://ticket.yes24.com/Perf/40901</guid>
-            <pubDate>Wed, 01 Dec 2021 17:47:14 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.25 ~ 2021.12.26]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TWICE 4TH WORLD TOUR ‘Ⅲ’ (YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40901</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40901</guid>
-            <pubDate>Wed, 01 Dec 2021 17:47:21 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.25 ~ 2021.12.26]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211129/20211129-40901.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
+            <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
+            <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
+            <pubDate>Sun, 26 Dec 2021 17:44:39 GMT</pubDate>
+            <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021 너드커넥션 연말 콘서트〈신세기 명화극장〉 (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
@@ -36,13 +28,6 @@
             <pubDate>Wed, 24 Nov 2021 17:45:24 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.31 ~ 2022.01.02]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211124/20211124-40890.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2F 단독 콘서트 〈If〉 (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://ticket.yes24.com/Perf/40888</link>
-            <guid>http://ticket.yes24.com/Perf/40888</guid>
-            <pubDate>Thu, 25 Nov 2021 05:37:22 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.24 ~ 2021.12.26]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[MC몽 20주년 콘서트: 이제부터 시작이다! (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
@@ -65,14 +50,6 @@
             <pubDate>Tue, 30 Nov 2021 05:36:26 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.30 ~ 2021.12.31]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202112/20211216/20211216-40924.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2F 단독 콘서트 〈If〉 (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40888</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40888</guid>
-            <pubDate>Thu, 25 Nov 2021 05:37:29 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.24 ~ 2021.12.26]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211124/20211124-40888.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL） (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>

@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/Theater/2497</id>
     <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
-    <updated>2021-12-26T05:40:04.929Z</updated>
+    <updated>2021-12-26T17:45:11.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/Theater/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[2F 단독 콘서트 〈If〉]]></title>
-        <id>http://ticket.yes24.com/Perf/40888</id>
-        <link href="http://ticket.yes24.com/Perf/40888"/>
-        <updated>2021-11-25T05:37:22.995Z</updated>
-        <content type="html"><![CDATA[2021.12.24 ~ 2021.12.26]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[MC몽 20주년 콘서트: 이제부터 시작이다!]]></title>
         <id>http://ticket.yes24.com/Perf/40924</id>
