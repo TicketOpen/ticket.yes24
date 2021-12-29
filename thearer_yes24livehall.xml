@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/Theater/2497</id>
     <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
-    <updated>2021-12-28T17:46:17.266Z</updated>
+    <updated>2021-12-29T05:39:40.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/Theater/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/Perf/40924"/>
         <updated>2021-11-30T05:36:16.827Z</updated>
         <content type="html"><![CDATA[2021.12.30 ~ 2021.12.31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[래원 X 이영지 콘서트 [꽃말 : 매듭]]]></title>
+        <id>http://ticket.yes24.com/Perf/41126</id>
+        <link href="http://ticket.yes24.com/Perf/41126"/>
+        <updated>2021-12-29T05:39:32.696Z</updated>
+        <content type="html"><![CDATA[2022.01.04 ~ 2022.01.04]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL）]]></title>
