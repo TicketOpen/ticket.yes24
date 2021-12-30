@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/Theater/2497</id>
     <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
-    <updated>2021-12-29T17:46:15.264Z</updated>
+    <updated>2021-12-30T05:38:25.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/Theater/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://ticket.yes24.com/Perf/41126"/>
         <updated>2021-12-29T05:39:32.696Z</updated>
         <content type="html"><![CDATA[2022.01.04 ~ 2022.01.04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 KIM JAE JOONG J-PARTY]]></title>
+        <id>http://ticket.yes24.com/Perf/41144</id>
+        <link href="http://ticket.yes24.com/Perf/41144"/>
+        <updated>2021-12-30T05:38:17.918Z</updated>
+        <content type="html"><![CDATA[2022.01.23 ~ 2022.01.23]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL）]]></title>
