@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 05:38:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 16:25:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41126</guid>
             <pubDate>Wed, 29 Dec 2021 05:39:39 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.04 ~ 2022.01.04]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202112/20211228/20211228-41126.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202112/20211230/20211230-41126.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MC몽 20주년 콘서트: 이제부터 시작이다!]]></title>
