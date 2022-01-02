@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 05:37:43 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2021 너드커넥션 연말 콘서트〈신세기 명화극장〉]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40890</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=40890</guid>
-            <pubDate>Wed, 24 Nov 2021 17:45:24 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.31 ~ 2022.01.02]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211124/20211124-40890.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://m.ticket.yes24.com/Perf/Detail/TheaterPerfList.aspx?IdTheater=3607</id>
+    <title>YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스</title>
+    <updated>2022-01-02T17:46:26.471Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>http://m.ticket.yes24.com/Perf/Detail/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[0]]></title>
+        <id>http://m.ticket.yes24.com/Perf/Detail/TheaterPerfList.aspx?IdTheater=3607</id>
+        <link href="http://m.ticket.yes24.com/Perf/Detail/TheaterPerfList.aspx?IdTheater=3607"/>
+        <updated>2022-01-02T17:46:07.866Z</updated>
+        <content type="html"><![CDATA[예매 가능한 공연이 없습니다.]]></content>
+    </entry>
+</feed>
