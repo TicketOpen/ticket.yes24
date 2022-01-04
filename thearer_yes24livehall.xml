@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/Theater/2497</id>
     <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
-    <updated>2022-01-04T05:38:19.654Z</updated>
+    <updated>2022-01-04T17:47:49.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/Theater/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[래원 X 이영지 콘서트 [꽃말 : 매듭]]]></title>
-        <id>http://ticket.yes24.com/Perf/41126</id>
-        <link href="http://ticket.yes24.com/Perf/41126"/>
-        <updated>2021-12-29T05:39:32.696Z</updated>
-        <content type="html"><![CDATA[2022.01.04 ~ 2022.01.04]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[2022 KIM JAE JOONG J-PARTY]]></title>
         <id>http://ticket.yes24.com/Perf/41144</id>

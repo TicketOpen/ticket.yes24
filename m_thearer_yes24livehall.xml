@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 05:38:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 17:47:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 30 Dec 2021 05:38:24 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.23 ~ 2022.01.23]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202112/20211230/20211230-41144.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[래원 X 이영지 콘서트 [꽃말 : 매듭]]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41126</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41126</guid>
-            <pubDate>Wed, 29 Dec 2021 05:39:39 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.04 ~ 2022.01.04]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202112/20211230/20211230-41126.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL）]]></title>
