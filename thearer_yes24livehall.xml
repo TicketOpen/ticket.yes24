@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/Theater/2497</id>
     <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
-    <updated>2022-01-06T17:49:34.917Z</updated>
+    <updated>2022-01-07T05:39:09.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/Theater/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/Perf/41144"/>
         <updated>2021-12-30T05:38:17.918Z</updated>
         <content type="html"><![CDATA[2022.01.23 ~ 2022.01.23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ITZY The 1st Fan Meeting “있지 믿지, 날자!”]]></title>
+        <id>http://ticket.yes24.com/Perf/41160</id>
+        <link href="http://ticket.yes24.com/Perf/41160"/>
+        <updated>2022-01-07T05:39:02.883Z</updated>
+        <content type="html"><![CDATA[2022.02.19 ~ 2022.02.19]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL）]]></title>
