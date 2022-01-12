@@ -4,15 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 05:39:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 05:40:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Tue, 11 Jan 2022 05:38:37 GMT</pubDate>
+            <pubDate>Wed, 12 Jan 2022 05:40:19 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[HAPPY KAI-DAY PARTY (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
+            <link>http://ticket.yes24.com/Perf/41202</link>
+            <guid>http://ticket.yes24.com/Perf/41202</guid>
+            <pubDate>Wed, 12 Jan 2022 05:40:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.15 ~ 2022.01.15]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[버둥 1집 발매 쇼케이스 [해가, 꽃이, 그리고 우리가!] (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
@@ -20,6 +27,14 @@
             <guid>http://ticket.yes24.com/Perf/41167</guid>
             <pubDate>Tue, 04 Jan 2022 05:37:58 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.21 ~ 2022.01.21]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[HAPPY KAI-DAY PARTY (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41202</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41202</guid>
+            <pubDate>Wed, 12 Jan 2022 05:40:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.15 ~ 2022.01.15]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202201/20220111/20220111-41202_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[버둥 1집 발매 쇼케이스 [해가, 꽃이, 그리고 우리가!] (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
@@ -37,13 +52,6 @@
             <content:encoded><![CDATA[2022.01.23 ~ 2022.01.23]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 N.Flying LIVE ‘＆CON’ - Man on the Moon (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://ticket.yes24.com/Perf/41161</link>
-            <guid>http://ticket.yes24.com/Perf/41161</guid>
-            <pubDate>Fri, 07 Jan 2022 17:48:08 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.05 ~ 2022.02.06]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[ITZY The 1st Fan Meeting “있지 믿지, 날자!” (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
             <link>http://ticket.yes24.com/Perf/41160</link>
             <guid>http://ticket.yes24.com/Perf/41160</guid>
@@ -56,14 +64,6 @@
             <guid>http://ticket.yes24.com/Perf/36086</guid>
             <pubDate>Sat, 13 Nov 2021 14:20:49 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.22 ~ 2022.04.24]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022 N.Flying LIVE ‘＆CON’ - Man on the Moon (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41161</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41161</guid>
-            <pubDate>Fri, 07 Jan 2022 17:48:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.05 ~ 2022.02.06]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202201/20220107/20220107-41161.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ITZY The 1st Fan Meeting “있지 믿지, 날자!” (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
