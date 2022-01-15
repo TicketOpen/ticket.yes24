@@ -4,17 +4,9 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 05:40:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 17:46:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[HAPPY KAI-DAY PARTY]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41202</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41202</guid>
-            <pubDate>Wed, 12 Jan 2022 05:40:35 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.15 ~ 2022.01.15]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202201/20220111/20220111-41202_1.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[버둥 1집 발매 쇼케이스 [해가, 꽃이, 그리고 우리가!]]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41167</link>
