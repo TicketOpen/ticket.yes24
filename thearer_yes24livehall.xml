@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/Theater/2497</id>
     <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
-    <updated>2022-01-16T17:46:35.994Z</updated>
+    <updated>2022-01-17T05:41:42.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/Theater/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/Perf/41144"/>
         <updated>2021-12-30T05:38:17.918Z</updated>
         <content type="html"><![CDATA[2022.01.23 ~ 2022.01.23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PENTAGON 12th Mini Album [IN:VITE U] LAUNCHING SHOW]]></title>
+        <id>http://ticket.yes24.com/Perf/41245</id>
+        <link href="http://ticket.yes24.com/Perf/41245"/>
+        <updated>2022-01-17T05:41:34.247Z</updated>
+        <content type="html"><![CDATA[2022.01.24 ~ 2022.01.24]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ITZY The 1st Fan Meeting “있지 믿지, 날자!”]]></title>
