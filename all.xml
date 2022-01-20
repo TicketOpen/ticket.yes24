@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 05:36:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 17:41:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Thu, 20 Jan 2022 05:35:36 GMT</pubDate>
+            <pubDate>Thu, 20 Jan 2022 17:40:37 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
         </item>
         <item>
@@ -20,6 +20,7 @@
             <guid>http://ticket.yes24.com/Perf/41167</guid>
             <pubDate>Tue, 04 Jan 2022 05:37:58 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.21 ~ 2022.01.21]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202201/20220104/20220104-41167.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[버둥 1집 발매 쇼케이스 [해가, 꽃이, 그리고 우리가!] (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
@@ -35,6 +36,7 @@
             <guid>http://ticket.yes24.com/Perf/41144</guid>
             <pubDate>Thu, 30 Dec 2021 05:38:17 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.23 ~ 2022.01.23]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202201/20220111/20220111-41144.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[PENTAGON 12th Mini Album [IN:VITE U] LAUNCHING SHOW (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
@@ -42,6 +44,15 @@
             <guid>http://ticket.yes24.com/Perf/41245</guid>
             <pubDate>Mon, 17 Jan 2022 05:41:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.24 ~ 2022.01.24]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202201/20220117/20220117-41245.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 N.Flying LIVE ‘＆CON’ - Man on the Moon (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/41161</link>
+            <guid>http://ticket.yes24.com/Perf/41161</guid>
+            <pubDate>Thu, 20 Jan 2022 17:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.05 ~ 2022.02.06]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202201/20220107/20220107-41161.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[ITZY The 1st Fan Meeting “있지 믿지, 날자!” (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
@@ -49,6 +60,7 @@
             <guid>http://ticket.yes24.com/Perf/41160</guid>
             <pubDate>Fri, 07 Jan 2022 05:39:02 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.19 ~ 2022.02.19]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202201/20220105/20220105-41160_2.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL） (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
@@ -56,6 +68,7 @@
             <guid>http://ticket.yes24.com/Perf/36086</guid>
             <pubDate>Sat, 13 Nov 2021 14:20:49 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.22 ~ 2022.04.24]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211101/20211101-36086.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[PENTAGON 12th Mini Album [IN:VITE U] LAUNCHING SHOW (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
@@ -64,6 +77,14 @@
             <pubDate>Mon, 17 Jan 2022 05:41:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.24 ~ 2022.01.24]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202201/20220117/20220117-41245.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 N.Flying LIVE ‘＆CON’ - Man on the Moon (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41161</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41161</guid>
+            <pubDate>Thu, 20 Jan 2022 17:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.05 ~ 2022.02.06]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202201/20220107/20220107-41161.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ITZY The 1st Fan Meeting “있지 믿지, 날자!” (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
