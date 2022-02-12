@@ -1,51 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 05:36:17 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2022 ONEWE 2nd Live Concert ‘O! NEW E!volution Ⅱ’]]></title>
-            <link>http://ticket.yes24.com/Perf/41282</link>
-            <guid>http://ticket.yes24.com/Perf/41282</guid>
-            <pubDate>Tue, 25 Jan 2022 05:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.12 ~ 2022.02.12]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202201/20220125/20220125-41282.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
-        <item>
-            <title><![CDATA[ITZY The 1st Fan Meeting “있지 믿지, 날자!”]]></title>
-            <link>http://ticket.yes24.com/Perf/41160</link>
-            <guid>http://ticket.yes24.com/Perf/41160</guid>
-            <pubDate>Fri, 07 Jan 2022 05:39:02 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.19 ~ 2022.02.19]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202201/20220105/20220105-41160_2.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
-        <item>
-            <title><![CDATA[URBAN WINTER LIFE]]></title>
-            <link>http://ticket.yes24.com/Perf/41433</link>
-            <guid>http://ticket.yes24.com/Perf/41433</guid>
-            <pubDate>Fri, 11 Feb 2022 05:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.20 ~ 2022.02.20]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202202/20220211/20220211-41433.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 P1Harmony LIVE TOUR [P1ustage H : PEACE]]]></title>
-            <link>http://ticket.yes24.com/Perf/41336</link>
-            <guid>http://ticket.yes24.com/Perf/41336</guid>
-            <pubDate>Wed, 26 Jan 2022 17:40:27 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.26 ~ 2022.02.26]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202201/20220126/20220126-41336.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL）]]></title>
-            <link>http://ticket.yes24.com/Perf/36086</link>
-            <guid>http://ticket.yes24.com/Perf/36086</guid>
-            <pubDate>Sat, 13 Nov 2021 14:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.22 ~ 2022.04.24]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211101/20211101-36086.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://ticket.yes24.com/Theater/2497</id>
+    <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
+    <updated>2022-02-12T17:36:26.126Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>http://ticket.yes24.com/Theater/favicon.ico</icon>
+</feed>
