@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://ticket.yes24.com/Theater/3607</id>
-    <title>YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스</title>
-    <updated>2022-02-12T17:36:26.125Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://ticket.yes24.com/Theater/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 13 Feb 2022 05:36:25 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 CAMPING MUSIC FESTIVAL]]></title>
+            <link>http://ticket.yes24.com/Perf/41317</link>
+            <guid>http://ticket.yes24.com/Perf/41317</guid>
+            <pubDate>Sun, 13 Feb 2022 05:36:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.26 ~ 2022.02.27]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202201/20220126/20220126-41317.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[Connect with LUCY]]></title>
+            <link>http://ticket.yes24.com/Perf/41425</link>
+            <guid>http://ticket.yes24.com/Perf/41425</guid>
+            <pubDate>Sun, 13 Feb 2022 05:36:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.05 ~ 2022.03.05]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202202/20220209/20220209-41425.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[Connect with The Whales]]></title>
+            <link>http://ticket.yes24.com/Perf/41426</link>
+            <guid>http://ticket.yes24.com/Perf/41426</guid>
+            <pubDate>Sun, 13 Feb 2022 05:36:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.06 ~ 2022.03.06]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202202/20220209/20220209-41426.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+    </channel>
+</rss>
