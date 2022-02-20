@@ -4,17 +4,9 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 05:36:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 17:37:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[URBAN WINTER LIFE]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41433</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41433</guid>
-            <pubDate>Sun, 13 Feb 2022 05:36:24 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.20 ~ 2022.02.20]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202202/20220211/20220211-41433.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2022 P1Harmony LIVE TOUR [P1ustage H : PEACE]]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41336</link>
