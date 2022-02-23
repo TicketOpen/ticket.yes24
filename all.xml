@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 05:36:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 17:39:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Wed, 23 Feb 2022 05:36:18 GMT</pubDate>
+            <pubDate>Wed, 23 Feb 2022 17:38:42 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
         </item>
         <item>
@@ -53,6 +53,22 @@
             <pubDate>Wed, 16 Feb 2022 17:38:33 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.11 ~ 2022.03.13]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202202/20220216/20220216-41473.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[[Syn. THE.Size] 실리카겔 단독공연 2022 (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
+            <link>http://ticket.yes24.com/Perf/41556</link>
+            <guid>http://ticket.yes24.com/Perf/41556</guid>
+            <pubDate>Wed, 23 Feb 2022 17:38:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.18 ~ 2022.03.20]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202202/20220223/20220223-41556.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[[Syn. THE.Size] 실리카겔 단독공연 2022 (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41556</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41556</guid>
+            <pubDate>Wed, 23 Feb 2022 17:39:01 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.18 ~ 2022.03.20]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202202/20220223/20220223-41556.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 윤지영 단독공연 [나의 정원에서] (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
@@ -103,12 +119,28 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202201/20220126/20220126-41336.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
+            <title><![CDATA[WONPIL SOLO CONCERT ‘Pilmography’ (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/41446</link>
+            <guid>http://ticket.yes24.com/Perf/41446</guid>
+            <pubDate>Wed, 23 Feb 2022 17:39:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.11 ~ 2022.03.13]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202202/20220218/20220218-41446.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
             <title><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL） (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
             <link>http://ticket.yes24.com/Perf/36086</link>
             <guid>http://ticket.yes24.com/Perf/36086</guid>
             <pubDate>Sun, 13 Feb 2022 05:36:17 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.22 ~ 2022.04.24]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211101/20211101-36086.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[WONPIL SOLO CONCERT ‘Pilmography’ (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41446</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41446</guid>
+            <pubDate>Wed, 23 Feb 2022 17:39:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.11 ~ 2022.03.13]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202202/20220218/20220218-41446.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 P1Harmony LIVE TOUR [P1ustage H : PEACE] (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
