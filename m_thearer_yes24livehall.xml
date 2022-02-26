@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Feb 2022 05:37:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 17:36:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Wed, 23 Feb 2022 17:39:20 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.11 ~ 2022.03.13]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202202/20220218/20220218-41446.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 P1Harmony LIVE TOUR [P1ustage H : PEACE]]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41336</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41336</guid>
-            <pubDate>Sun, 13 Feb 2022 05:36:24 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.26 ~ 2022.02.26]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202201/20220126/20220126-41336.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL）]]></title>
