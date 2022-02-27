@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 05:37:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 17:37:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Sun, 13 Feb 2022 05:36:10 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.05 ~ 2022.03.05]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202202/20220209/20220209-41425.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 CAMPING MUSIC FESTIVAL]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41317</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41317</guid>
-            <pubDate>Sun, 13 Feb 2022 05:36:10 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.26 ~ 2022.02.27]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202201/20220126/20220126-41317.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
