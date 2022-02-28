@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 05:38:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 17:39:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Mon, 28 Feb 2022 05:38:26 GMT</pubDate>
+            <pubDate>Mon, 28 Feb 2022 17:38:55 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
         </item>
         <item>
@@ -111,6 +111,14 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202202/20220225/20220225-41524.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
+            <title><![CDATA[ITZY The 1st Fan Meeting “있지 믿지, 날자!” (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/41160</link>
+            <guid>http://ticket.yes24.com/Perf/41160</guid>
+            <pubDate>Mon, 28 Feb 2022 17:39:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.09 ~ 2022.04.09]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202202/20220221/20220221-41160.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
             <title><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL） (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
             <link>http://ticket.yes24.com/Perf/36086</link>
             <guid>http://ticket.yes24.com/Perf/36086</guid>
@@ -133,6 +141,14 @@
             <pubDate>Wed, 23 Feb 2022 17:39:20 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.11 ~ 2022.03.13]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202202/20220218/20220218-41446.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ITZY The 1st Fan Meeting “있지 믿지, 날자!” (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41160</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41160</guid>
+            <pubDate>Mon, 28 Feb 2022 17:39:29 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.09 ~ 2022.04.09]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202202/20220221/20220221-41160.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL） (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
