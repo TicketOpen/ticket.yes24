@@ -4,23 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 05:37:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 17:38:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Sat, 05 Mar 2022 05:36:36 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2022 17:37:25 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Connect with LUCY (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
-            <link>http://ticket.yes24.com/Perf/41425</link>
-            <guid>http://ticket.yes24.com/Perf/41425</guid>
-            <pubDate>Sun, 13 Feb 2022 05:36:04 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.05 ~ 2022.03.05]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202202/20220209/20220209-41425.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[Connect with The Whales (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
@@ -85,14 +77,6 @@
             <pubDate>Sun, 13 Feb 2022 05:36:10 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.06 ~ 2022.03.06]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202202/20220209/20220209-41426.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Connect with LUCY (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41425</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41425</guid>
-            <pubDate>Sun, 13 Feb 2022 05:36:10 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.05 ~ 2022.03.05]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202202/20220209/20220209-41425.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[WONPIL SOLO CONCERT ‘Pilmography’ (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
