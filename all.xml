@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 05:36:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 17:39:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Thu, 10 Mar 2022 05:36:04 GMT</pubDate>
+            <pubDate>Thu, 10 Mar 2022 17:38:49 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
         </item>
         <item>
@@ -29,6 +29,22 @@
             <pubDate>Wed, 23 Feb 2022 17:38:51 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.18 ~ 2022.03.20]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202202/20220223/20220223-41556.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 손호영 생일 다솜모임〈물오름달 스물엿새〉 (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
+            <link>http://ticket.yes24.com/Perf/41664</link>
+            <guid>http://ticket.yes24.com/Perf/41664</guid>
+            <pubDate>Thu, 10 Mar 2022 17:38:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.26 ~ 2022.03.26]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202203/20220310/20220310-41664.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 손호영 생일 다솜모임〈물오름달 스물엿새〉 (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41664</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41664</guid>
+            <pubDate>Thu, 10 Mar 2022 17:39:02 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.26 ~ 2022.03.26]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202203/20220310/20220310-41664.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Syn. THE.Size] 실리카겔 단독공연 2022 (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
