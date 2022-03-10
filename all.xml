@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 17:39:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 05:36:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Wed, 09 Mar 2022 17:38:58 GMT</pubDate>
+            <pubDate>Thu, 10 Mar 2022 05:36:04 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
         </item>
         <item>
@@ -71,6 +71,14 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202203/20220303/20220303-41601.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
+            <title><![CDATA[2022 ROCKET PUNCH 2ND FANMEETING Punch Time2 (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/41646</link>
+            <guid>http://ticket.yes24.com/Perf/41646</guid>
+            <pubDate>Thu, 10 Mar 2022 05:36:29 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.02 ~ 2022.04.03]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202203/20220310/20220310-41646.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
             <title><![CDATA[ITZY The 1st Fan Meeting “있지 믿지, 날자!” (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
             <link>http://ticket.yes24.com/Perf/41160</link>
             <guid>http://ticket.yes24.com/Perf/41160</guid>
@@ -85,6 +93,14 @@
             <pubDate>Sun, 13 Feb 2022 05:36:17 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.22 ~ 2022.04.24]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211101/20211101-36086.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 ROCKET PUNCH 2ND FANMEETING Punch Time2 (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41646</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41646</guid>
+            <pubDate>Thu, 10 Mar 2022 05:36:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.02 ~ 2022.04.03]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202203/20220310/20220310-41646.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CRACKSHOT 9th Anniversary Concert (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
