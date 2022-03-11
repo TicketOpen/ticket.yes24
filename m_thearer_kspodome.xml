@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Perf/Detail/TheaterPerfList.aspx?IdTheater=3237</id>
     <title>YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장)</title>
-    <updated>2022-03-11T05:38:16.649Z</updated>
+    <updated>2022-03-11T17:39:31.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Perf/Detail/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>http://m.ticket.yes24.com/Perf/Detail/TheaterPerfList.aspx?IdTheater=3237</id>
         <link href="http://m.ticket.yes24.com/Perf/Detail/TheaterPerfList.aspx?IdTheater=3237"/>
-        <updated>2022-03-11T05:37:19.092Z</updated>
+        <updated>2022-03-11T17:39:03.789Z</updated>
         <content type="html"><![CDATA[예매 가능한 공연이 없습니다.]]></content>
     </entry>
 </feed>
