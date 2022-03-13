@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 05:49:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 17:38:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Fri, 25 Feb 2022 17:39:09 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.26 ~ 2022.03.26]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202202/20220225/20220225-41524.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WONPIL SOLO CONCERT ‘Pilmography’]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41446</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41446</guid>
-            <pubDate>Wed, 23 Feb 2022 17:39:20 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.11 ~ 2022.03.13]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202202/20220218/20220218-41446.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ITZY The 1st Fan Meeting “있지 믿지, 날자!”]]></title>
