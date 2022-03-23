@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 17:52:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 05:38:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Tue, 22 Mar 2022 17:51:44 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2022 05:37:37 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
         </item>
         <item>
@@ -29,14 +29,6 @@
             <pubDate>Thu, 10 Mar 2022 17:39:02 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.26 ~ 2022.03.26]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202203/20220310/20220310-41664.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KIMSEJEONG 1st FANMEETING ‘세정이의 세상 일기’ (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://ticket.yes24.com/Perf/41524</link>
-            <guid>http://ticket.yes24.com/Perf/41524</guid>
-            <pubDate>Fri, 25 Feb 2022 17:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.26 ~ 2022.03.26]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202202/20220225/20220225-41524.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[CRACKSHOT 9th Anniversary Concert (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
@@ -101,14 +93,6 @@
             <pubDate>Thu, 03 Mar 2022 05:37:33 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.27 ~ 2022.03.27]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202203/20220303/20220303-41601.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KIMSEJEONG 1st FANMEETING ‘세정이의 세상 일기’ (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41524</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41524</guid>
-            <pubDate>Fri, 25 Feb 2022 17:39:09 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.26 ~ 2022.03.26]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202202/20220225/20220225-41524.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ITZY The 1st Fan Meeting “있지 믿지, 날자!” (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
