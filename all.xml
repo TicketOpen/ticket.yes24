@@ -4,22 +4,31 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 17:39:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 05:37:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Sun, 03 Apr 2022 17:38:50 GMT</pubDate>
+            <pubDate>Mon, 04 Apr 2022 05:37:11 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
-            <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
-            <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Sun, 03 Apr 2022 17:39:05 GMT</pubDate>
-            <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
+            <title><![CDATA[SURL（설）concert  ‘preview of us’ (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
+            <link>http://ticket.yes24.com/Perf/41851</link>
+            <guid>http://ticket.yes24.com/Perf/41851</guid>
+            <pubDate>Mon, 04 Apr 2022 05:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.22 ~ 2022.04.24]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202203/20220331/20220331-41851.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[SURL（설）concert  ‘preview of us’ (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41851</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41851</guid>
+            <pubDate>Mon, 04 Apr 2022 05:37:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.22 ~ 2022.04.24]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202203/20220331/20220331-41851.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ITZY The 1st Fan Meeting “있지 믿지, 날자!” (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
@@ -50,8 +59,8 @@
             <link>http://ticket.yes24.com/Perf/36086</link>
             <guid>http://ticket.yes24.com/Perf/36086</guid>
             <pubDate>Sun, 13 Feb 2022 05:36:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.22 ~ 2022.04.24]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211101/20211101-36086.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+            <content:encoded><![CDATA[2022.08.26 ~ 2022.08.28]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202204/20220404/20220404-36086.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[Dreamcatcher 2nd Album [Apocalypse : Save us] Mini Concert (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
@@ -82,8 +91,8 @@
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=36086</link>
             <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=36086</guid>
             <pubDate>Sun, 13 Feb 2022 05:36:24 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.22 ~ 2022.04.24]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202111/20211101/20211101-36086.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2022.08.26 ~ 2022.08.28]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202204/20220404/20220404-36086.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
