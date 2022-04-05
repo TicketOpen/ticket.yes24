@@ -4,9 +4,17 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 17:43:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 05:37:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 WHEE IN FANMEETING [D-DAY]]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41853</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41853</guid>
+            <pubDate>Tue, 05 Apr 2022 05:37:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.17 ~ 2022.04.17]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202204/20220404/20220404-41853.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dreamcatcher 2nd Album [Apocalypse : Save us] Mini Concert]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41800</link>
