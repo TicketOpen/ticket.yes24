@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 05:37:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 17:39:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Fri, 25 Mar 2022 17:40:45 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.12 ~ 2022.04.12]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202203/20220325/20220325-41800.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wonderwall Stage Presents ‘Aux To Wonder’ Vol.1]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41732</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41732</guid>
-            <pubDate>Thu, 17 Mar 2022 05:37:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.10 ~ 2022.04.10]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202203/20220317/20220317-41732_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KIMSEJEONG 1st FANMEETING ‘세정이의 세상 일기’]]></title>
