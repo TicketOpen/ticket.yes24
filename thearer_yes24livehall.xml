@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 17:46:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 05:37:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 08 Apr 2022 05:37:42 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.29 ~ 2022.05.01]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202204/20220408/20220408-41904.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 RAVI CONCERT [REVOIR]]]></title>
+            <link>http://ticket.yes24.com/Perf/41926</link>
+            <guid>http://ticket.yes24.com/Perf/41926</guid>
+            <pubDate>Wed, 13 Apr 2022 05:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.07 ~ 2022.05.08]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202204/20220412/20220412-41926.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL）]]></title>

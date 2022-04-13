@@ -4,9 +4,17 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 17:46:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 05:37:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 RAVI CONCERT [REVOIR]]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41926</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41926</guid>
+            <pubDate>Wed, 13 Apr 2022 05:37:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.07 ~ 2022.05.08]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202204/20220412/20220412-41926.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 황치열 청음회 [우리. 봄]]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41904</link>
