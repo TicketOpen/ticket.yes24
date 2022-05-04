@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 17:49:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 05:41:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 15 Apr 2022 17:42:25 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.15 ~ 2022.05.15]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202204/20220415/20220415-41953_1.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[Festival SUM 2022]]></title>
+            <link>http://ticket.yes24.com/Perf/42144</link>
+            <guid>http://ticket.yes24.com/Perf/42144</guid>
+            <pubDate>Wed, 04 May 2022 05:41:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.04 ~ 2022.06.05]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202205/20220504/20220504-42144_1.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL）]]></title>
