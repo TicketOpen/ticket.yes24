@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 05:38:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 17:41:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Sun, 08 May 2022 05:38:06 GMT</pubDate>
+            <pubDate>Sun, 08 May 2022 17:41:01 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
         </item>
         <item>
@@ -29,14 +29,6 @@
             <pubDate>Mon, 18 Apr 2022 05:38:38 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.14 ~ 2022.05.15]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202204/20220418/20220418-41993.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 RAVI CONCERT [REVOIR] (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://ticket.yes24.com/Perf/41926</link>
-            <guid>http://ticket.yes24.com/Perf/41926</guid>
-            <pubDate>Wed, 13 Apr 2022 05:37:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.07 ~ 2022.05.08]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202204/20220412/20220412-41926.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[2022 ONEWE 2nd Live Concert ‘O! NEW E!volution Ⅱ’ ENCORE (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
@@ -77,14 +69,6 @@
             <pubDate>Fri, 15 Apr 2022 17:42:31 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.15 ~ 2022.05.15]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202204/20220415/20220415-41953_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 RAVI CONCERT [REVOIR] (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41926</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41926</guid>
-            <pubDate>Wed, 13 Apr 2022 05:37:57 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.07 ~ 2022.05.08]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202204/20220412/20220412-41926.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL） (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
