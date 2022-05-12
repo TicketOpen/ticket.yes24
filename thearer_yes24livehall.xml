@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 17:49:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 05:45:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Mon, 09 May 2022 17:46:29 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.18 ~ 2022.06.19]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202205/20220510/20220510-42170.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 차학연 팬미팅 [돌아온 A! 차학연]]]></title>
+            <link>http://ticket.yes24.com/Perf/42193</link>
+            <guid>http://ticket.yes24.com/Perf/42193</guid>
+            <pubDate>Thu, 12 May 2022 05:45:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.25 ~ 2022.06.25]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202205/20220512/20220512-42193_1.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL）]]></title>
