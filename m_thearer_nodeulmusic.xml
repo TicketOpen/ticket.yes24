@@ -4,16 +4,24 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 17:47:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2022 02:52:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[2022 오존 단독공연 [Homecoming]]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41993</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41993</guid>
-            <pubDate>Mon, 18 Apr 2022 05:38:38 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.14 ~ 2022.05.15]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202204/20220418/20220418-41993.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[2022 KIMHYUNJOONG CONCERT ‘COUNTDOWN 3 seconds left’]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42285</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42285</guid>
+            <pubDate>Sun, 22 May 2022 02:52:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.11 ~ 2022.06.11]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202205/20220519/20220519-42285.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소란 여름 콘서트 ‘Surf!’]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42259</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42259</guid>
+            <pubDate>Sun, 22 May 2022 02:52:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.24 ~ 2022.06.26]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202205/20220518/20220518-42259.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

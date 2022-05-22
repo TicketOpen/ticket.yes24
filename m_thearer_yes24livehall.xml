@@ -4,9 +4,33 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 17:47:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2022 02:52:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 JUNG YONG HWA FAN MEETING [도화지]]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42276</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42276</guid>
+            <pubDate>Sun, 22 May 2022 02:52:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.11 ~ 2022.06.11]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202205/20220518/20220518-42276.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[METABUMZ HIPHOP FESTIVAL]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42248</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42248</guid>
+            <pubDate>Sun, 22 May 2022 02:52:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.01 ~ 2022.06.01]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202205/20220517/20220517-42248.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시드 내한공연 [Syd Live in Seoul]]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42246</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42246</guid>
+            <pubDate>Sun, 22 May 2022 02:52:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.31 ~ 2022.07.31]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202205/20220516/20220516-42246.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 차학연 팬미팅 [돌아온 A! 차학연]]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42193</link>
@@ -38,14 +62,6 @@
             <pubDate>Wed, 04 May 2022 05:41:10 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.04 ~ 2022.06.05]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202205/20220504/20220504-42144_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 ONEWE 2nd Live Concert ‘O! NEW E!volution Ⅱ’ ENCORE]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41953</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=41953</guid>
-            <pubDate>Fri, 15 Apr 2022 17:42:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.15 ~ 2022.05.15]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202204/20220415/20220415-41953_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL）]]></title>
