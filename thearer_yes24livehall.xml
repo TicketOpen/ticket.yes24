@@ -4,17 +4,9 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 05:42:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 17:43:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[스물두번째 더유니온]]></title>
-            <link>http://ticket.yes24.com/Perf/42177</link>
-            <guid>http://ticket.yes24.com/Perf/42177</guid>
-            <pubDate>Wed, 11 May 2022 05:46:39 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.29 ~ 2022.05.29]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202205/20220510/20220510-42177.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
         <item>
             <title><![CDATA[METABUMZ HIPHOP FESTIVAL]]></title>
             <link>http://ticket.yes24.com/Perf/42248</link>

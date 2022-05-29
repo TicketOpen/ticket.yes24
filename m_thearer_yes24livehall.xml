@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 05:42:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 17:43:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Thu, 12 May 2022 05:45:33 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.25 ~ 2022.06.25]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202205/20220512/20220512-42193_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스물두번째 더유니온]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42177</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42177</guid>
-            <pubDate>Wed, 11 May 2022 05:46:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.29 ~ 2022.05.29]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202205/20220510/20220510-42177.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 노을 콘서트 [Cafe 유월]]]></title>
