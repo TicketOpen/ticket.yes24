@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 17:43:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 05:45:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Sun, 29 May 2022 17:42:56 GMT</pubDate>
+            <pubDate>Mon, 30 May 2022 05:44:49 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
         </item>
         <item>
@@ -21,6 +21,14 @@
             <pubDate>Tue, 24 May 2022 17:46:45 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.05 ~ 2022.06.05]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202205/20220524/20220524-42335.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 KIMHYUNJOONG CONCERT ‘COUNTDOWN 3 seconds left’ - 2022.6.11 (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
+            <link>http://ticket.yes24.com/Perf/42285</link>
+            <guid>http://ticket.yes24.com/Perf/42285</guid>
+            <pubDate>Mon, 30 May 2022 05:44:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.11 ~ 2022.06.11]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202205/20220519/20220519-42285.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[소란 여름 콘서트 ‘Surf!’ (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
@@ -37,6 +45,14 @@
             <pubDate>Tue, 24 May 2022 17:46:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.05 ~ 2022.06.05]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202205/20220524/20220524-42335.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 KIMHYUNJOONG CONCERT ‘COUNTDOWN 3 seconds left’ - 2022.6.11 (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42285</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42285</guid>
+            <pubDate>Mon, 30 May 2022 05:45:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.11 ~ 2022.06.11]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202205/20220519/20220519-42285.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소란 여름 콘서트 ‘Surf!’ (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
