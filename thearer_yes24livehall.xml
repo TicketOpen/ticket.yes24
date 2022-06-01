@@ -4,17 +4,9 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 06:01:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 17:48:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[METABUMZ HIPHOP FESTIVAL]]></title>
-            <link>http://ticket.yes24.com/Perf/42248</link>
-            <guid>http://ticket.yes24.com/Perf/42248</guid>
-            <pubDate>Sun, 22 May 2022 02:52:18 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.01 ~ 2022.06.01]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202205/20220517/20220517-42248.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
         <item>
             <title><![CDATA[Festival SUM 2022]]></title>
             <link>http://ticket.yes24.com/Perf/42144</link>
