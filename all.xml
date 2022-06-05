@@ -4,23 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jun 2022 05:37:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 17:37:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Sun, 05 Jun 2022 05:36:55 GMT</pubDate>
+            <pubDate>Sun, 05 Jun 2022 17:37:00 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[까브라더쑈 (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
-            <link>http://ticket.yes24.com/Perf/42335</link>
-            <guid>http://ticket.yes24.com/Perf/42335</guid>
-            <pubDate>Tue, 24 May 2022 17:46:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.05 ~ 2022.06.05]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202205/20220524/20220524-42335.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[2022 KIMHYUNJOONG CONCERT ‘COUNTDOWN 3 seconds left’ - 2022.6.11 (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
@@ -39,14 +31,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202205/20220518/20220518-42259.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
-            <title><![CDATA[까브라더쑈 (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42335</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42335</guid>
-            <pubDate>Tue, 24 May 2022 17:46:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.05 ~ 2022.06.05]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202205/20220524/20220524-42335.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022 KIMHYUNJOONG CONCERT ‘COUNTDOWN 3 seconds left’ - 2022.6.11 (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42285</link>
             <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42285</guid>
@@ -61,14 +45,6 @@
             <pubDate>Sun, 22 May 2022 02:52:08 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.24 ~ 2022.06.26]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202205/20220518/20220518-42259.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Festival SUM 2022 (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://ticket.yes24.com/Perf/42144</link>
-            <guid>http://ticket.yes24.com/Perf/42144</guid>
-            <pubDate>Wed, 04 May 2022 05:41:03 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.04 ~ 2022.06.05]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202205/20220504/20220504-42144_1.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[2022 JUNG YONG HWA FAN MEETING [도화지] (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
@@ -157,14 +133,6 @@
             <pubDate>Mon, 09 May 2022 17:46:36 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.18 ~ 2022.06.19]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202205/20220510/20220510-42170.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Festival SUM 2022 (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42144</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42144</guid>
-            <pubDate>Wed, 04 May 2022 05:41:10 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.04 ~ 2022.06.05]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202205/20220504/20220504-42144_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL） (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
