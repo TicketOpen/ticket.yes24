@@ -4,9 +4,17 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 17:43:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 05:38:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LA POEM 1st FAN MEETING [2022 라포엠 비전 선포식]]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42445</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42445</guid>
+            <pubDate>Wed, 08 Jun 2022 05:38:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.02 ~ 2022.07.03]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220608/20220608-42445.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[WOOSUNG - MOTH EP SHOWCASE LIVE FROM SEOUL SPECIAL STAGE THE ROSE]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42417</link>
