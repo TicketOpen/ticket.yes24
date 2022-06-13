@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 17:37:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 05:41:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sun, 22 May 2022 02:51:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.24 ~ 2022.06.26]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202205/20220518/20220518-42259.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[[you.will.knovv] THE DIE IS CASTTT; Capsule live 6]]></title>
+            <link>http://ticket.yes24.com/Perf/42531</link>
+            <guid>http://ticket.yes24.com/Perf/42531</guid>
+            <pubDate>Mon, 13 Jun 2022 05:41:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.02 ~ 2022.07.02]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220613/20220613-42531_2.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[Christian Kuria Live in Seoul]]></title>

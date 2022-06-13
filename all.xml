@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 17:37:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 05:41:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Sun, 12 Jun 2022 17:37:18 GMT</pubDate>
+            <pubDate>Mon, 13 Jun 2022 05:41:16 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
         </item>
         <item>
@@ -23,12 +23,28 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202205/20220518/20220518-42259.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
+            <title><![CDATA[[you.will.knovv] THE DIE IS CASTTT; Capsule live 6 (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
+            <link>http://ticket.yes24.com/Perf/42531</link>
+            <guid>http://ticket.yes24.com/Perf/42531</guid>
+            <pubDate>Mon, 13 Jun 2022 05:41:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.02 ~ 2022.07.02]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220613/20220613-42531_2.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
             <title><![CDATA[Christian Kuria Live in Seoul (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
             <link>http://ticket.yes24.com/Perf/42442</link>
             <guid>http://ticket.yes24.com/Perf/42442</guid>
             <pubDate>Tue, 07 Jun 2022 05:37:17 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.19 ~ 2022.07.19]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220603/20220603-42442.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[[you.will.knovv] THE DIE IS CASTTT; Capsule live 6 (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42531</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42531</guid>
+            <pubDate>Mon, 13 Jun 2022 05:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.02 ~ 2022.07.02]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220613/20220613-42531_2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Christian Kuria Live in Seoul (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
@@ -79,6 +95,14 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220608/20220608-42445.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
+            <title><![CDATA[Light Up Concert  [라이트 업 콘서트] (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/42535</link>
+            <guid>http://ticket.yes24.com/Perf/42535</guid>
+            <pubDate>Mon, 13 Jun 2022 05:41:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.09 ~ 2022.07.09]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220613/20220613-42535.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
             <title><![CDATA[시드 내한공연 [Syd Live in Seoul] (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
             <link>http://ticket.yes24.com/Perf/42246</link>
             <guid>http://ticket.yes24.com/Perf/42246</guid>
@@ -93,6 +117,14 @@
             <pubDate>Sun, 13 Feb 2022 05:36:17 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.26 ~ 2022.08.28]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202204/20220404/20220404-36086.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[Light Up Concert  [라이트 업 콘서트] (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42535</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42535</guid>
+            <pubDate>Mon, 13 Jun 2022 05:41:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.09 ~ 2022.07.09]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220613/20220613-42535.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LA POEM 1st FAN MEETING [2022 라포엠 비전 선포식] (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
