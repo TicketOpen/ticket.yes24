@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 05:49:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 17:42:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Tue, 14 Jun 2022 05:48:44 GMT</pubDate>
+            <pubDate>Tue, 14 Jun 2022 17:41:25 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
         </item>
         <item>
@@ -23,7 +23,7 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202205/20220518/20220518-42259.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
-            <title><![CDATA[[you.will.knovv] THE DIE IS CASTTT; Capsule live 6 (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
+            <title><![CDATA[[유윌노우] THE DIE IS CASTTT; Capsule live 6 (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
             <link>http://ticket.yes24.com/Perf/42531</link>
             <guid>http://ticket.yes24.com/Perf/42531</guid>
             <pubDate>Mon, 13 Jun 2022 05:41:25 GMT</pubDate>
@@ -39,7 +39,7 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220603/20220603-42442.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
-            <title><![CDATA[[you.will.knovv] THE DIE IS CASTTT; Capsule live 6 (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
+            <title><![CDATA[[유윌노우] THE DIE IS CASTTT; Capsule live 6 (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42531</link>
             <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42531</guid>
             <pubDate>Mon, 13 Jun 2022 05:41:33 GMT</pubDate>
