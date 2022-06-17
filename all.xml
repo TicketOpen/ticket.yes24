@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 05:40:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 17:43:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Fri, 17 Jun 2022 05:39:53 GMT</pubDate>
+            <pubDate>Fri, 17 Jun 2022 17:42:30 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
         </item>
         <item>
@@ -108,7 +108,7 @@
             <guid>http://ticket.yes24.com/Perf/42543</guid>
             <pubDate>Thu, 16 Jun 2022 05:39:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.30 ~ 2022.07.30]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220616/20220616-42543.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220617/20220617-42543.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[시드 내한공연 [Syd Live in Seoul] (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
@@ -132,7 +132,7 @@
             <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42543</guid>
             <pubDate>Thu, 16 Jun 2022 05:40:09 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.30 ~ 2022.07.30]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220616/20220616-42543.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220617/20220617-42543.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Light Up Concert  [라이트 업 콘서트] (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
