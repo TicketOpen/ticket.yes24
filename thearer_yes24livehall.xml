@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 05:41:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 17:51:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sun, 19 Jun 2022 05:38:26 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.09 ~ 2022.07.09]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220613/20220613-42535.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 이성열 팬미팅 [The loeYeol]]]></title>
+            <link>http://ticket.yes24.com/Perf/42661</link>
+            <guid>http://ticket.yes24.com/Perf/42661</guid>
+            <pubDate>Tue, 21 Jun 2022 17:50:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.23 ~ 2022.07.23]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220621/20220621-42661.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[2022 서인국 팬미팅 ‘하(夏)루 : HEART ＆ LOVE’]]></title>
