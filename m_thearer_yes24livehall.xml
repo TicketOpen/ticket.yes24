@@ -4,9 +4,17 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 17:49:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 05:41:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대카드 슈퍼콘서트 26 빌리 아일리시（Billie Eilish）]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42673</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42673</guid>
+            <pubDate>Thu, 23 Jun 2022 05:41:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.15 ~ 2022.08.15]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220623/20220623-42673.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 이성열 팬미팅 [The loeYeol]]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42661</link>

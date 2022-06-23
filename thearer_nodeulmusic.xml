@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 17:49:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 05:41:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Sun, 19 Jun 2022 05:38:07 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.19 ~ 2022.07.19]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220603/20220603-42442.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 아이비 콘서트 : NEXT PAGE]]></title>
+            <link>http://ticket.yes24.com/Perf/42672</link>
+            <guid>http://ticket.yes24.com/Perf/42672</guid>
+            <pubDate>Thu, 23 Jun 2022 05:41:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.13 ~ 2022.08.14]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220623/20220623-42672_1.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
     </channel>
 </rss>
