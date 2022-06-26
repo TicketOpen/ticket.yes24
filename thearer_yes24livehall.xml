@@ -1,75 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 05:38:19 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[WOOSUNG - MOTH EP SHOWCASE LIVE FROM SEOUL SPECIAL STAGE THE ROSE]]></title>
-            <link>http://ticket.yes24.com/Perf/42417</link>
-            <guid>http://ticket.yes24.com/Perf/42417</guid>
-            <pubDate>Sun, 19 Jun 2022 05:38:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.26 ~ 2022.06.26]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202205/20220531/20220531-42417.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
-        <item>
-            <title><![CDATA[LA POEM 1st FAN MEETING [2022 라포엠 비전 선포식]]]></title>
-            <link>http://ticket.yes24.com/Perf/42445</link>
-            <guid>http://ticket.yes24.com/Perf/42445</guid>
-            <pubDate>Sun, 19 Jun 2022 05:38:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.02 ~ 2022.07.03]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220608/20220608-42445.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
-        <item>
-            <title><![CDATA[Light Up Concert  [라이트 업 콘서트]]]></title>
-            <link>http://ticket.yes24.com/Perf/42535</link>
-            <guid>http://ticket.yes24.com/Perf/42535</guid>
-            <pubDate>Sun, 19 Jun 2022 05:38:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.09 ~ 2022.07.09]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220613/20220613-42535.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 이성열 팬미팅 [The loeYeol]]]></title>
-            <link>http://ticket.yes24.com/Perf/42661</link>
-            <guid>http://ticket.yes24.com/Perf/42661</guid>
-            <pubDate>Tue, 21 Jun 2022 17:50:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.23 ~ 2022.07.23]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220621/20220621-42661.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 서인국 팬미팅 ‘하(夏)루 : HEART ＆ LOVE’]]></title>
-            <link>http://ticket.yes24.com/Perf/42543</link>
-            <guid>http://ticket.yes24.com/Perf/42543</guid>
-            <pubDate>Sun, 19 Jun 2022 05:38:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.30 ~ 2022.07.30]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220617/20220617-42543.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
-        <item>
-            <title><![CDATA[시드 내한공연 [Syd Live in Seoul]]]></title>
-            <link>http://ticket.yes24.com/Perf/42246</link>
-            <guid>http://ticket.yes24.com/Perf/42246</guid>
-            <pubDate>Sun, 19 Jun 2022 05:38:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.31 ~ 2022.07.31]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202205/20220516/20220516-42246.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
-        <item>
-            <title><![CDATA[현대카드 슈퍼콘서트 26 빌리 아일리시（Billie Eilish）]]></title>
-            <link>http://ticket.yes24.com/Perf/42673</link>
-            <guid>http://ticket.yes24.com/Perf/42673</guid>
-            <pubDate>Thu, 23 Jun 2022 05:41:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.15 ~ 2022.08.15]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220623/20220623-42673_1.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL）]]></title>
-            <link>http://ticket.yes24.com/Perf/36086</link>
-            <guid>http://ticket.yes24.com/Perf/36086</guid>
-            <pubDate>Sun, 19 Jun 2022 05:38:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.26 ~ 2022.08.28]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202204/20220404/20220404-36086.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://ticket.yes24.com/Theater/2497</id>
+    <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
+    <updated>2022-06-26T17:38:48.113Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>http://ticket.yes24.com/Theater/favicon.ico</icon>
+</feed>
