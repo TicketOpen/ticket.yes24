@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장)</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 17:44:33 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[서울] 2022년 ‘Dream 55’ 나훈아 콘서트]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42630</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42630</guid>
-            <pubDate>Mon, 27 Jun 2022 17:43:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.20 ~ 2022.08.21]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220627/20220627-42630.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://m.ticket.yes24.com/Perf/Detail/TheaterPerfList.aspx?IdTheater=3237</id>
+    <title>YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장)</title>
+    <updated>2022-06-28T05:45:23.278Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>http://m.ticket.yes24.com/Perf/Detail/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[0]]></title>
+        <id>http://m.ticket.yes24.com/Perf/Detail/TheaterPerfList.aspx?IdTheater=3237</id>
+        <link href="http://m.ticket.yes24.com/Perf/Detail/TheaterPerfList.aspx?IdTheater=3237"/>
+        <updated>2022-06-28T05:44:45.107Z</updated>
+        <content type="html"><![CDATA[예매 가능한 공연이 없습니다.]]></content>
+    </entry>
+</feed>
