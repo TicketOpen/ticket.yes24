@@ -4,9 +4,33 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 17:44:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 05:45:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JK김동욱 X 커먼그라운드 콘서트 with 손에손에 뮤직 페스타]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42761</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42761</guid>
+            <pubDate>Wed, 29 Jun 2022 05:44:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.29 ~ 2022.07.29]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220629/20220629-42761.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[몽니 정규 5집 ‘Firmament’ 발매 기념 콘서트 with 손에손에 뮤직 페스타]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42760</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42760</guid>
+            <pubDate>Wed, 29 Jun 2022 05:44:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.28 ~ 2022.07.28]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220629/20220629-42760.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산이 X 아웃사이더 X 가리온 콘서트 with 손에손에 뮤직 페스타]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42758</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42758</guid>
+            <pubDate>Wed, 29 Jun 2022 05:44:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.27 ~ 2022.07.27]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220629/20220629-42758.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 아이비 콘서트 : NEXT PAGE]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42672</link>

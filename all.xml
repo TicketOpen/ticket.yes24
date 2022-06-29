@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 17:44:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 05:45:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Tue, 28 Jun 2022 17:44:04 GMT</pubDate>
+            <pubDate>Wed, 29 Jun 2022 05:44:33 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
         </item>
         <item>
@@ -47,12 +47,60 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220603/20220603-42442.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
+            <title><![CDATA[산이 X 아웃사이더 X 가리온 콘서트 with 손에손에 뮤직 페스타 (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
+            <link>http://ticket.yes24.com/Perf/42758</link>
+            <guid>http://ticket.yes24.com/Perf/42758</guid>
+            <pubDate>Wed, 29 Jun 2022 05:44:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.27 ~ 2022.07.27]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220629/20220629-42758.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[몽니 정규 5집 ‘Firmament’ 발매 기념 콘서트 with 손에손에 뮤직 페스타 (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
+            <link>http://ticket.yes24.com/Perf/42760</link>
+            <guid>http://ticket.yes24.com/Perf/42760</guid>
+            <pubDate>Wed, 29 Jun 2022 05:44:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.28 ~ 2022.07.28]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220629/20220629-42760.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[JK김동욱 X 커먼그라운드 콘서트 with 손에손에 뮤직 페스타 (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
+            <link>http://ticket.yes24.com/Perf/42761</link>
+            <guid>http://ticket.yes24.com/Perf/42761</guid>
+            <pubDate>Wed, 29 Jun 2022 05:44:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.29 ~ 2022.07.29]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220629/20220629-42761.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
             <title><![CDATA[2022 아이비 콘서트 : NEXT PAGE (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
             <link>http://ticket.yes24.com/Perf/42672</link>
             <guid>http://ticket.yes24.com/Perf/42672</guid>
             <pubDate>Mon, 27 Jun 2022 05:43:24 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.13 ~ 2022.08.14]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220623/20220623-42672_2.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[JK김동욱 X 커먼그라운드 콘서트 with 손에손에 뮤직 페스타 (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42761</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42761</guid>
+            <pubDate>Wed, 29 Jun 2022 05:44:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.29 ~ 2022.07.29]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220629/20220629-42761.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[몽니 정규 5집 ‘Firmament’ 발매 기념 콘서트 with 손에손에 뮤직 페스타 (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42760</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42760</guid>
+            <pubDate>Wed, 29 Jun 2022 05:44:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.28 ~ 2022.07.28]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220629/20220629-42760.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산이 X 아웃사이더 X 가리온 콘서트 with 손에손에 뮤직 페스타 (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42758</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42758</guid>
+            <pubDate>Wed, 29 Jun 2022 05:44:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.27 ~ 2022.07.27]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220629/20220629-42758.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 아이비 콘서트 : NEXT PAGE (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
