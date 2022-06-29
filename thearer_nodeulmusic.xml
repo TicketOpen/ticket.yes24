@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 05:45:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 18:01:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,22 @@
             <pubDate>Wed, 29 Jun 2022 05:44:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.29 ~ 2022.07.29]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220629/20220629-42761.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[휘성 X 커먼그라운드 콘서트 with 손에손에 뮤직 페스타]]></title>
+            <link>http://ticket.yes24.com/Perf/42762</link>
+            <guid>http://ticket.yes24.com/Perf/42762</guid>
+            <pubDate>Wed, 29 Jun 2022 18:01:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.30 ~ 2022.07.30]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220629/20220629-42762.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[김준수 X 두번째달 콘서트 with 손에손에 뮤직 페스타]]></title>
+            <link>http://ticket.yes24.com/Perf/42763</link>
+            <guid>http://ticket.yes24.com/Perf/42763</guid>
+            <pubDate>Wed, 29 Jun 2022 18:01:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.31 ~ 2022.07.31]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220629/20220629-42763.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[2022 아이비 콘서트 : NEXT PAGE]]></title>
