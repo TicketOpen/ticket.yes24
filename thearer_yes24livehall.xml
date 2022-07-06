@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 05:46:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 17:44:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Mon, 27 Jun 2022 05:43:42 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.31 ~ 2022.07.31]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202205/20220516/20220516-42246.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 N.Flying LIVE ‘＆CON2’]]></title>
+            <link>http://ticket.yes24.com/Perf/42807</link>
+            <guid>http://ticket.yes24.com/Perf/42807</guid>
+            <pubDate>Wed, 06 Jul 2022 17:44:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.06 ~ 2022.08.07]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220706/20220706-42807.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL）]]></title>
