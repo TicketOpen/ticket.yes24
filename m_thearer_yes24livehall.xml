@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 05:37:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 17:40:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Mon, 27 Jun 2022 05:43:52 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.30 ~ 2022.07.30]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220617/20220617-42543.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Light Up Concert  [라이트 업 콘서트]]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42535</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42535</guid>
-            <pubDate>Mon, 27 Jun 2022 05:43:52 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.09 ~ 2022.07.09]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220613/20220613-42535.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시드 내한공연 [Syd Live in Seoul]]]></title>
