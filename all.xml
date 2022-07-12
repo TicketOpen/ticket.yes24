@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 05:51:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 17:42:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,12 +208,44 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220706/20220706-42807.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
+            <title><![CDATA[2022 VIVIZ FANMEETING [THE 1ST VIVID DAYZ] (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/42862</link>
+            <guid>http://ticket.yes24.com/Perf/42862</guid>
+            <pubDate>Tue, 12 Jul 2022 17:42:32 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.13 ~ 2022.08.13]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220712/20220712-42862.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
             <title><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL） (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
             <link>http://ticket.yes24.com/Perf/36086</link>
             <guid>http://ticket.yes24.com/Perf/36086</guid>
             <pubDate>Mon, 27 Jun 2022 05:43:42 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.26 ~ 2022.08.28]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202204/20220404/20220404-36086.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[프렙 내한공연 [PREP LIVE IN SEOUL] (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/42872</link>
+            <guid>http://ticket.yes24.com/Perf/42872</guid>
+            <pubDate>Tue, 12 Jul 2022 17:42:32 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.18 ~ 2022.11.18]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220712/20220712-42872.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[프렙 내한공연 [PREP LIVE IN SEOUL] (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42872</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42872</guid>
+            <pubDate>Tue, 12 Jul 2022 17:42:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.18 ~ 2022.11.18]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220712/20220712-42872.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 VIVIZ FANMEETING [THE 1ST VIVID DAYZ] (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42862</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42862</guid>
+            <pubDate>Tue, 12 Jul 2022 17:42:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.13 ~ 2022.08.13]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220712/20220712-42862.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 N.Flying LIVE ‘＆CON2’ (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
