@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 05:41:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 17:46:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
             <pubDate>Thu, 30 Jun 2022 05:42:45 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.20 ~ 2022.08.21]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220627/20220627-42630.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[[해피패밀리] 2022 송골매 전국 투어 콘서트 열망（熱望）- 서울 (YES24 티켓 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
+            <link>http://ticket.yes24.com/Perf/42887</link>
+            <guid>http://ticket.yes24.com/Perf/42887</guid>
+            <pubDate>Wed, 13 Jul 2022 17:45:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.11 ~ 2022.09.12]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220713/20220713-42887.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[[해피패밀리] 2022 송골매 전국 투어 콘서트 열망（熱望）- 서울 (YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42887</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42887</guid>
+            <pubDate>Wed, 13 Jul 2022 17:45:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.11 ~ 2022.09.12]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220713/20220713-42887.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[THE BOYZ WORLD TOUR : THE B-ZONE IN SEOUL ENCORE (YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
