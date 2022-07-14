@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 05:48:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 17:50:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Tue, 12 Jul 2022 17:42:32 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.13 ~ 2022.08.13]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220712/20220712-42862.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[데이브레이크 ‘SUMMER MADNESS 2022 : SPARK’]]></title>
+            <link>http://ticket.yes24.com/Perf/42842</link>
+            <guid>http://ticket.yes24.com/Perf/42842</guid>
+            <pubDate>Thu, 14 Jul 2022 17:50:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.14 ~ 2022.08.15]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220714/20220714-42842.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL）]]></title>
