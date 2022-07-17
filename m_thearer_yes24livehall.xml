@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 05:39:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 17:39:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Wed, 06 Jul 2022 17:44:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.06 ~ 2022.08.07]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220706/20220706-42807.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BAEKHO FAN MEETING 〈BAEKATION〉]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42701</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42701</guid>
-            <pubDate>Mon, 04 Jul 2022 05:47:02 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.15 ~ 2022.07.17]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220704/20220704-42701_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 이성열 팬미팅 [The loeYeol]]]></title>
