@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 17:39:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 05:49:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -264,6 +264,14 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202204/20220404/20220404-36086.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
+            <title><![CDATA[크루앙빈 내한공연 [KHRUANGBIN LIVE IN SEOUL] (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/42883</link>
+            <guid>http://ticket.yes24.com/Perf/42883</guid>
+            <pubDate>Mon, 18 Jul 2022 05:49:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.12 ~ 2022.11.12]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220715/20220715-42883.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
             <title><![CDATA[프렙 내한공연 [PREP LIVE IN SEOUL] (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
             <link>http://ticket.yes24.com/Perf/42872</link>
             <guid>http://ticket.yes24.com/Perf/42872</guid>
@@ -278,6 +286,14 @@
             <pubDate>Fri, 15 Jul 2022 17:47:06 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.20 ~ 2022.08.21]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220715/20220715-42921.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크루앙빈 내한공연 [KHRUANGBIN LIVE IN SEOUL] (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42883</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42883</guid>
+            <pubDate>Mon, 18 Jul 2022 05:49:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.12 ~ 2022.11.12]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220715/20220715-42883.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프렙 내한공연 [PREP LIVE IN SEOUL] (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
