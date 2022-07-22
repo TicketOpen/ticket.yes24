@@ -4,9 +4,17 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 05:46:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 17:47:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샘 핸쇼 내한공연 [Samm Henshaw Live in Seoul]]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42989</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42989</guid>
+            <pubDate>Fri, 22 Jul 2022 17:47:38 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.21 ~ 2022.09.21]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220722/20220722-42989.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최항석과 부기몬스터의 블루스 스토리]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42951</link>

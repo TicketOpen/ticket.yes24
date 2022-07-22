@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 05:46:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 17:47:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Wed, 20 Jul 2022 05:42:48 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.18 ~ 2022.09.18]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220720/20220720-42951.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[샘 핸쇼 내한공연 [Samm Henshaw Live in Seoul]]]></title>
+            <link>http://ticket.yes24.com/Perf/42989</link>
+            <guid>http://ticket.yes24.com/Perf/42989</guid>
+            <pubDate>Fri, 22 Jul 2022 17:47:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.21 ~ 2022.09.21]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220722/20220722-42989.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
     </channel>
 </rss>
