@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 05:40:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 17:41:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Wed, 06 Jul 2022 17:44:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.06 ~ 2022.08.07]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220706/20220706-42807.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 이성열 팬미팅 [The loeYeol]]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42661</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42661</guid>
-            <pubDate>Mon, 27 Jun 2022 05:43:52 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.23 ~ 2022.07.23]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220621/20220621-42661.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[VIP 패키지] 케시 내한공연 [keshi Live in Seoul]]]></title>
