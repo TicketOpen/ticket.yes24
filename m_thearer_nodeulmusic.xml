@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 05:44:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 17:47:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Wed, 29 Jun 2022 05:44:47 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.29 ~ 2022.07.29]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220629/20220629-42761.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몽니 정규 5집 ‘Firmament’ 발매 기념 콘서트 with 손에손에 뮤직 페스타]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42760</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42760</guid>
-            <pubDate>Wed, 29 Jun 2022 05:44:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.28 ~ 2022.07.28]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220629/20220629-42760.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 아이비 콘서트 : NEXT PAGE]]></title>
