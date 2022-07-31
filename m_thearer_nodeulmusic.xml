@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 05:39:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 17:39:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Wed, 20 Jul 2022 05:42:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.16 ~ 2022.08.21]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220720/20220720-42946_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김준수 X 두번째달 콘서트 with 손에손에 뮤직 페스타]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42763</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42763</guid>
-            <pubDate>Wed, 29 Jun 2022 18:01:32 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.31 ~ 2022.07.31]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220629/20220629-42763.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 아이비 콘서트 : NEXT PAGE]]></title>
