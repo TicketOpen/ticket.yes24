@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 05:54:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 17:41:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Tue, 05 Jul 2022 05:40:52 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.05 ~ 2022.08.07]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220705/20220705-42806.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 임영웅 콘서트 [IM HERO] - 서울]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42804</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42804</guid>
+            <pubDate>Wed, 03 Aug 2022 17:41:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.12 ~ 2022.08.14]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220706/20220706-42804.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[서울] 2022년 ‘Dream 55’ 나훈아 콘서트]]></title>
