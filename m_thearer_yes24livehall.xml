@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 05:37:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 17:39:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Thu, 14 Jul 2022 17:50:39 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.14 ~ 2022.08.15]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220714/20220714-42842.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 N.Flying LIVE ‘＆CON2’]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42807</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42807</guid>
-            <pubDate>Wed, 06 Jul 2022 17:44:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.06 ~ 2022.08.07]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220706/20220706-42807.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[VIP 패키지] 케시 내한공연 [keshi Live in Seoul]]]></title>
