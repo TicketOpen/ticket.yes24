@@ -4,9 +4,17 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 17:39:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 05:42:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이어스 앤 이어스 내한공연 [Years＆Years Live in Seoul]]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43105</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43105</guid>
+            <pubDate>Mon, 08 Aug 2022 05:42:07 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.27 ~ 2022.10.27]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202208/20220808/20220808-43105.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 FTISLAND LIVE ‘RE: FTISLAND’]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42921</link>
