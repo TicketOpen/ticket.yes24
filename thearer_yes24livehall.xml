@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 17:44:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 05:43:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Mon, 27 Jun 2022 05:43:42 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.26 ~ 2022.08.28]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202204/20220404/20220404-36086.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[HYOLYN 2022 CONCERT [iCE]]]></title>
+            <link>http://ticket.yes24.com/Perf/43122</link>
+            <guid>http://ticket.yes24.com/Perf/43122</guid>
+            <pubDate>Tue, 09 Aug 2022 05:43:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.03 ~ 2022.09.04]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202208/20220809/20220809-43122.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[이어스 앤 이어스 내한공연 [Years＆Years Live in Seoul]]]></title>
