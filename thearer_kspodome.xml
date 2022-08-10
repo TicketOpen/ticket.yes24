@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ KSPO DOME(올림픽체조경기장)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 17:42:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 05:38:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 30 Jun 2022 05:42:45 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.20 ~ 2022.08.21]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220627/20220627-42630.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 Girls′ Generation Special Event - Long Lasting Love]]></title>
+            <link>http://ticket.yes24.com/Perf/43124</link>
+            <guid>http://ticket.yes24.com/Perf/43124</guid>
+            <pubDate>Wed, 10 Aug 2022 05:38:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.03 ~ 2022.09.03]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202208/20220810/20220810-43124.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[2022 송골매 전국 투어 콘서트 열망（熱望）- 서울]]></title>
