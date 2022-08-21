@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Aug 2022 05:40:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 17:40:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[서울] 2022년 ‘Dream 55’ 나훈아 콘서트 (YES24 티켓 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
-            <link>http://ticket.yes24.com/Perf/42630</link>
-            <guid>http://ticket.yes24.com/Perf/42630</guid>
-            <pubDate>Thu, 30 Jun 2022 05:42:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.20 ~ 2022.08.21]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220627/20220627-42630.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
         <item>
             <title><![CDATA[2022 Girls′ Generation Special Event - Long Lasting Love (YES24 티켓 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
             <link>http://ticket.yes24.com/Perf/43124</link>
@@ -80,22 +72,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220714/20220714-42860.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[서울] 2022년 ‘Dream 55’ 나훈아 콘서트 (YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42630</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42630</guid>
-            <pubDate>Thu, 30 Jun 2022 05:43:28 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.20 ~ 2022.08.21]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202206/20220627/20220627-42630.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10CM Summer Concert [Kwon Jeongyeol] (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
-            <link>http://ticket.yes24.com/Perf/42946</link>
-            <guid>http://ticket.yes24.com/Perf/42946</guid>
-            <pubDate>Wed, 20 Jul 2022 05:42:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.16 ~ 2022.08.21]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220720/20220720-42946_1.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
-        <item>
             <title><![CDATA[TUNE UP STAGE : Dear My Playlist  튠업 스테이지 : 디어 마이 플레이리스트 (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
             <link>http://ticket.yes24.com/Perf/42978</link>
             <guid>http://ticket.yes24.com/Perf/42978</guid>
@@ -158,22 +134,6 @@
             <pubDate>Wed, 20 Jul 2022 05:42:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.18 ~ 2022.09.18]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220729/20220729-42951.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10CM Summer Concert [Kwon Jeongyeol] (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42946</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42946</guid>
-            <pubDate>Wed, 20 Jul 2022 05:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.16 ~ 2022.08.21]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220720/20220720-42946_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 FTISLAND LIVE ‘RE: FTISLAND’ (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://ticket.yes24.com/Perf/42921</link>
-            <guid>http://ticket.yes24.com/Perf/42921</guid>
-            <pubDate>Fri, 15 Jul 2022 17:46:58 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.20 ~ 2022.08.21]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220715/20220715-42921.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL） (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
@@ -262,14 +222,6 @@
             <pubDate>Mon, 08 Aug 2022 05:42:07 GMT</pubDate>
             <content:encoded><![CDATA[2022.10.27 ~ 2022.10.27]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202208/20220808/20220808-43105.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 FTISLAND LIVE ‘RE: FTISLAND’ (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42921</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42921</guid>
-            <pubDate>Fri, 15 Jul 2022 17:47:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.20 ~ 2022.08.21]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220715/20220715-42921.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크루앙빈 내한공연 [KHRUANGBIN LIVE IN SEOUL] (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>

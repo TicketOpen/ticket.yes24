@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Aug 2022 05:40:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 17:40:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Wed, 20 Jul 2022 05:42:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.18 ~ 2022.09.18]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220729/20220729-42951.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10CM Summer Concert [Kwon Jeongyeol]]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42946</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42946</guid>
-            <pubDate>Wed, 20 Jul 2022 05:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.16 ~ 2022.08.21]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220720/20220720-42946_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
