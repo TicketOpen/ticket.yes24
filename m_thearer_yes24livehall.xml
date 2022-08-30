@@ -4,9 +4,25 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 17:45:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 06:38:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 URBAN SUMMER LIFE]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43355</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43355</guid>
+            <pubDate>Tue, 30 Aug 2022 06:38:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.18 ~ 2022.09.18]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202208/20220830/20220830-43355.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 류준열 팬미팅 [JUNYEOL’s HOME]]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43344</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43344</guid>
+            <pubDate>Tue, 30 Aug 2022 06:38:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.25 ~ 2022.09.25]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202208/20220830/20220830-43344.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[핑크스웨츠 내한공연 [Pink Sweat＄Presents Pink Moon]]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43267</link>
