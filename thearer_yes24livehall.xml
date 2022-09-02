@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 06:23:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 17:44:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,7 +37,7 @@
             <guid>http://ticket.yes24.com/Perf/43376</guid>
             <pubDate>Thu, 01 Sep 2022 17:45:11 GMT</pubDate>
             <content:encoded><![CDATA[2022.10.03 ~ 2022.10.03]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202208/20220831/20220831-43376.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202209/20220902/20220902-43376.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[핑크스웨츠 내한공연 [Pink Sweat＄Presents Pink Moon]]]></title>
