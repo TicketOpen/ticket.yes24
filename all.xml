@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 05:52:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 17:41:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Thu, 14 Jul 2022 05:47:53 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.11 ~ 2022.09.12]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220714/20220714-42860.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TUNE UP STAGE : Dear My Playlist  튠업 스테이지 : 디어 마이 플레이리스트 (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
-            <link>http://ticket.yes24.com/Perf/42978</link>
-            <guid>http://ticket.yes24.com/Perf/42978</guid>
-            <pubDate>Mon, 25 Jul 2022 05:46:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.03 ~ 2022.09.04]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220722/20220722-42978.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[always summer (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
@@ -120,28 +112,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220722/20220722-42989.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[TUNE UP STAGE : Dear My Playlist  튠업 스테이지 : 디어 마이 플레이리스트 (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42978</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42978</guid>
-            <pubDate>Mon, 25 Jul 2022 05:46:57 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.03 ~ 2022.09.04]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220722/20220722-42978.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[최항석과 부기몬스터의 블루스 스토리 (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42951</link>
             <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42951</guid>
             <pubDate>Wed, 20 Jul 2022 05:42:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.18 ~ 2022.09.18]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220729/20220729-42951.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HYOLYN 2022 CONCERT [iCE] (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://ticket.yes24.com/Perf/43122</link>
-            <guid>http://ticket.yes24.com/Perf/43122</guid>
-            <pubDate>Tue, 09 Aug 2022 05:43:35 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.03 ~ 2022.09.04]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202208/20220809/20220809-43122.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[2022 URBAN SUMMER LIFE (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
@@ -294,14 +270,6 @@
             <pubDate>Fri, 19 Aug 2022 05:46:26 GMT</pubDate>
             <content:encoded><![CDATA[2022.10.08 ~ 2022.10.08]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202208/20220818/20220818-43180.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HYOLYN 2022 CONCERT [iCE] (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43122</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43122</guid>
-            <pubDate>Tue, 09 Aug 2022 05:43:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.03 ~ 2022.09.04]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202208/20220809/20220809-43122.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이어스 앤 이어스 내한공연 [Years＆Years Live in Seoul] (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>

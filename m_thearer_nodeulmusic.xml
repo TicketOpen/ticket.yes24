@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 05:52:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 17:41:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Fri, 22 Jul 2022 17:47:38 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.21 ~ 2022.09.21]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220722/20220722-42989.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TUNE UP STAGE : Dear My Playlist  튠업 스테이지 : 디어 마이 플레이리스트]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42978</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42978</guid>
-            <pubDate>Mon, 25 Jul 2022 05:46:57 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.03 ~ 2022.09.04]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220722/20220722-42978.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최항석과 부기몬스터의 블루스 스토리]]></title>

@@ -4,17 +4,9 @@
         <title>YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 05:52:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 17:41:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[TUNE UP STAGE : Dear My Playlist  튠업 스테이지 : 디어 마이 플레이리스트]]></title>
-            <link>http://ticket.yes24.com/Perf/42978</link>
-            <guid>http://ticket.yes24.com/Perf/42978</guid>
-            <pubDate>Mon, 25 Jul 2022 05:46:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.03 ~ 2022.09.04]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220722/20220722-42978.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
         <item>
             <title><![CDATA[always summer]]></title>
             <link>http://ticket.yes24.com/Perf/43095</link>
