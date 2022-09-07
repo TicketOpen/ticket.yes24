@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 06:43:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 17:54:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,14 +56,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220714/20220714-42860.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[always summer (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
-            <link>http://ticket.yes24.com/Perf/43095</link>
-            <guid>http://ticket.yes24.com/Perf/43095</guid>
-            <pubDate>Wed, 03 Aug 2022 05:53:58 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.06 ~ 2022.09.07]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202208/20220803/20220803-43095.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
-        <item>
             <title><![CDATA[최항석과 부기몬스터의 블루스 스토리 (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
             <link>http://ticket.yes24.com/Perf/42951</link>
             <guid>http://ticket.yes24.com/Perf/42951</guid>
@@ -94,14 +86,6 @@
             <pubDate>Fri, 02 Sep 2022 17:43:55 GMT</pubDate>
             <content:encoded><![CDATA[2022.10.29 ~ 2022.10.30]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202209/20220902/20220902-43401.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[always summer (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43095</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43095</guid>
-            <pubDate>Wed, 03 Aug 2022 05:54:07 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.06 ~ 2022.09.07]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202208/20220803/20220803-43095.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[샘 핸쇼 내한공연 [Samm Henshaw Live in Seoul] (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
