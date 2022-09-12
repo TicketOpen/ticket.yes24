@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 06:42:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 17:50:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,22 +14,6 @@
             <pubDate>Fri, 19 Aug 2022 17:45:30 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.17 ~ 2022.09.18]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202208/20220810/20220810-43134.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해피패밀리] 2022 송골매 전국 투어 콘서트 열망（熱望）- 서울]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42887</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42887</guid>
-            <pubDate>Wed, 13 Jul 2022 17:45:27 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.11 ~ 2022.09.12]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220714/20220714-42887.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 송골매 전국 투어 콘서트 열망（熱望）- 서울]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42860</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42860</guid>
-            <pubDate>Thu, 14 Jul 2022 05:47:53 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.11 ~ 2022.09.12]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220714/20220714-42860.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
