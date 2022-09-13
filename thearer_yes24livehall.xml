@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 06:40:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 17:51:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 30 Aug 2022 06:37:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.18 ~ 2022.09.18]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202208/20220830/20220830-43355.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[JAY B CONCERT ‘Tape : Press Pause’]]></title>
+            <link>http://ticket.yes24.com/Perf/43480</link>
+            <guid>http://ticket.yes24.com/Perf/43480</guid>
+            <pubDate>Tue, 13 Sep 2022 17:51:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.24 ~ 2022.09.24]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202209/20220908/20220908-43480.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[2022 류준열 팬미팅 [JUNYEOL’s HOME]]]></title>
@@ -46,6 +54,14 @@
             <pubDate>Fri, 19 Aug 2022 05:46:17 GMT</pubDate>
             <content:encoded><![CDATA[2022.10.08 ~ 2022.10.08]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202208/20220818/20220818-43180.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[PARK JIHOON 2022 CONCERT [CLUE]]]></title>
+            <link>http://ticket.yes24.com/Perf/43440</link>
+            <guid>http://ticket.yes24.com/Perf/43440</guid>
+            <pubDate>Tue, 13 Sep 2022 17:51:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.09 ~ 2022.10.10]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202209/20220913/20220913-43440_1.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[이어스 앤 이어스 내한공연 [Years＆Years Live in Seoul]]]></title>
