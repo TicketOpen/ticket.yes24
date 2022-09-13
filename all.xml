@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 17:50:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 06:40:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,6 +152,14 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202209/20220901/20220901-43341.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
+            <title><![CDATA[조니 스팀슨 내한공연（Johnny Stimson Live in Seoul） (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/43483</link>
+            <guid>http://ticket.yes24.com/Perf/43483</guid>
+            <pubDate>Tue, 13 Sep 2022 06:40:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.03 ~ 2022.12.03]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202209/20220913/20220913-43483.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
             <title><![CDATA[케시 내한공연 [keshi Live in Seoul] (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
             <link>http://ticket.yes24.com/Perf/42563</link>
             <guid>http://ticket.yes24.com/Perf/42563</guid>
@@ -166,6 +174,14 @@
             <pubDate>Wed, 20 Jul 2022 05:43:09 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.05 ~ 2022.12.06]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220720/20220720-42617.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[조니 스팀슨 내한공연（Johnny Stimson Live in Seoul） (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43483</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43483</guid>
+            <pubDate>Tue, 13 Sep 2022 06:40:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.03 ~ 2022.12.03]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202209/20220913/20220913-43483.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[서울] 2022 안예은 단독콘서트 [창고대방출] (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>

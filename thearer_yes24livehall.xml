@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 17:50:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 06:40:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Fri, 02 Sep 2022 06:23:20 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.20 ~ 2022.11.20]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202209/20220901/20220901-43341.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[조니 스팀슨 내한공연（Johnny Stimson Live in Seoul）]]></title>
+            <link>http://ticket.yes24.com/Perf/43483</link>
+            <guid>http://ticket.yes24.com/Perf/43483</guid>
+            <pubDate>Tue, 13 Sep 2022 06:40:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.03 ~ 2022.12.03]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202209/20220913/20220913-43483.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[케시 내한공연 [keshi Live in Seoul]]]></title>
