@@ -4,32 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 05:56:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 17:46:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Stray Kids 2nd World Tour “MANIAC” Seoul Special (UNVEIL 11) (YES24 티켓 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
-            <link>http://ticket.yes24.com/Perf/43134</link>
-            <guid>http://ticket.yes24.com/Perf/43134</guid>
-            <pubDate>Fri, 19 Aug 2022 17:45:19 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.17 ~ 2022.09.18]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202208/20220810/20220810-43134.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
-        <item>
-            <title><![CDATA[Stray Kids 2nd World Tour “MANIAC” Seoul Special (UNVEIL 11) (YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43134</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43134</guid>
-            <pubDate>Fri, 19 Aug 2022 17:45:30 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.17 ~ 2022.09.18]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202208/20220810/20220810-43134.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최항석과 부기몬스터의 블루스 스토리 (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
-            <link>http://ticket.yes24.com/Perf/42951</link>
-            <guid>http://ticket.yes24.com/Perf/42951</guid>
-            <pubDate>Wed, 20 Jul 2022 05:42:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.18 ~ 2022.09.18]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220729/20220729-42951.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+            <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
+            <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
+            <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
+            <pubDate>Sun, 18 Sep 2022 17:45:49 GMT</pubDate>
+            <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[샘 핸쇼 내한공연 [Samm Henshaw Live in Seoul] (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
@@ -62,22 +45,6 @@
             <pubDate>Fri, 22 Jul 2022 17:47:38 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.21 ~ 2022.09.21]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220722/20220722-42989.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최항석과 부기몬스터의 블루스 스토리 (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42951</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42951</guid>
-            <pubDate>Wed, 20 Jul 2022 05:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.18 ~ 2022.09.18]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220729/20220729-42951.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 URBAN SUMMER LIFE (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://ticket.yes24.com/Perf/43355</link>
-            <guid>http://ticket.yes24.com/Perf/43355</guid>
-            <pubDate>Tue, 30 Aug 2022 06:37:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.18 ~ 2022.09.18]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202208/20220830/20220830-43355.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[JAY B CONCERT ‘Tape : Press Pause’ (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
@@ -222,14 +189,6 @@
             <pubDate>Thu, 01 Sep 2022 17:45:20 GMT</pubDate>
             <content:encoded><![CDATA[2022.10.03 ~ 2022.10.03]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202209/20220902/20220902-43376.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 URBAN SUMMER LIFE (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43355</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43355</guid>
-            <pubDate>Tue, 30 Aug 2022 06:38:09 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.18 ~ 2022.09.18]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202208/20220830/20220830-43355.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 류준열 팬미팅 [JUNYEOL’s HOME] (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
