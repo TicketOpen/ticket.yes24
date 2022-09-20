@@ -1,27 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 06:34:17 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2022 다린 콘서트 Orb:]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43401</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43401</guid>
-            <pubDate>Fri, 02 Sep 2022 17:43:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022.10.29 ~ 2022.10.30]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202209/20220902/20220902-43401.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샘 핸쇼 내한공연 [Samm Henshaw Live in Seoul]]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42989</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42989</guid>
-            <pubDate>Fri, 22 Jul 2022 17:47:38 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.21 ~ 2022.09.21]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220722/20220722-42989.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://m.ticket.yes24.com/Perf/Detail/TheaterPerfList.aspx?IdTheater=3607</id>
+    <title>YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스</title>
+    <updated>2022-09-20T17:49:58.095Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>http://m.ticket.yes24.com/Perf/Detail/favicon.ico</icon>
+</feed>
