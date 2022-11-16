@@ -1,8 +1,115 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://ticket.yes24.com/Theater/2497</id>
-    <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
-    <updated>2022-11-16T05:42:02.200Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://ticket.yes24.com/Theater/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:47:29 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프렙 내한공연 [PREP LIVE IN SEOUL]]]></title>
+            <link>http://ticket.yes24.com/Perf/42872</link>
+            <guid>http://ticket.yes24.com/Perf/42872</guid>
+            <pubDate>Wed, 16 Nov 2022 17:47:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.18 ~ 2022.11.18]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220712/20220712-42872.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[한요한 정규 4집 [Time Machine] 발매 기념 콘서트]]></title>
+            <link>http://ticket.yes24.com/Perf/43945</link>
+            <guid>http://ticket.yes24.com/Perf/43945</guid>
+            <pubDate>Wed, 16 Nov 2022 17:47:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.19 ~ 2022.11.19]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202210/20221028/20221028-43945.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[에릭남 월드투어 2022 서울（ERIC NAM WORLD TOUR 2022 SEOUL）]]></title>
+            <link>http://ticket.yes24.com/Perf/43340</link>
+            <guid>http://ticket.yes24.com/Perf/43340</guid>
+            <pubDate>Wed, 16 Nov 2022 17:47:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.20 ~ 2022.11.20]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202209/20220919/20220919-43340.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[[VIP패키지] 에릭남 월드투어 2022 서울（ERIC NAM WORLD TOUR 2022 SEOUL）]]></title>
+            <link>http://ticket.yes24.com/Perf/43341</link>
+            <guid>http://ticket.yes24.com/Perf/43341</guid>
+            <pubDate>Wed, 16 Nov 2022 17:47:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.20 ~ 2022.11.20]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202209/20220919/20220919-43341.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[LUCY 앵콜 콘서트〈Childhood〉]]></title>
+            <link>http://ticket.yes24.com/Perf/43823</link>
+            <guid>http://ticket.yes24.com/Perf/43823</guid>
+            <pubDate>Wed, 16 Nov 2022 17:47:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.26 ~ 2022.11.27]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202210/20221017/20221017-43823.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[조니 스팀슨 내한공연（Johnny Stimson Live in Seoul）]]></title>
+            <link>http://ticket.yes24.com/Perf/43483</link>
+            <guid>http://ticket.yes24.com/Perf/43483</guid>
+            <pubDate>Wed, 16 Nov 2022 17:47:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.03 ~ 2022.12.03]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202209/20220913/20220913-43483.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[케시 내한공연 [keshi Live in Seoul]]]></title>
+            <link>http://ticket.yes24.com/Perf/42563</link>
+            <guid>http://ticket.yes24.com/Perf/42563</guid>
+            <pubDate>Wed, 16 Nov 2022 17:47:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.05 ~ 2022.12.06]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220720/20220720-42563.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[[VIP 패키지] 케시 내한공연 [keshi Live in Seoul]]]></title>
+            <link>http://ticket.yes24.com/Perf/42617</link>
+            <guid>http://ticket.yes24.com/Perf/42617</guid>
+            <pubDate>Wed, 16 Nov 2022 17:47:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.05 ~ 2022.12.06]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220720/20220720-42617.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[위아이（WEi）FAN CONCERT - MERRY RUi DAY]]></title>
+            <link>http://ticket.yes24.com/Perf/44074</link>
+            <guid>http://ticket.yes24.com/Perf/44074</guid>
+            <pubDate>Wed, 16 Nov 2022 17:47:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.10 ~ 2022.12.11]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221114/20221114-44074_1.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 PEPPERTONES CONCERT ‘THOUSAND UMBRELLAS’]]></title>
+            <link>http://ticket.yes24.com/Perf/44040</link>
+            <guid>http://ticket.yes24.com/Perf/44040</guid>
+            <pubDate>Wed, 16 Nov 2022 17:47:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.16 ~ 2022.12.18]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221107/20221107-44040.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[소란 winter concert ‘STARTLINE!’]]></title>
+            <link>http://ticket.yes24.com/Perf/44119</link>
+            <guid>http://ticket.yes24.com/Perf/44119</guid>
+            <pubDate>Wed, 16 Nov 2022 17:47:22 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.14 ~ 2023.01.15]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221115/20221115-44119.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 뱀프스 내한공연（The Vamps Live in Seoul）]]></title>
+            <link>http://ticket.yes24.com/Perf/43908</link>
+            <guid>http://ticket.yes24.com/Perf/43908</guid>
+            <pubDate>Wed, 16 Nov 2022 17:47:22 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.15 ~ 2023.02.15]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202210/20221026/20221026-43908.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[왈로우스 내한공연]]></title>
+            <link>http://ticket.yes24.com/Perf/44100</link>
+            <guid>http://ticket.yes24.com/Perf/44100</guid>
+            <pubDate>Wed, 16 Nov 2022 17:47:22 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.22 ~ 2023.02.22]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221111/20221111-44100.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+    </channel>
+</rss>

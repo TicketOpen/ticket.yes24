@@ -1,8 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://m.ticket.yes24.com/Perf/Detail/TheaterPerfList.aspx?IdTheater=3607</id>
-    <title>YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스</title>
-    <updated>2022-11-16T05:42:02.197Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://m.ticket.yes24.com/Perf/Detail/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:47:30 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ENCORE YOU ME 20TH ANNIVERSARY CONCERT（유미 20주년 전국투어）]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44091</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44091</guid>
+            <pubDate>Wed, 16 Nov 2022 17:47:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.11 ~ 2022.12.11]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221110/20221110-44091.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lacuna（라쿠나）단독 콘서트 ‘dream:undefined’]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44065</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44065</guid>
+            <pubDate>Wed, 16 Nov 2022 17:47:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.03 ~ 2022.12.04]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221109/20221109-44065.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유라 연말단독콘서트 [이 옷에 구멍은 시간을 아우르는 공]]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44053</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44053</guid>
+            <pubDate>Wed, 16 Nov 2022 17:47:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.17 ~ 2022.12.18]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221109/20221109-44053.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 서울그린아트페스티벌]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44021</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44021</guid>
+            <pubDate>Wed, 16 Nov 2022 17:47:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.07 ~ 2022.12.08]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221104/20221104-44021.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 신지훈 단독 콘서트 ‘Winter Neverland’]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43879</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43879</guid>
+            <pubDate>Wed, 16 Nov 2022 17:47:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.09 ~ 2022.12.10]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202210/20221021/20221021-43879.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 Wave to Earth 단독공연 [floral field 0.2]]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43847</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43847</guid>
+            <pubDate>Wed, 16 Nov 2022 17:47:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.19 ~ 2022.11.20]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202210/20221019/20221019-43847.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
