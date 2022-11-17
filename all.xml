@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 05:39:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 17:40:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,6 +118,22 @@
             <pubDate>Wed, 16 Nov 2022 17:47:06 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.17 ~ 2022.12.18]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221109/20221109-44053.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 김진호 콘서트〈듣는 사진전〉 (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
+            <link>http://ticket.yes24.com/Perf/44171</link>
+            <guid>http://ticket.yes24.com/Perf/44171</guid>
+            <pubDate>Thu, 17 Nov 2022 17:40:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.29 ~ 2022.12.31]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221117/20221117-44171.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 김진호 콘서트〈듣는 사진전〉 (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44171</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44171</guid>
+            <pubDate>Thu, 17 Nov 2022 17:40:32 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.29 ~ 2022.12.31]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221117/20221117-44171.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ENCORE YOU ME 20TH ANNIVERSARY CONCERT（유미 20주년 전국투어） (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
