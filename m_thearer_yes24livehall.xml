@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 17:40:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 05:39:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Wed, 16 Nov 2022 17:47:29 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.16 ~ 2022.12.18]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221107/20221107-44040.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[VIP Package] 더 뱀프스 내한공연（The Vamps Live in Seoul）]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44023</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44023</guid>
+            <pubDate>Fri, 18 Nov 2022 05:39:08 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.15 ~ 2023.02.15]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221114/20221114-44023.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한요한 정규 4집 [Time Machine] 발매 기념 콘서트]]></title>
