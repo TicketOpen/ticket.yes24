@@ -4,17 +4,9 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 05:39:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 17:40:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2022 김진호 콘서트〈듣는 사진전〉]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44171</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44171</guid>
-            <pubDate>Thu, 17 Nov 2022 17:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.29 ~ 2022.12.31]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221117/20221117-44171.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[ENCORE YOU ME 20TH ANNIVERSARY CONCERT（유미 20주년 전국투어）]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44091</link>
