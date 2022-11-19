@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Nov 2022 05:38:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 17:38:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,14 +168,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202210/20221019/20221019-43847.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한요한 정규 4집 [Time Machine] 발매 기념 콘서트 (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://ticket.yes24.com/Perf/43945</link>
-            <guid>http://ticket.yes24.com/Perf/43945</guid>
-            <pubDate>Wed, 16 Nov 2022 17:47:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.19 ~ 2022.11.19]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202210/20221028/20221028-43945.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
-        <item>
             <title><![CDATA[에릭남 월드투어 2022 서울（ERIC NAM WORLD TOUR 2022 SEOUL） (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
             <link>http://ticket.yes24.com/Perf/43340</link>
             <guid>http://ticket.yes24.com/Perf/43340</guid>
@@ -326,14 +318,6 @@
             <pubDate>Fri, 18 Nov 2022 05:39:08 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.15 ~ 2023.02.15]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221114/20221114-44023.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한요한 정규 4집 [Time Machine] 발매 기념 콘서트 (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43945</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43945</guid>
-            <pubDate>Wed, 16 Nov 2022 17:47:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.19 ~ 2022.11.19]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202210/20221028/20221028-43945.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 뱀프스 내한공연（The Vamps Live in Seoul） (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
