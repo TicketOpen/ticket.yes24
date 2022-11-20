@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 05:42:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 17:38:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,14 +70,6 @@
             <pubDate>Wed, 16 Nov 2022 17:46:58 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.26 ~ 2022.12.04]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202210/20221018/20221018-43844.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 Wave to Earth 단독공연 [floral field 0.2] (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
-            <link>http://ticket.yes24.com/Perf/43847</link>
-            <guid>http://ticket.yes24.com/Perf/43847</guid>
-            <pubDate>Wed, 16 Nov 2022 17:47:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.19 ~ 2022.11.20]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202210/20221019/20221019-43847.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[Lacuna（라쿠나）단독 콘서트 ‘dream:undefined’ (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
@@ -158,30 +150,6 @@
             <pubDate>Wed, 16 Nov 2022 17:47:13 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.09 ~ 2022.12.10]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202210/20221021/20221021-43879.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 Wave to Earth 단독공연 [floral field 0.2] (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43847</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43847</guid>
-            <pubDate>Wed, 16 Nov 2022 17:47:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.19 ~ 2022.11.20]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202210/20221019/20221019-43847.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에릭남 월드투어 2022 서울（ERIC NAM WORLD TOUR 2022 SEOUL） (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://ticket.yes24.com/Perf/43340</link>
-            <guid>http://ticket.yes24.com/Perf/43340</guid>
-            <pubDate>Wed, 16 Nov 2022 17:47:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.20 ~ 2022.11.20]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202209/20220919/20220919-43340.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[VIP패키지] 에릭남 월드투어 2022 서울（ERIC NAM WORLD TOUR 2022 SEOUL） (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://ticket.yes24.com/Perf/43341</link>
-            <guid>http://ticket.yes24.com/Perf/43341</guid>
-            <pubDate>Wed, 16 Nov 2022 17:47:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.20 ~ 2022.11.20]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202209/20220919/20220919-43341.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[LUCY 앵콜 콘서트〈Childhood〉 (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
@@ -342,22 +310,6 @@
             <pubDate>Wed, 16 Nov 2022 17:47:29 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.03 ~ 2022.12.03]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202209/20220913/20220913-43483.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[VIP패키지] 에릭남 월드투어 2022 서울（ERIC NAM WORLD TOUR 2022 SEOUL） (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43341</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43341</guid>
-            <pubDate>Wed, 16 Nov 2022 17:47:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.20 ~ 2022.11.20]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202209/20220919/20220919-43341.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에릭남 월드투어 2022 서울（ERIC NAM WORLD TOUR 2022 SEOUL） (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43340</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43340</guid>
-            <pubDate>Wed, 16 Nov 2022 17:47:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.20 ~ 2022.11.20]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202209/20220919/20220919-43340.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[VIP 패키지] 케시 내한공연 [keshi Live in Seoul] (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>

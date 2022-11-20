@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 05:42:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 17:38:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,22 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:47:29 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.03 ~ 2022.12.03]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202209/20220913/20220913-43483.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[VIP패키지] 에릭남 월드투어 2022 서울（ERIC NAM WORLD TOUR 2022 SEOUL）]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43341</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43341</guid>
-            <pubDate>Wed, 16 Nov 2022 17:47:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.20 ~ 2022.11.20]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202209/20220919/20220919-43341.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에릭남 월드투어 2022 서울（ERIC NAM WORLD TOUR 2022 SEOUL）]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43340</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43340</guid>
-            <pubDate>Wed, 16 Nov 2022 17:47:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.20 ~ 2022.11.20]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202209/20220919/20220919-43340.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[VIP 패키지] 케시 내한공연 [keshi Live in Seoul]]]></title>

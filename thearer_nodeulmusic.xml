@@ -4,17 +4,9 @@
         <title>YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 05:42:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 17:38:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2022 Wave to Earth 단독공연 [floral field 0.2]]]></title>
-            <link>http://ticket.yes24.com/Perf/43847</link>
-            <guid>http://ticket.yes24.com/Perf/43847</guid>
-            <pubDate>Wed, 16 Nov 2022 17:47:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.19 ~ 2022.11.20]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202210/20221019/20221019-43847.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
         <item>
             <title><![CDATA[Lacuna（라쿠나）단독 콘서트 ‘dream:undefined’]]></title>
             <link>http://ticket.yes24.com/Perf/44065</link>
