@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 17:37:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 05:37:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Wed, 16 Nov 2022 17:47:13 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.17 ~ 2022.12.18]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221109/20221109-44053.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 서울그린아트페스티벌]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44021</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44021</guid>
-            <pubDate>Wed, 16 Nov 2022 17:47:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.07 ~ 2022.12.08]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221104/20221104-44021.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 신지훈 단독 콘서트 ‘Winter Neverland’]]></title>
