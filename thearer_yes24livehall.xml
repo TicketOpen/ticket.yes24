@@ -4,17 +4,9 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 05:36:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 17:36:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[LUCY 앵콜 콘서트〈Childhood〉]]></title>
-            <link>http://ticket.yes24.com/Perf/43823</link>
-            <guid>http://ticket.yes24.com/Perf/43823</guid>
-            <pubDate>Wed, 16 Nov 2022 17:47:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.26 ~ 2022.11.27]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202210/20221017/20221017-43823.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
         <item>
             <title><![CDATA[조니 스팀슨 내한공연（Johnny Stimson Live in Seoul）]]></title>
             <link>http://ticket.yes24.com/Perf/43483</link>
