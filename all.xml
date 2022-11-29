@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 17:38:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 05:37:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,14 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221128/20221128-44296.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
+            <title><![CDATA[COUNTDOWN FANTASY 2022-2023 (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/44262</link>
+            <guid>http://ticket.yes24.com/Perf/44262</guid>
+            <pubDate>Tue, 29 Nov 2022 05:37:40 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.30 ~ 2022.12.31]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221125/20221125-44262.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
             <title><![CDATA[소란 winter concert ‘STARTLINE!’ (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
             <link>http://ticket.yes24.com/Perf/44119</link>
             <guid>http://ticket.yes24.com/Perf/44119</guid>
@@ -248,6 +256,14 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221111/20221111-44100.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
+            <title><![CDATA[킹스 오브 컨비니언스 내한공연（Kings Of Convenience Live in Seoul） (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/44256</link>
+            <guid>http://ticket.yes24.com/Perf/44256</guid>
+            <pubDate>Tue, 29 Nov 2022 05:37:40 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.17 ~ 2023.03.17]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221124/20221124-44256.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
             <title><![CDATA[MEN I TRUST LIVE IN SEOUL (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
             <link>http://ticket.yes24.com/Perf/44165</link>
             <guid>http://ticket.yes24.com/Perf/44165</guid>
@@ -262,6 +278,22 @@
             <pubDate>Mon, 28 Nov 2022 17:38:45 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.24 ~ 2022.12.25]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221128/20221128-44296.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[COUNTDOWN FANTASY 2022-2023 (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44262</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44262</guid>
+            <pubDate>Tue, 29 Nov 2022 05:37:48 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.30 ~ 2022.12.31]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221125/20221125-44262.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[킹스 오브 컨비니언스 내한공연（Kings Of Convenience Live in Seoul） (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44256</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44256</guid>
+            <pubDate>Tue, 29 Nov 2022 05:37:48 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.17 ~ 2023.03.17]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221124/20221124-44256.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MEN I TRUST LIVE IN SEOUL (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
