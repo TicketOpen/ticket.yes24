@@ -4,9 +4,25 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 17:38:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 05:38:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오로라 내한공연（Aurora Live in Seoul）]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44300</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44300</guid>
+            <pubDate>Thu, 01 Dec 2022 05:38:08 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.19 ~ 2023.02.19]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221128/20221128-44300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[켈라니 첫 단독 내한공연（Kehlani Live in Seoul）]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44299</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44299</guid>
+            <pubDate>Thu, 01 Dec 2022 05:38:08 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.13 ~ 2023.02.13]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221128/20221128-44299.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[터치드（TOUCHED）콘서트 ‘HIGHLIGHT 2022’]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44296</link>

@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 17:38:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 05:38:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,6 +72,14 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221130/20221130-44119.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
+            <title><![CDATA[켈라니 첫 단독 내한공연（Kehlani Live in Seoul）]]></title>
+            <link>http://ticket.yes24.com/Perf/44299</link>
+            <guid>http://ticket.yes24.com/Perf/44299</guid>
+            <pubDate>Thu, 01 Dec 2022 05:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.13 ~ 2023.02.13]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221128/20221128-44299.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
             <title><![CDATA[더 뱀프스 내한공연（The Vamps Live in Seoul）]]></title>
             <link>http://ticket.yes24.com/Perf/43908</link>
             <guid>http://ticket.yes24.com/Perf/43908</guid>
@@ -86,6 +94,14 @@
             <pubDate>Fri, 18 Nov 2022 05:39:00 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.15 ~ 2023.02.15]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221114/20221114-44023.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[오로라 내한공연（Aurora Live in Seoul）]]></title>
+            <link>http://ticket.yes24.com/Perf/44300</link>
+            <guid>http://ticket.yes24.com/Perf/44300</guid>
+            <pubDate>Thu, 01 Dec 2022 05:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.19 ~ 2023.02.19]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221128/20221128-44300.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[왈로우스 내한공연]]></title>
