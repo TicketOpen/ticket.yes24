@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 05:38:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 05:37:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Tue, 29 Nov 2022 05:37:48 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.17 ~ 2023.03.17]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221124/20221124-44256.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 N.Flying LIVE ‘＆CON3’]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44255</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44255</guid>
+            <pubDate>Fri, 02 Dec 2022 05:37:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.07 ~ 2023.01.08]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202212/20221201/20221201-44255.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MEN I TRUST LIVE IN SEOUL]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 16 Nov 2022 17:47:29 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.05 ~ 2022.12.06]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220720/20220720-42617.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[케시 내한공연 [keshi Live in Seoul]]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42563</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42563</guid>
-            <pubDate>Wed, 16 Nov 2022 17:47:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.05 ~ 2022.12.06]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220720/20220720-42563.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
