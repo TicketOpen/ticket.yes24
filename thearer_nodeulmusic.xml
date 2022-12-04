@@ -4,17 +4,9 @@
         <title>YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 05:37:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 17:36:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Lacuna（라쿠나）단독 콘서트 ‘dream:undefined’]]></title>
-            <link>http://ticket.yes24.com/Perf/44065</link>
-            <guid>http://ticket.yes24.com/Perf/44065</guid>
-            <pubDate>Wed, 16 Nov 2022 17:47:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.03 ~ 2022.12.04]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221109/20221109-44065.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
         <item>
             <title><![CDATA[2022 서울그린아트페스티벌]]></title>
             <link>http://ticket.yes24.com/Perf/44021</link>

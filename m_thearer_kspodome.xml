@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 05:37:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 17:36:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Wed, 16 Nov 2022 17:46:58 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.17 ~ 2022.12.18]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221107/20221107-44018.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 조용필＆위대한 탄생 콘서트]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43844</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43844</guid>
-            <pubDate>Wed, 16 Nov 2022 17:46:58 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.26 ~ 2022.12.04]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202210/20221018/20221018-43844.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
