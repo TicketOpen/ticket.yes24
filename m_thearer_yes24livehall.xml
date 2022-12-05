@@ -4,9 +4,17 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 17:36:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 05:37:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비비 첫 정규 발매 기념 콘서트 [와주시면 안 될까요?]]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44323</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44323</guid>
+            <pubDate>Mon, 05 Dec 2022 05:37:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.28 ~ 2022.12.28]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202212/20221202/20221202-44323.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오로라 내한공연（Aurora Live in Seoul）]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44300</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 16 Nov 2022 17:47:29 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.05 ~ 2022.12.06]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220720/20220720-42617.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[케시 내한공연 [keshi Live in Seoul]]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42563</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42563</guid>
-            <pubDate>Sat, 03 Dec 2022 17:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.05 ~ 2022.12.06]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220720/20220720-42563.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
