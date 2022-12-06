@@ -4,9 +4,17 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 17:36:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 05:36:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코리아 탭오케스트라 올댓리듬]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44343</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44343</guid>
+            <pubDate>Tue, 06 Dec 2022 05:36:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.27 ~ 2022.12.27]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202212/20221206/20221206-44343.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안예은단독콘서트  제6회（안밀린）오타쿠리스마스]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44261</link>
