@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 05:36:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 17:37:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,22 +168,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202210/20221021/20221021-43879.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[케시 내한공연 [keshi Live in Seoul] (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://ticket.yes24.com/Perf/42563</link>
-            <guid>http://ticket.yes24.com/Perf/42563</guid>
-            <pubDate>Wed, 16 Nov 2022 17:47:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.05 ~ 2022.12.06]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220720/20220720-42563.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[VIP 패키지] 케시 내한공연 [keshi Live in Seoul] (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://ticket.yes24.com/Perf/42617</link>
-            <guid>http://ticket.yes24.com/Perf/42617</guid>
-            <pubDate>Wed, 16 Nov 2022 17:47:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.05 ~ 2022.12.06]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220720/20220720-42617.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
-        <item>
             <title><![CDATA[위아이（WEi）FAN CONCERT - MERRY RUi DAY (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
             <link>http://ticket.yes24.com/Perf/44074</link>
             <guid>http://ticket.yes24.com/Perf/44074</guid>
@@ -222,6 +206,14 @@
             <pubDate>Tue, 29 Nov 2022 05:37:40 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.30 ~ 2022.12.31]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221129/20221129-44262.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 N.Flying LIVE ‘＆CON3’ (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/44255</link>
+            <guid>http://ticket.yes24.com/Perf/44255</guid>
+            <pubDate>Tue, 06 Dec 2022 17:37:00 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.07 ~ 2023.01.08]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202212/20221201/20221201-44255.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[소란 winter concert ‘STARTLINE!’ (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
@@ -336,6 +328,14 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221124/20221124-44256.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2023 N.Flying LIVE ‘＆CON3’ (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44255</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44255</guid>
+            <pubDate>Tue, 06 Dec 2022 17:37:09 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.07 ~ 2023.01.08]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202212/20221201/20221201-44255.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[MEN I TRUST LIVE IN SEOUL (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44165</link>
             <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44165</guid>
@@ -390,22 +390,6 @@
             <pubDate>Wed, 16 Nov 2022 17:47:29 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.15 ~ 2023.02.15]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202210/20221026/20221026-43908.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[VIP 패키지] 케시 내한공연 [keshi Live in Seoul] (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42617</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42617</guid>
-            <pubDate>Wed, 16 Nov 2022 17:47:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.05 ~ 2022.12.06]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220720/20220720-42617.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[케시 내한공연 [keshi Live in Seoul] (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42563</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=42563</guid>
-            <pubDate>Tue, 06 Dec 2022 05:36:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.05 ~ 2022.12.06]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202207/20220720/20220720-42563.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
