@@ -4,17 +4,9 @@
         <title>YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 05:36:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 17:37:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2022 서울그린아트페스티벌]]></title>
-            <link>http://ticket.yes24.com/Perf/44021</link>
-            <guid>http://ticket.yes24.com/Perf/44021</guid>
-            <pubDate>Fri, 25 Nov 2022 17:37:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.07 ~ 2022.12.08]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221104/20221104-44021.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
         <item>
             <title><![CDATA[2022 신지훈 단독 콘서트 ‘Winter Neverland’]]></title>
             <link>http://ticket.yes24.com/Perf/43879</link>
@@ -53,7 +45,7 @@
             <guid>http://ticket.yes24.com/Perf/44343</guid>
             <pubDate>Tue, 06 Dec 2022 05:36:28 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.27 ~ 2022.12.27]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202212/20221206/20221206-44343.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202212/20221208/20221208-44343.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[2022 김진호 콘서트〈듣는 사진전〉]]></title>
