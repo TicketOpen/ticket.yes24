@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 05:36:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 17:36:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,14 +144,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202212/20221221/20221221-44447.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
-            <title><![CDATA[[테스트] 교육 (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://ticket.yes24.com/Perf/44453</link>
-            <guid>http://ticket.yes24.com/Perf/44453</guid>
-            <pubDate>Fri, 23 Dec 2022 05:36:38 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.01 ~ 2023.01.31]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload/PerfBlog/_noimage.gif/dims/quality/70/" length="0" type="image/gif/dims/quality/70/"/>
-        </item>
-        <item>
             <title><![CDATA[켈라니 첫 단독 내한공연（Kehlani Live in Seoul） (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
             <link>http://ticket.yes24.com/Perf/44299</link>
             <guid>http://ticket.yes24.com/Perf/44299</guid>
@@ -206,14 +198,6 @@
             <pubDate>Thu, 17 Nov 2022 05:38:52 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.22 ~ 2023.04.22]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221116/20221116-44165.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[테스트] 교육 (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44453</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44453</guid>
-            <pubDate>Fri, 23 Dec 2022 05:36:47 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.01 ~ 2023.01.31]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload/PerfBlog/_noimage.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[VIP패키지] THE ROSE HEAL TOGETHER WORLD TOUR IN SEOUL (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
