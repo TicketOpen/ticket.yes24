@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Dec 2022 05:37:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Dec 2022 17:36:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,14 +40,6 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221110/20221110-44077.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[안예은단독콘서트  제6회（안밀린）오타쿠리스마스 (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
-            <link>http://ticket.yes24.com/Perf/44261</link>
-            <guid>http://ticket.yes24.com/Perf/44261</guid>
-            <pubDate>Thu, 01 Dec 2022 05:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.25 ~ 2022.12.25]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221125/20221125-44261.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
-        <item>
             <title><![CDATA[코리아 탭오케스트라 올댓리듬 (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
             <link>http://ticket.yes24.com/Perf/44343</link>
             <guid>http://ticket.yes24.com/Perf/44343</guid>
@@ -72,28 +64,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202212/20221208/20221208-44343.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[안예은단독콘서트  제6회（안밀린）오타쿠리스마스 (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44261</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44261</guid>
-            <pubDate>Thu, 01 Dec 2022 05:37:50 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.25 ~ 2022.12.25]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221125/20221125-44261.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022 김진호 콘서트〈듣는 사진전〉 (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44171</link>
             <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44171</guid>
             <pubDate>Mon, 21 Nov 2022 05:38:43 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.29 ~ 2022.12.31]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221117/20221117-44171.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[터치드（TOUCHED）콘서트 ‘HIGHLIGHT 2022’ (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://ticket.yes24.com/Perf/44296</link>
-            <guid>http://ticket.yes24.com/Perf/44296</guid>
-            <pubDate>Mon, 28 Nov 2022 17:38:38 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.24 ~ 2022.12.25]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221128/20221128-44296.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[비비 첫 정규 발매 기념 콘서트 [와주시면 안 될까요?] (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
@@ -238,14 +214,6 @@
             <pubDate>Thu, 01 Dec 2022 05:38:08 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.13 ~ 2023.02.13]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221128/20221128-44299.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[터치드（TOUCHED）콘서트 ‘HIGHLIGHT 2022’ (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44296</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44296</guid>
-            <pubDate>Mon, 28 Nov 2022 17:38:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.24 ~ 2022.12.25]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221128/20221128-44296.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[COUNTDOWN FANTASY 2022-2023 (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
