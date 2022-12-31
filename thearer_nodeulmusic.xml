@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 31 Dec 2022 05:36:35 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2022 김진호 콘서트〈듣는 사진전〉]]></title>
-            <link>http://ticket.yes24.com/Perf/44171</link>
-            <guid>http://ticket.yes24.com/Perf/44171</guid>
-            <pubDate>Mon, 21 Nov 2022 05:38:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.29 ~ 2022.12.31]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221117/20221117-44171.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://ticket.yes24.com/Theater/3607</id>
+    <title>YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스</title>
+    <updated>2022-12-31T17:36:22.292Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>http://ticket.yes24.com/Theater/favicon.ico</icon>
+</feed>
