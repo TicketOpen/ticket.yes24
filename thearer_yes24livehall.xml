@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 17:37:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 05:37:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Wed, 28 Dec 2022 17:36:10 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.28 ~ 2023.01.29]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202212/20221227/20221227-44526_1.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 KIM SUNG KYU CONCERT ‘LV - LIKE YOUR VIBES’]]></title>
+            <link>http://ticket.yes24.com/Perf/44540</link>
+            <guid>http://ticket.yes24.com/Perf/44540</guid>
+            <pubDate>Fri, 06 Jan 2023 05:36:58 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.11 ~ 2023.02.12]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202301/20230105/20230105-44540.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[켈라니 첫 단독 내한공연（Kehlani Live in Seoul）]]></title>
