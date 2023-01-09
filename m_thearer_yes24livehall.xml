@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Jan 2023 17:36:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 05:37:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44540</guid>
             <pubDate>Fri, 06 Jan 2023 05:37:06 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.11 ~ 2023.02.12]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202301/20230105/20230105-44540.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202301/20230109/20230109-44540.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새소년의 [Hello, World！ 2023]]]></title>
