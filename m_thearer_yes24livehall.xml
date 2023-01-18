@@ -4,9 +4,17 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 05:36:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 17:37:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 Preative show]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44769</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44769</guid>
+            <pubDate>Wed, 18 Jan 2023 17:37:03 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.05 ~ 2023.02.05]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202301/20230118/20230118-44769_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사샤 알렉스 슬론 내한공연 (Sasha Alex Sloan Live in Seoul)]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44669</link>
