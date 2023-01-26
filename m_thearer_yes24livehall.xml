@@ -4,9 +4,25 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 17:36:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 05:36:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sweet MAX, CHANGMIN Day]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44800</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44800</guid>
+            <pubDate>Thu, 26 Jan 2023 05:36:41 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.17 ~ 2023.02.17]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202301/20230125/20230125-44800.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thank U-KNOW DAY]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44799</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44799</guid>
+            <pubDate>Thu, 26 Jan 2023 05:36:41 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.16 ~ 2023.02.16]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202301/20230125/20230125-44799.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023 Preative show]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44769</link>
