@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 05:37:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 17:37:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -59,7 +59,7 @@
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Thu, 02 Feb 2023 05:36:57 GMT</pubDate>
+            <pubDate>Thu, 02 Feb 2023 17:36:51 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
         </item>
         <item>
@@ -109,6 +109,14 @@
             <pubDate>Fri, 18 Nov 2022 05:39:00 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.15 ~ 2023.02.15]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221114/20221114-44023.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[Thank U-KNOW DAY (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/44799</link>
+            <guid>http://ticket.yes24.com/Perf/44799</guid>
+            <pubDate>Thu, 02 Feb 2023 17:37:01 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.16 ~ 2023.02.16]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202301/20230125/20230125-44799.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[Sweet MAX, CHANGMIN Day (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
@@ -207,6 +215,14 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202301/20230125/20230125-44800.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Thank U-KNOW DAY (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44799</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44799</guid>
+            <pubDate>Thu, 02 Feb 2023 17:37:09 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.16 ~ 2023.02.16]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202301/20230125/20230125-44799.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2023 Preative show (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44769</link>
             <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44769</guid>
@@ -293,14 +309,6 @@
             <pubDate>Fri, 18 Nov 2022 05:39:08 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.15 ~ 2023.02.15]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221114/20221114-44023.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 뱀프스 내한공연（The Vamps Live in Seoul） (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43908</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=43908</guid>
-            <pubDate>Sun, 29 Jan 2023 17:36:20 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.15 ~ 2023.02.15]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202210/20221026/20221026-43908.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

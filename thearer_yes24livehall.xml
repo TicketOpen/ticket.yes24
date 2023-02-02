@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 05:37:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 17:37:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Fri, 18 Nov 2022 05:39:00 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.15 ~ 2023.02.15]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221114/20221114-44023.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[Thank U-KNOW DAY]]></title>
+            <link>http://ticket.yes24.com/Perf/44799</link>
+            <guid>http://ticket.yes24.com/Perf/44799</guid>
+            <pubDate>Thu, 02 Feb 2023 17:37:01 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.16 ~ 2023.02.16]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202301/20230125/20230125-44799.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[Sweet MAX, CHANGMIN Day]]></title>
