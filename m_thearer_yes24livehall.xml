@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Feb 2023 05:36:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Feb 2023 17:37:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Thu, 02 Feb 2023 17:37:09 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.16 ~ 2023.02.16]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202301/20230125/20230125-44799.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 Preative show]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44769</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44769</guid>
-            <pubDate>Wed, 18 Jan 2023 17:37:03 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.05 ~ 2023.02.05]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202301/20230118/20230118-44769_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 김현중 콘서트 ‘MY SUN’]]></title>
