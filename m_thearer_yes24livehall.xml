@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Feb 2023 05:36:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Feb 2023 17:36:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Fri, 13 Jan 2023 17:36:51 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.06 ~ 2023.03.06]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202301/20230113/20230113-44669.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오로라 내한공연（Aurora Live in Seoul）]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44300</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44300</guid>
-            <pubDate>Thu, 01 Dec 2022 05:38:08 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.19 ~ 2023.02.19]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221128/20221128-44300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[킹스 오브 컨비니언스 내한공연（Kings Of Convenience Live in Seoul）]]></title>
