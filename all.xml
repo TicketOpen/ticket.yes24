@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Feb 2023 17:37:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Feb 2023 05:36:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코난 그레이 첫 단독 내한공연 (YES24 티켓 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
+            <link>http://ticket.yes24.com/Perf/44077</link>
+            <guid>http://ticket.yes24.com/Perf/44077</guid>
+            <pubDate>Sun, 19 Feb 2023 05:36:18 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.28 ~ 2023.02.28]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221110/20221110-44077.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[해리 스타일스 첫 내한공연（HARRY STYLES LOVE ON TOUR 2023 - Live in Seoul） (YES24 티켓 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
+            <link>http://ticket.yes24.com/Perf/44112</link>
+            <guid>http://ticket.yes24.com/Perf/44112</guid>
+            <pubDate>Sun, 19 Feb 2023 05:36:18 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.20 ~ 2023.03.20]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221116/20221116-44112.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
         <item>
             <title><![CDATA[해리 스타일스 첫 내한공연（HARRY STYLES LOVE ON TOUR 2023 - Live in Seoul） (YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44112</link>
@@ -24,12 +40,100 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221110/20221110-44077.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2023 구원찬 단독공연 Object (YES24 티켓 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
+            <link>http://ticket.yes24.com/Perf/44957</link>
+            <guid>http://ticket.yes24.com/Perf/44957</guid>
+            <pubDate>Sun, 19 Feb 2023 05:36:34 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.18 ~ 2023.03.18]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202302/20230216/20230216-44957.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
             <title><![CDATA[2023 구원찬 단독공연 Object (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44957</link>
             <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44957</guid>
             <pubDate>Thu, 16 Feb 2023 05:36:41 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.18 ~ 2023.03.18]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202302/20230216/20230216-44957.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오로라 내한공연（Aurora Live in Seoul） (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/44300</link>
+            <guid>http://ticket.yes24.com/Perf/44300</guid>
+            <pubDate>Sun, 19 Feb 2023 05:36:50 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.19 ~ 2023.02.19]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221128/20221128-44300.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[왈로우스 내한공연 (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/44100</link>
+            <guid>http://ticket.yes24.com/Perf/44100</guid>
+            <pubDate>Sun, 19 Feb 2023 05:36:50 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.22 ~ 2023.02.22]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221111/20221111-44100.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 URBAN WINTER LIFE (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/44869</link>
+            <guid>http://ticket.yes24.com/Perf/44869</guid>
+            <pubDate>Sun, 19 Feb 2023 05:36:50 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.26 ~ 2023.02.26]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202302/20230201/20230201-44869.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 김현중 콘서트 ‘MY SUN’ (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/44735</link>
+            <guid>http://ticket.yes24.com/Perf/44735</guid>
+            <pubDate>Sun, 19 Feb 2023 05:36:50 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.04 ~ 2023.03.04]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202301/20230125/20230125-44735.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[사샤 알렉스 슬론 내한공연 (Sasha Alex Sloan Live in Seoul) (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/44669</link>
+            <guid>http://ticket.yes24.com/Perf/44669</guid>
+            <pubDate>Sun, 19 Feb 2023 05:36:50 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.06 ~ 2023.03.06]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202301/20230113/20230113-44669.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[킹스 오브 컨비니언스 내한공연（Kings Of Convenience Live in Seoul） (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/44256</link>
+            <guid>http://ticket.yes24.com/Perf/44256</guid>
+            <pubDate>Sun, 19 Feb 2023 05:36:50 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.17 ~ 2023.03.17]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221124/20221124-44256.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[Sum 41 Live in Seoul (썸 41 내한공연) (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/44831</link>
+            <guid>http://ticket.yes24.com/Perf/44831</guid>
+            <pubDate>Sun, 19 Feb 2023 05:36:50 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.28 ~ 2023.03.28]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202301/20230127/20230127-44831_1.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[선셋 롤러코스터 내한공연 (Sunset Rollercoaster ＂Infinity Sunset＂ Tour in Seoul) (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/45046</link>
+            <guid>http://ticket.yes24.com/Perf/45046</guid>
+            <pubDate>Sun, 19 Feb 2023 05:36:50 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.29 ~ 2023.03.29]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202302/20230216/20230216-45046.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[MEN I TRUST LIVE IN SEOUL (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/44165</link>
+            <guid>http://ticket.yes24.com/Perf/44165</guid>
+            <pubDate>Sun, 19 Feb 2023 05:36:50 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.22 ~ 2023.04.22]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202302/20230206/20230206-44165.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[게임 그럼프 라이브 (Game Grumps Live) (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/44981</link>
+            <guid>http://ticket.yes24.com/Perf/44981</guid>
+            <pubDate>Sun, 19 Feb 2023 05:36:50 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.16 ~ 2023.07.16]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202302/20230209/20230209-44981.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[선셋 롤러코스터 내한공연 (Sunset Rollercoaster ＂Infinity Sunset＂ Tour in Seoul) (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
