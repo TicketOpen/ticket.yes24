@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Feb 2023 17:36:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 05:37:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,14 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202211/20221124/20221124-44256.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
+            <title><![CDATA[비비 앵콜 콘서트 [와주시면 안 될까요？] (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/45027</link>
+            <guid>http://ticket.yes24.com/Perf/45027</guid>
+            <pubDate>Mon, 20 Feb 2023 05:36:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.25 ~ 2023.03.26]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202302/20230217/20230217-45027.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
             <title><![CDATA[Sum 41 Live in Seoul (썸 41 내한공연) (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
             <link>http://ticket.yes24.com/Perf/44831</link>
             <guid>http://ticket.yes24.com/Perf/44831</guid>
@@ -134,6 +142,14 @@
             <pubDate>Fri, 17 Feb 2023 05:37:03 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.29 ~ 2023.03.29]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202302/20230216/20230216-45046.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비비 앵콜 콘서트 [와주시면 안 될까요？] (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=45027</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=45027</guid>
+            <pubDate>Mon, 20 Feb 2023 05:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.25 ~ 2023.03.26]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202302/20230217/20230217-45027.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[게임 그럼프 라이브 (Game Grumps Live) (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
