@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 17:37:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 05:37:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Sun, 19 Feb 2023 05:36:50 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.22 ~ 2023.04.22]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202302/20230206/20230206-44165.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[NEW HOPE CLUB LIVE IN SEOUL]]></title>
+            <link>http://ticket.yes24.com/Perf/45069</link>
+            <guid>http://ticket.yes24.com/Perf/45069</guid>
+            <pubDate>Tue, 21 Feb 2023 05:37:05 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.23 ~ 2023.04.23]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202302/20230221/20230221-45069.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[게임 그럼프 라이브 (Game Grumps Live)]]></title>
