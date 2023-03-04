@@ -4,17 +4,9 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Mar 2023 05:37:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 17:36:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2023 김현중 콘서트 ‘MY SUN’]]></title>
-            <link>http://ticket.yes24.com/Perf/44735</link>
-            <guid>http://ticket.yes24.com/Perf/44735</guid>
-            <pubDate>Sun, 19 Feb 2023 05:36:50 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.04 ~ 2023.03.04]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202301/20230125/20230125-44735.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
         <item>
             <title><![CDATA[사샤 알렉스 슬론 내한공연 (Sasha Alex Sloan Live in Seoul)]]></title>
             <link>http://ticket.yes24.com/Perf/44669</link>
