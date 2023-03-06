@@ -4,9 +4,17 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 05:37:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 17:38:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BATTLE IS OVER 2023]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=45216</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=45216</guid>
+            <pubDate>Mon, 06 Mar 2023 17:38:29 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.09 ~ 2023.04.09]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202303/20230306/20230306-45216.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NEW HOPE CLUB LIVE IN SEOUL]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=45069</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 27 Jan 2023 05:36:52 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.28 ~ 2023.03.28]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202301/20230127/20230127-44831_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사샤 알렉스 슬론 내한공연 (Sasha Alex Sloan Live in Seoul)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44669</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=44669</guid>
-            <pubDate>Fri, 13 Jan 2023 17:36:51 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.06 ~ 2023.03.06]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202301/20230113/20230113-44669.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[킹스 오브 컨비니언스 내한공연（Kings Of Convenience Live in Seoul）]]></title>
