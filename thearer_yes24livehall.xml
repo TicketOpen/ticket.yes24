@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 17:44:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 05:36:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,12 +48,28 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202302/20230216/20230216-45046.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
+            <title><![CDATA[일단, 은혁이 4랑하는 4람들의 파티]]></title>
+            <link>http://ticket.yes24.com/Perf/45280</link>
+            <guid>http://ticket.yes24.com/Perf/45280</guid>
+            <pubDate>Wed, 15 Mar 2023 05:36:34 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.30 ~ 2023.03.30]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202303/20230315/20230315-45280.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
             <title><![CDATA[SHOOTING STAR ASIA TOUR IN SEOUL]]></title>
             <link>http://ticket.yes24.com/Perf/45228</link>
             <guid>http://ticket.yes24.com/Perf/45228</guid>
             <pubDate>Mon, 13 Mar 2023 05:36:41 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.02 ~ 2023.04.02]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202303/20230313/20230313-45228.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[GIRIBOY SEOUL CONCERT]]></title>
+            <link>http://ticket.yes24.com/Perf/45311</link>
+            <guid>http://ticket.yes24.com/Perf/45311</guid>
+            <pubDate>Wed, 15 Mar 2023 05:36:34 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.08 ~ 2023.04.08]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202303/20230315/20230315-45311.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[BATTLE IS OVER 2023]]></title>
