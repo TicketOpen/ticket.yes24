@@ -4,17 +4,9 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Apr 2023 05:36:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Apr 2023 17:36:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[SHOOTING STAR ASIA TOUR IN SEOUL]]></title>
-            <link>http://ticket.yes24.com/Perf/45228</link>
-            <guid>http://ticket.yes24.com/Perf/45228</guid>
-            <pubDate>Mon, 13 Mar 2023 05:36:41 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.02 ~ 2023.04.02]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202303/20230313/20230313-45228.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
         <item>
             <title><![CDATA[GIRIBOY SEOUL CONCERT]]></title>
             <link>http://ticket.yes24.com/Perf/45311</link>
