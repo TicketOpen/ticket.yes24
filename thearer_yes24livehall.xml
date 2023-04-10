@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Apr 2023 17:36:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 05:36:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 31 Mar 2023 17:36:54 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.05 ~ 2023.05.05]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202304/20230401/20230401-45487.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 BAEKHYUN HAPPY BIRTHDAY［B Happy］]]></title>
+            <link>http://ticket.yes24.com/Perf/45535</link>
+            <guid>http://ticket.yes24.com/Perf/45535</guid>
+            <pubDate>Mon, 10 Apr 2023 05:36:02 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.05 ~ 2023.05.05]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202304/20230410/20230410-45535.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[루엘 내한공연 (Ruel Live in Seoul)]]></title>
