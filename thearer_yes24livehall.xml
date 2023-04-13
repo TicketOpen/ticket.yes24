@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 17:37:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 05:37:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Mon, 10 Apr 2023 17:36:19 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.06 ~ 2023.05.07]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202304/20230412/20230412-45590.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 BAEKHO MINI CONCERT 〈BAEKHoney Day〉 IN SEOUL]]></title>
+            <link>http://ticket.yes24.com/Perf/45489</link>
+            <guid>http://ticket.yes24.com/Perf/45489</guid>
+            <pubDate>Thu, 13 Apr 2023 05:37:05 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.12 ~ 2023.05.14]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202304/20230412/20230412-45489_1.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[루엘 내한공연 (Ruel Live in Seoul)]]></title>
