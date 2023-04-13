@@ -4,17 +4,9 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 05:37:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 17:36:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2023 HAPPY IRENE-DAY]]></title>
-            <link>http://ticket.yes24.com/Perf/45450</link>
-            <guid>http://ticket.yes24.com/Perf/45450</guid>
-            <pubDate>Wed, 29 Mar 2023 05:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.13 ~ 2023.04.13]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202303/20230329/20230329-45450.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
         <item>
             <title><![CDATA[MEN I TRUST LIVE IN SEOUL]]></title>
             <link>http://ticket.yes24.com/Perf/44165</link>
