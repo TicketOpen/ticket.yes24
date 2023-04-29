@@ -4,17 +4,9 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Apr 2023 05:36:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Apr 2023 17:35:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2023 실리카겔 단독공연 [Machine Boy]]]></title>
-            <link>http://ticket.yes24.com/Perf/45491</link>
-            <guid>http://ticket.yes24.com/Perf/45491</guid>
-            <pubDate>Mon, 03 Apr 2023 17:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.29 ~ 2023.04.29]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202303/20230331/20230331-45491.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
         <item>
             <title><![CDATA[Glen Check 단독 콘서트 [Mind Surfing]]]></title>
             <link>http://ticket.yes24.com/Perf/45487</link>
