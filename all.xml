@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 17:39:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 05:36:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,22 +14,6 @@
             <pubDate>Tue, 25 Apr 2023 05:36:25 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.19 ~ 2023.05.21]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202304/20230424/20230424-45675.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT DREAM TOUR THE DREAM SHOW2 In YOUR DREAM (YES24 티켓 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
-            <link>http://ticket.yes24.com/Perf/45709</link>
-            <guid>http://ticket.yes24.com/Perf/45709</guid>
-            <pubDate>Tue, 02 May 2023 17:35:54 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.02 ~ 2023.06.03]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202305/20230502/20230502-45709.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT DREAM TOUR THE DREAM SHOW2 In YOUR DREAM (YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=45709</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=45709</guid>
-            <pubDate>Tue, 02 May 2023 17:36:02 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.02 ~ 2023.06.03]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202305/20230502/20230502-45709.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[THE BOYZ 2ND WORLD TOUR : ZENERATION (YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
