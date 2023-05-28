@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 May 2023 05:36:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 May 2023 17:36:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Mon, 15 May 2023 05:36:28 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.09 ~ 2023.06.10]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202305/20230516/20230516-45929.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 AB6IX WORLD TOUR [THE FUTURE] in SEOUL]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=45880</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=45880</guid>
-            <pubDate>Thu, 04 May 2023 17:36:08 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.27 ~ 2023.05.28]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202305/20230509/20230509-45880.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BRUNO MAJOR - TOUR OF PLANET EARTH 2023 - SEOUL]]></title>
