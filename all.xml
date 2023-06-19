@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Jun 2023 17:36:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 05:37:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202306/20230607/20230607-46081.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
+            <title><![CDATA[한요한 정규 5집 콘서트 [Shining Star] (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/46300</link>
+            <guid>http://ticket.yes24.com/Perf/46300</guid>
+            <pubDate>Mon, 19 Jun 2023 05:37:37 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.01 ~ 2023.07.01]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202306/20230616/20230616-46300.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
             <title><![CDATA[DRIPPIN 1st FANMEETING [여름날의 꿈] (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
             <link>http://ticket.yes24.com/Perf/46100</link>
             <guid>http://ticket.yes24.com/Perf/46100</guid>
@@ -190,6 +198,14 @@
             <pubDate>Thu, 06 Apr 2023 17:36:38 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.22 ~ 2023.09.22]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202304/20230405/20230405-45536.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[한요한 정규 5집 콘서트 [Shining Star] (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=46300</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=46300</guid>
+            <pubDate>Mon, 19 Jun 2023 05:37:46 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.01 ~ 2023.07.01]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202306/20230616/20230616-46300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 Raon ＆ DAZBEE Concert：THE ECLIPSE (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
