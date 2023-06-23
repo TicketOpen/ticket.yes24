@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 05:39:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 17:39:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,6 +160,14 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202304/20230411/20230411-45595.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
+            <title><![CDATA[ART ROAD SHOWCASE & ART EXHIBITION in KOREA 2023 (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/46356</link>
+            <guid>http://ticket.yes24.com/Perf/46356</guid>
+            <pubDate>Fri, 23 Jun 2023 17:38:55 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.23 ~ 2023.07.23]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202306/20230623/20230623-46356_3.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
             <title><![CDATA[2023 미스터빅(Mr.BIG) 내한공연 - The BIG Finish (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
             <link>http://ticket.yes24.com/Perf/46009</link>
             <guid>http://ticket.yes24.com/Perf/46009</guid>
@@ -198,6 +206,14 @@
             <pubDate>Thu, 06 Apr 2023 17:36:38 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.22 ~ 2023.09.22]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202304/20230405/20230405-45536.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[ART ROAD SHOWCASE & ART EXHIBITION in KOREA 2023 (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=46356</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=46356</guid>
+            <pubDate>Fri, 23 Jun 2023 17:39:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.23 ~ 2023.07.23]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202306/20230623/20230623-46356_3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한요한 정규 5집 콘서트 [Shining Star] (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
