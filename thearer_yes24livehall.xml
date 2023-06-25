@@ -4,17 +4,9 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Jun 2023 05:38:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 17:37:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[스물네살윤희온]]></title>
-            <link>http://ticket.yes24.com/Perf/46209</link>
-            <guid>http://ticket.yes24.com/Perf/46209</guid>
-            <pubDate>Fri, 09 Jun 2023 05:36:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.25 ~ 2023.06.25]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202306/20230608/20230608-46209_1.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
         <item>
             <title><![CDATA[2023 WEi SHOW-CON [Eternal Sunshine]]]></title>
             <link>http://ticket.yes24.com/Perf/46081</link>
