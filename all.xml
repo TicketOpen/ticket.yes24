@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 05:38:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 17:37:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,16 +43,8 @@
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Wed, 28 Jun 2023 05:38:12 GMT</pubDate>
+            <pubDate>Wed, 28 Jun 2023 17:37:20 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2023 WEi SHOW-CON [Eternal Sunshine] (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://ticket.yes24.com/Perf/46081</link>
-            <guid>http://ticket.yes24.com/Perf/46081</guid>
-            <pubDate>Fri, 02 Jun 2023 05:37:18 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.28 ~ 2023.06.28]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202306/20230607/20230607-46081.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[한요한 정규 5집 콘서트 [Shining Star] (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
@@ -143,12 +135,28 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202305/20230531/20230531-45805.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
+            <title><![CDATA[썬더 프롬 다운 언더 IN 서울 (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/46388</link>
+            <guid>http://ticket.yes24.com/Perf/46388</guid>
+            <pubDate>Wed, 28 Jun 2023 17:37:29 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.01 ~ 2023.09.02]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202306/20230628/20230628-46388.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
             <title><![CDATA[코다라인 내한공연 KODALINE LIVE IN SEOUL (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
             <link>http://ticket.yes24.com/Perf/45536</link>
             <guid>http://ticket.yes24.com/Perf/45536</guid>
             <pubDate>Thu, 06 Apr 2023 17:36:38 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.22 ~ 2023.09.22]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202304/20230405/20230405-45536.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[썬더 프롬 다운 언더 IN 서울 (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=46388</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=46388</guid>
+            <pubDate>Wed, 28 Jun 2023 17:37:37 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.01 ~ 2023.09.02]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202306/20230628/20230628-46388.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ART ROAD SHOWCASE & ART EXHIBITION in KOREA 2023 (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
@@ -189,14 +197,6 @@
             <pubDate>Fri, 26 May 2023 17:36:44 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.02 ~ 2023.08.02]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202305/20230526/20230526-46097.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 WEi SHOW-CON [Eternal Sunshine] (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=46081</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=46081</guid>
-            <pubDate>Fri, 02 Jun 2023 05:37:27 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.28 ~ 2023.06.28]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202306/20230607/20230607-46081.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비보쇼 - 오리지널 2023 (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
