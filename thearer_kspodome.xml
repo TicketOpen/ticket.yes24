@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ KSPO DOME(올림픽체조경기장)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jul 2023 17:36:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 05:37:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>http://ticket.yes24.com/Perf/46234</guid>
             <pubDate>Sun, 02 Jul 2023 05:36:14 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.20 ~ 2023.10.21]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202306/20230622/20230622-46234.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202307/20230703/20230703-46234.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[[VIP 패키지] 찰리 푸스 내한공연 - In My Head Experience]]></title>
@@ -29,7 +29,7 @@
             <guid>http://ticket.yes24.com/Perf/46306</guid>
             <pubDate>Sun, 02 Jul 2023 05:36:14 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.20 ~ 2023.10.21]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202306/20230620/20230620-46306.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202307/20230703/20230703-46306.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
     </channel>
 </rss>
