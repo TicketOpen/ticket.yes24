@@ -4,9 +4,17 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 17:37:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 05:36:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 K 글로벌 하트드림어워즈]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=46590</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=46590</guid>
+            <pubDate>Thu, 20 Jul 2023 05:35:51 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.10 ~ 2023.08.10]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202307/20230719/20230719-46590.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[VIP 패키지] 찰리 푸스 내한공연 - In My Head Experience]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=46306</link>
