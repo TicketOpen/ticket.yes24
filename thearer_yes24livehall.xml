@@ -4,17 +4,9 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 17:36:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jul 2023 17:38:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2023 미스터빅(Mr.BIG) 내한공연 - The BIG Finish]]></title>
-            <link>http://ticket.yes24.com/Perf/46009</link>
-            <guid>http://ticket.yes24.com/Perf/46009</guid>
-            <pubDate>Sun, 02 Jul 2023 05:36:48 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.29 ~ 2023.07.29]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202305/20230517/20230517-46009.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
         <item>
             <title><![CDATA[밸리 내한공연 (Valley Live in Seoul)]]></title>
             <link>http://ticket.yes24.com/Perf/45918</link>
