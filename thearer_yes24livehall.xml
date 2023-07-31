@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jul 2023 17:39:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 05:37:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Sun, 02 Jul 2023 05:36:48 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.10 ~ 2023.08.11]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202305/20230531/20230531-45805.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
-        <item>
-            <title><![CDATA[BRUNO MAJOR 내한 - VIP PASS]]></title>
-            <link>http://ticket.yes24.com/Perf/46541</link>
-            <guid>http://ticket.yes24.com/Perf/46541</guid>
-            <pubDate>Wed, 19 Jul 2023 17:37:31 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.10 ~ 2023.08.11]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202307/20230718/20230718-46541_1.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[DKB THE 1ST FAN-CON [THE FIRST LOVE]]]></title>
