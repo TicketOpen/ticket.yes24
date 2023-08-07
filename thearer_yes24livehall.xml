@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Aug 2023 17:37:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 05:38:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 04 Aug 2023 05:36:18 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.03 ~ 2023.09.03]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202308/20230804/20230804-46764.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[&TEAM 1st Anniversary [緣 DAY] in SEOUL]]></title>
+            <link>http://ticket.yes24.com/Perf/46668</link>
+            <guid>http://ticket.yes24.com/Perf/46668</guid>
+            <pubDate>Mon, 07 Aug 2023 05:38:02 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.09 ~ 2023.09.09]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202308/20230807/20230807-46668.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[코다라인 내한공연 KODALINE LIVE IN SEOUL]]></title>
