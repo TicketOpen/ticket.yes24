@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Perf/Detail/TheaterPerfList.aspx?IdTheater=3607</id>
     <title>YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스</title>
-    <updated>2023-08-11T05:39:06.936Z</updated>
+    <updated>2023-08-11T17:36:28.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>http://m.ticket.yes24.com/Perf/Detail/TheaterPerfList.aspx?IdTheater=3607</id>
         <link href="http://m.ticket.yes24.com/Perf/Detail/TheaterPerfList.aspx?IdTheater=3607"/>
-        <updated>2023-08-11T05:38:48.457Z</updated>
+        <updated>2023-08-11T17:36:09.725Z</updated>
         <content type="html"><![CDATA[예매 가능한 공연이 없습니다.]]></content>
     </entry>
 </feed>
