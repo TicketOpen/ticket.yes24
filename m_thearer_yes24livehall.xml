@@ -4,16 +4,24 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Aug 2023 05:38:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 17:39:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[엘르가든 내한공연 ELLEGARDEN 'Boys are Back in the East Tour 2023' [SEOUL]]]></title>
+            <title><![CDATA[엘르가든 내한공연 ELLEGARDEN ‘Boys are Back in the East Tour 2023’ [SEOUL]]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=46905</link>
             <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=46905</guid>
             <pubDate>Fri, 18 Aug 2023 17:36:24 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.03 ~ 2023.10.03]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202308/20230818/20230818-46905.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MAMAMOO+ 1ST FAN CONCERT ‘TWO RABBITS CODE’]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=46873</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=46873</guid>
+            <pubDate>Mon, 21 Aug 2023 17:39:03 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.16 ~ 2023.09.17]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202308/20230821/20230821-46873.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영블러드 내한공연 (YUNGBLUD LIVE IN SEOUL)]]></title>
