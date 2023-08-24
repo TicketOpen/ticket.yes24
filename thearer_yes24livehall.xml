@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 05:36:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 17:37:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,14 @@
             <pubDate>Thu, 20 Jul 2023 17:37:06 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.22 ~ 2023.11.22]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202307/20230720/20230720-46527.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[Nothing But Thieves Live in Seoul (나씽 벗 띠브스 내한공연)]]></title>
+            <link>http://ticket.yes24.com/Perf/46966</link>
+            <guid>http://ticket.yes24.com/Perf/46966</guid>
+            <pubDate>Thu, 24 Aug 2023 17:37:39 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.28 ~ 2023.11.28]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202308/20230824/20230824-46966.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
     </channel>
 </rss>
