@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Aug 2023 05:36:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Aug 2023 17:36:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -59,16 +59,8 @@
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Sun, 27 Aug 2023 05:35:51 GMT</pubDate>
+            <pubDate>Sun, 27 Aug 2023 17:35:47 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2023 FTISLAND LIVE ‘HEY DAY’ (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://ticket.yes24.com/Perf/46617</link>
-            <guid>http://ticket.yes24.com/Perf/46617</guid>
-            <pubDate>Mon, 24 Jul 2023 05:37:03 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.26 ~ 2023.08.27]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202307/20230724/20230724-46617.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[썬더 프롬 다운 언더 IN 서울 (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
@@ -229,14 +221,6 @@
             <pubDate>Mon, 07 Aug 2023 05:38:11 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.09 ~ 2023.09.09]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202308/20230807/20230807-46668.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 FTISLAND LIVE ‘HEY DAY’ (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=46617</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=46617</guid>
-            <pubDate>Mon, 24 Jul 2023 05:37:11 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.26 ~ 2023.08.27]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202307/20230724/20230724-46617.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[페더 엘리아스 내한공연 (Peder Elias LIVE IN SEOUL) (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
