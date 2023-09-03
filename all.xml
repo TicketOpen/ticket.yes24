@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Sep 2023 05:36:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Sep 2023 17:37:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,16 +43,8 @@
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Sun, 03 Sep 2023 05:36:16 GMT</pubDate>
+            <pubDate>Sun, 03 Sep 2023 17:37:08 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2023 오해피데이 (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://ticket.yes24.com/Perf/46764</link>
-            <guid>http://ticket.yes24.com/Perf/46764</guid>
-            <pubDate>Fri, 04 Aug 2023 05:36:18 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.03 ~ 2023.09.03]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202308/20230804/20230804-46764.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[&TEAM 1st Anniversary [緣 DAY] in SEOUL (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
@@ -197,14 +189,6 @@
             <pubDate>Mon, 14 Aug 2023 17:36:30 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.10 ~ 2023.09.10]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202308/20230814/20230814-46859.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 오해피데이 (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=46764</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=46764</guid>
-            <pubDate>Fri, 04 Aug 2023 05:36:27 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.03 ~ 2023.09.03]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202308/20230804/20230804-46764.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[&TEAM 1st Anniversary [緣 DAY] in SEOUL (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
