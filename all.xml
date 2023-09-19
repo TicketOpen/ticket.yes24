@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 17:37:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 05:37:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,7 +43,7 @@
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Mon, 18 Sep 2023 17:37:22 GMT</pubDate>
+            <pubDate>Tue, 19 Sep 2023 05:37:25 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
         </item>
         <item>
@@ -99,8 +99,8 @@
             <link>http://ticket.yes24.com/Perf/46540</link>
             <guid>http://ticket.yes24.com/Perf/46540</guid>
             <pubDate>Fri, 14 Jul 2023 17:36:56 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.28 ~ 2023.10.28]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202307/20230714/20230714-46540.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+            <content:encoded><![CDATA[2023.10.26 ~ 2023.10.28]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202309/20230919/20230919-46540.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[영블러드 내한공연 (YUNGBLUD LIVE IN SEOUL) (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
@@ -187,8 +187,8 @@
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=46540</link>
             <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=46540</guid>
             <pubDate>Fri, 14 Jul 2023 17:37:05 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.28 ~ 2023.10.28]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202307/20230714/20230714-46540.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2023.10.26 ~ 2023.10.28]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202309/20230919/20230919-46540.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조니 올랜도 내한공연 (Johnny Orlando Live in Seoul) (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
