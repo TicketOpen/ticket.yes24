@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 17:37:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 17:37:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 19 Sep 2023 17:36:29 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.24 ~ 2023.10.24]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202309/20230919/20230919-47220.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 DONGHAE B DAY PARTY [donghaE.Love.Forever]]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=47166</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=47166</guid>
+            <pubDate>Fri, 22 Sep 2023 17:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.13 ~ 2023.10.13]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202309/20230922/20230922-47166.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Dplus KIA FAN MEET UP ‘Drive to Worlds’]]></title>
@@ -86,14 +94,6 @@
             <pubDate>Thu, 20 Jul 2023 17:37:15 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.22 ~ 2023.11.22]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202307/20230720/20230720-46527.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코다라인 내한공연 KODALINE LIVE IN SEOUL]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=45536</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=45536</guid>
-            <pubDate>Thu, 06 Apr 2023 17:36:47 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.22 ~ 2023.09.22]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202304/20230405/20230405-45536.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
