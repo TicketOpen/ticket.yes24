@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 17:37:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 17:36:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,7 +43,7 @@
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Wed, 11 Oct 2023 17:37:20 GMT</pubDate>
+            <pubDate>Thu, 12 Oct 2023 17:36:17 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
         </item>
         <item>
@@ -131,8 +131,8 @@
             <link>http://ticket.yes24.com/Perf/46966</link>
             <guid>http://ticket.yes24.com/Perf/46966</guid>
             <pubDate>Fri, 06 Oct 2023 17:36:42 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.28 ~ 2023.11.28]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202308/20230824/20230824-46966.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+            <content:encoded><![CDATA[2023.11.28 ~ 2023.11.29]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202310/20231012/20231012-46966.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[[서울] Crowd Work 전국투어 (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
@@ -187,8 +187,8 @@
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=46966</link>
             <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=46966</guid>
             <pubDate>Fri, 06 Oct 2023 17:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.28 ~ 2023.11.28]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202308/20230824/20230824-46966.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2023.11.28 ~ 2023.11.29]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202310/20231012/20231012-46966.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영블러드 내한공연 (YUNGBLUD LIVE IN SEOUL) (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
