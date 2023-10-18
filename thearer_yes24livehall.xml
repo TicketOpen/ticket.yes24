@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 05:37:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 17:36:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -61,7 +61,7 @@
             <guid>http://ticket.yes24.com/Perf/47452</guid>
             <pubDate>Mon, 16 Oct 2023 05:37:56 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.11 ~ 2023.11.11]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202310/20231013/20231013-47452.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202310/20231018/20231018-47452.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[[서울] Crowd Work 전국투어]]></title>
