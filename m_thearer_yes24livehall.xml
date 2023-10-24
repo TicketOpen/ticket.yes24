@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 05:38:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 17:38:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,28 +56,12 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202310/20231013/20231013-47358.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT127 3RD TOUR ‘NEO CITY : SEOUL - THE UNITY’]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=47356</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=47356</guid>
-            <pubDate>Mon, 23 Oct 2023 05:39:37 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.17 ~ 2023.11.26]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202310/20231023/20231023-47356.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Xdinary Heroes〈Break the Brake〉World Tour in Seoul]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=47335</link>
             <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=47335</guid>
             <pubDate>Mon, 16 Oct 2023 05:38:04 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.03 ~ 2023.11.05]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202310/20231016/20231016-47335.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lukas Graham Live in Seoul (루카스 그레이엄 내한공연)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=47220</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=47220</guid>
-            <pubDate>Fri, 06 Oct 2023 17:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.24 ~ 2023.10.24]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202309/20230919/20230919-47220.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비비 렉사 내한공연 (Bebe Rexha LIVE IN SEOUL)]]></title>
