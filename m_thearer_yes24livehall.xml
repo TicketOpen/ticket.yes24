@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Nov 2023 05:36:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Nov 2023 17:36:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Fri, 06 Oct 2023 17:36:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.12 ~ 2023.11.12]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202310/20231013/20231013-47358.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Xdinary Heroes〈Break the Brake〉World Tour in Seoul]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=47335</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=47335</guid>
-            <pubDate>Mon, 16 Oct 2023 05:38:04 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.03 ~ 2023.11.05]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202310/20231016/20231016-47335.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nothing But Thieves Live in Seoul (나씽 벗 띠브스 내한공연)]]></title>
