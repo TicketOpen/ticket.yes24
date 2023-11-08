@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 17:39:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 17:38:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -59,7 +59,7 @@
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Tue, 07 Nov 2023 17:38:55 GMT</pubDate>
+            <pubDate>Wed, 08 Nov 2023 17:38:30 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
         </item>
         <item>
@@ -133,6 +133,22 @@
             <pubDate>Fri, 13 Oct 2023 17:38:19 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.07 ~ 2024.03.07]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202310/20231013/20231013-47359.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 슬래쉬(Slash) 내한공연 THE RIVER IS RISING TOUR (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/47724</link>
+            <guid>http://ticket.yes24.com/Perf/47724</guid>
+            <pubDate>Wed, 08 Nov 2023 17:38:41 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.09 ~ 2024.03.09]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202311/20231108/20231108-47724.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 슬래쉬(Slash) 내한공연 THE RIVER IS RISING TOUR (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=47724</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=47724</guid>
+            <pubDate>Wed, 08 Nov 2023 17:38:52 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.09 ~ 2024.03.09]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202311/20231108/20231108-47724.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여원 1st FAN CONCERT 〈행복 소통 창구〉 (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
