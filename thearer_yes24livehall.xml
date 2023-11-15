@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 05:36:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 17:36:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Mon, 13 Nov 2023 17:36:32 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.15 ~ 2023.12.17]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202311/20231113/20231113-47797.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 검정치마 연말공연 [201 DAYS OF HOLIDAY]]]></title>
+            <link>http://ticket.yes24.com/Perf/47823</link>
+            <guid>http://ticket.yes24.com/Perf/47823</guid>
+            <pubDate>Wed, 15 Nov 2023 17:35:57 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.23 ~ 2023.12.31]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202311/20231115/20231115-47823.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[파슬스 내한공연 (PARCELS LIVE IN SEOUL)]]></title>
