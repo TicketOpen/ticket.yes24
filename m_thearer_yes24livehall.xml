@@ -4,9 +4,17 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 17:36:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 05:35:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Macaroni Empitsu 내한공연]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48043</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48043</guid>
+            <pubDate>Thu, 07 Dec 2023 05:35:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.03 ~ 2024.02.03]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202312/20231206/20231206-48043.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[VIP패키지] 2024 더 로즈(The Rose) DAWN TO DUSK TOUR - SEOUL]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=47985</link>
