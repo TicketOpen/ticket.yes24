@@ -4,21 +4,21 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 05:35:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 17:36:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Wed, 13 Dec 2023 05:35:23 GMT</pubDate>
+            <pubDate>Wed, 13 Dec 2023 17:35:34 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Wed, 13 Dec 2023 05:35:37 GMT</pubDate>
+            <pubDate>Wed, 13 Dec 2023 17:35:50 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
         </item>
         <item>
@@ -44,6 +44,14 @@
             <pubDate>Wed, 13 Dec 2023 05:35:46 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.05 ~ 2024.01.06]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202312/20231212/20231212-48071.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[Dreamcatcher 2024 World Tour [Luck Inside 7 Doors] in Seoul (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/48069</link>
+            <guid>http://ticket.yes24.com/Perf/48069</guid>
+            <pubDate>Wed, 13 Dec 2023 17:35:58 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.13 ~ 2024.01.13]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202312/20231213/20231213-48069.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[Macaroni Empitsu 내한공연 (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
@@ -108,6 +116,14 @@
             <pubDate>Wed, 13 Dec 2023 05:35:53 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.05 ~ 2024.01.06]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202312/20231212/20231212-48071.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dreamcatcher 2024 World Tour [Luck Inside 7 Doors] in Seoul (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48069</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48069</guid>
+            <pubDate>Wed, 13 Dec 2023 17:36:07 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.13 ~ 2024.01.13]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202312/20231213/20231213-48069.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Macaroni Empitsu 내한공연 (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
