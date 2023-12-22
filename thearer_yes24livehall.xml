@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 17:35:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 05:35:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Mon, 11 Dec 2023 17:35:48 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.28 ~ 2024.03.28]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202312/20231211/20231211-48086.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[[구매불가] T TEST]]></title>
+            <link>http://ticket.yes24.com/Perf/48187</link>
+            <guid>http://ticket.yes24.com/Perf/48187</guid>
+            <pubDate>Fri, 22 Dec 2023 05:35:45 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.03 ~ 2024.04.27]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload/PerfBlog/_noimage.gif/dims/quality/70/" length="0" type="image/gif/dims/quality/70/"/>
         </item>
     </channel>
 </rss>
