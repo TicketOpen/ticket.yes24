@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 05:36:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 17:36:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,8 +20,8 @@
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48187</link>
             <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48187</guid>
             <pubDate>Fri, 29 Dec 2023 05:36:11 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.17 ~ 2024.02.17]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202312/20231229/20231229-48187.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2024.02.16 ~ 2024.02.17]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202401/20240110/20240110-48187.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HUI 1st Mini Album [WHU IS ME：Complex] SHOW-CON]]></title>
