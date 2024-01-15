@@ -4,21 +4,21 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Jan 2024 17:36:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 05:37:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Sun, 14 Jan 2024 17:35:40 GMT</pubDate>
+            <pubDate>Mon, 15 Jan 2024 05:36:58 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Sun, 14 Jan 2024 17:35:55 GMT</pubDate>
+            <pubDate>Mon, 15 Jan 2024 05:37:14 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
         </item>
         <item>
@@ -99,7 +99,7 @@
             <guid>http://ticket.yes24.com/Perf/48337</guid>
             <pubDate>Fri, 12 Jan 2024 17:35:57 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.13 ~ 2024.04.14]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202401/20240112/20240112-48337.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202401/20240115/20240115-48337_2.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[LOUD BRIDGE FESTIVAL SEOUL 2024 (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
@@ -107,7 +107,7 @@
             <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48337</guid>
             <pubDate>Fri, 12 Jan 2024 17:36:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.13 ~ 2024.04.14]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202401/20240112/20240112-48337.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202401/20240115/20240115-48337_2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 조형균 콘서트 ＜홈그라운드＞ (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
