@@ -4,30 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jan 2024 05:36:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 17:36:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Tue, 16 Jan 2024 05:35:52 GMT</pubDate>
+            <pubDate>Tue, 16 Jan 2024 17:36:10 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Tue, 16 Jan 2024 05:36:05 GMT</pubDate>
+            <pubDate>Tue, 16 Jan 2024 17:36:23 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[HUI 1st Mini Album [WHU IS ME：Complex] SHOW-CON (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://ticket.yes24.com/Perf/48178</link>
-            <guid>http://ticket.yes24.com/Perf/48178</guid>
-            <pubDate>Fri, 29 Dec 2023 05:36:03 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.16 ~ 2024.01.16]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202312/20231228/20231228-48178.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[2024 조형균 콘서트 ＜홈그라운드＞ (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
@@ -36,6 +28,14 @@
             <pubDate>Wed, 27 Dec 2023 17:36:39 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.22 ~ 2024.01.22]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202312/20231227/20231227-48209.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[댄스콘서트 희노애락 시즌 3 (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/48352</link>
+            <guid>http://ticket.yes24.com/Perf/48352</guid>
+            <pubDate>Tue, 16 Jan 2024 17:36:31 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.25 ~ 2024.01.28]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202401/20240116/20240116-48352_1.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[Macaroni Empitsu 내한공연 (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
@@ -102,6 +102,14 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202401/20240115/20240115-48337_2.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
+            <title><![CDATA[댄스콘서트 희노애락 시즌 3 (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48352</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48352</guid>
+            <pubDate>Tue, 16 Jan 2024 17:36:38 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.25 ~ 2024.01.28]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202401/20240116/20240116-48352_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LOUD BRIDGE FESTIVAL SEOUL 2024 (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48337</link>
             <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48337</guid>
@@ -124,14 +132,6 @@
             <pubDate>Fri, 12 Jan 2024 17:36:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.16 ~ 2024.02.17]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202401/20240110/20240110-48187.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HUI 1st Mini Album [WHU IS ME：Complex] SHOW-CON (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48178</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48178</guid>
-            <pubDate>Fri, 29 Dec 2023 05:36:11 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.16 ~ 2024.01.16]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202312/20231228/20231228-48178.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CHRISTIAN KURIA LIVE IN SEOUL (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
