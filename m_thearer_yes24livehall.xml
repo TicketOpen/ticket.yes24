@@ -4,9 +4,17 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 05:35:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 17:36:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sum 41 Live in Seoul]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48404</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48404</guid>
+            <pubDate>Fri, 19 Jan 2024 17:36:15 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.27 ~ 2024.02.28]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202401/20240118/20240118-48404.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[댄스콘서트 희노애락 시즌 3]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48352</link>
