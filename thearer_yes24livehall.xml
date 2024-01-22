@@ -4,17 +4,9 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 05:37:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 17:36:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2024 조형균 콘서트 ＜홈그라운드＞]]></title>
-            <link>http://ticket.yes24.com/Perf/48209</link>
-            <guid>http://ticket.yes24.com/Perf/48209</guid>
-            <pubDate>Wed, 27 Dec 2023 17:36:39 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.22 ~ 2024.01.22]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202312/20231227/20231227-48209.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
         <item>
             <title><![CDATA[댄스콘서트 희노애락 시즌 3]]></title>
             <link>http://ticket.yes24.com/Perf/48352</link>
