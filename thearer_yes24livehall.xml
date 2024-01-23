@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jan 2024 05:36:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 17:36:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 12 Jan 2024 17:35:57 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.16 ~ 2024.02.17]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202401/20240110/20240110-48187.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[GIRIBOY CONCERT: PRBOY]]></title>
+            <link>http://ticket.yes24.com/Perf/48435</link>
+            <guid>http://ticket.yes24.com/Perf/48435</guid>
+            <pubDate>Tue, 23 Jan 2024 17:36:08 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.25 ~ 2024.02.25]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202401/20240122/20240122-48435.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[Sum 41 Live in Seoul]]></title>
