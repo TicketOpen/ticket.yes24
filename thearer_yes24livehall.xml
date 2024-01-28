@@ -4,17 +4,9 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Jan 2024 05:35:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jan 2024 17:36:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[댄스콘서트 희노애락 시즌 3]]></title>
-            <link>http://ticket.yes24.com/Perf/48352</link>
-            <guid>http://ticket.yes24.com/Perf/48352</guid>
-            <pubDate>Tue, 16 Jan 2024 17:36:31 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.25 ~ 2024.01.28]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202401/20240117/20240117-48352.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
         <item>
             <title><![CDATA[Macaroni Empitsu 내한공연]]></title>
             <link>http://ticket.yes24.com/Perf/48043</link>
