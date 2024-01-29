@@ -4,9 +4,17 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Jan 2024 17:36:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 05:37:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Eve Asia Tour 2024 ‘Culture’ in Seoul]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48499</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48499</guid>
+            <pubDate>Mon, 29 Jan 2024 05:37:04 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.12 ~ 2024.05.12]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202401/20240126/20240126-48499.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[GIRIBOY CONCERT: PRBOY]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48435</link>
