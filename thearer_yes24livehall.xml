@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 05:36:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 17:36:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Fri, 12 Jan 2024 17:35:57 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.16 ~ 2024.02.17]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202401/20240110/20240110-48187.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
-        <item>
-            <title><![CDATA[2024.URBAN WINTER LIFE VOL.12]]></title>
-            <link>http://ticket.yes24.com/Perf/48551</link>
-            <guid>http://ticket.yes24.com/Perf/48551</guid>
-            <pubDate>Tue, 30 Jan 2024 05:36:43 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.18 ~ 2024.02.18]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202401/20240130/20240130-48551.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[GIRIBOY CONCERT: PRBOY]]></title>
