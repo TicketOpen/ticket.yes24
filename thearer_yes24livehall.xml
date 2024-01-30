@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 17:36:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 05:36:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,6 +40,14 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202401/20240110/20240110-48187.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
+            <title><![CDATA[2024.URBAN WINTER LIFE VOL.12]]></title>
+            <link>http://ticket.yes24.com/Perf/48551</link>
+            <guid>http://ticket.yes24.com/Perf/48551</guid>
+            <pubDate>Tue, 30 Jan 2024 05:36:43 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.18 ~ 2024.02.18]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202401/20240130/20240130-48551.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
             <title><![CDATA[GIRIBOY CONCERT: PRBOY]]></title>
             <link>http://ticket.yes24.com/Perf/48435</link>
             <guid>http://ticket.yes24.com/Perf/48435</guid>
@@ -54,6 +62,14 @@
             <pubDate>Fri, 19 Jan 2024 17:36:07 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.27 ~ 2024.02.28]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202401/20240118/20240118-48404.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 EVNNE FAN-CONCERT [SQUAD:R] ASIA TOUR IN SEOUL]]></title>
+            <link>http://ticket.yes24.com/Perf/48365</link>
+            <guid>http://ticket.yes24.com/Perf/48365</guid>
+            <pubDate>Tue, 30 Jan 2024 05:36:43 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.02 ~ 2024.03.03]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202401/20240129/20240129-48365.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[파슬스 내한공연 (PARCELS LIVE IN SEOUL)]]></title>
