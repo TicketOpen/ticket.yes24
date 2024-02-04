@@ -4,25 +4,9 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Feb 2024 05:35:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Feb 2024 17:37:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2024 더 로즈(The Rose) DAWN TO DUSK TOUR - SEOUL]]></title>
-            <link>http://ticket.yes24.com/Perf/47984</link>
-            <guid>http://ticket.yes24.com/Perf/47984</guid>
-            <pubDate>Wed, 06 Dec 2023 05:36:04 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.04 ~ 2024.02.04]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202312/20231205/20231205-47984_1.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[VIP패키지] 2024 더 로즈(The Rose) DAWN TO DUSK TOUR - SEOUL]]></title>
-            <link>http://ticket.yes24.com/Perf/47985</link>
-            <guid>http://ticket.yes24.com/Perf/47985</guid>
-            <pubDate>Wed, 06 Dec 2023 05:36:04 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.04 ~ 2024.02.04]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202312/20231205/20231205-47985.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
         <item>
             <title><![CDATA[2024 TEN FIRST FAN-CON [1001]]]></title>
             <link>http://ticket.yes24.com/Perf/48187</link>

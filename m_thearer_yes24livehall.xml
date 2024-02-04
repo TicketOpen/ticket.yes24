@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Feb 2024 05:35:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Feb 2024 17:37:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,22 +70,6 @@
             <pubDate>Mon, 11 Dec 2023 17:35:54 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.28 ~ 2024.03.28]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202312/20231211/20231211-48086.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[VIP패키지] 2024 더 로즈(The Rose) DAWN TO DUSK TOUR - SEOUL]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=47985</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=47985</guid>
-            <pubDate>Wed, 06 Dec 2023 05:36:21 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.04 ~ 2024.02.04]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202312/20231205/20231205-47985.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 더 로즈(The Rose) DAWN TO DUSK TOUR - SEOUL]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=47984</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=47984</guid>
-            <pubDate>Wed, 06 Dec 2023 05:36:21 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.04 ~ 2024.02.04]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202312/20231205/20231205-47984_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 슬래쉬(Slash) 내한공연 THE RIVER IS RISING TOUR]]></title>
