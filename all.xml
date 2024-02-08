@@ -4,21 +4,21 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 17:37:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 05:36:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Wed, 07 Feb 2024 17:37:00 GMT</pubDate>
+            <pubDate>Thu, 08 Feb 2024 05:35:41 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Wed, 07 Feb 2024 17:37:16 GMT</pubDate>
+            <pubDate>Thu, 08 Feb 2024 05:35:56 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
         </item>
         <item>
@@ -27,7 +27,7 @@
             <guid>http://ticket.yes24.com/Perf/48187</guid>
             <pubDate>Fri, 12 Jan 2024 17:35:57 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.16 ~ 2024.02.17]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202401/20240110/20240110-48187.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202402/20240208/20240208-48187.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[2024.URBAN WINTER LIFE VOL.12 (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
@@ -78,6 +78,14 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202311/20231108/20231108-47724.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
+            <title><![CDATA[2024 2am Concert ＂One Take＂ (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/48644</link>
+            <guid>http://ticket.yes24.com/Perf/48644</guid>
+            <pubDate>Thu, 08 Feb 2024 05:36:05 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.16 ~ 2024.03.17]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202402/20240206/20240206-48644.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
             <title><![CDATA[CHRISTIAN KURIA LIVE IN SEOUL (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
             <link>http://ticket.yes24.com/Perf/48086</link>
             <guid>http://ticket.yes24.com/Perf/48086</guid>
@@ -100,6 +108,14 @@
             <pubDate>Mon, 29 Jan 2024 05:36:56 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.12 ~ 2024.05.12]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202401/20240126/20240126-48499.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 2am Concert ＂One Take＂ (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48644</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48644</guid>
+            <pubDate>Thu, 08 Feb 2024 05:36:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.16 ~ 2024.03.17]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202402/20240206/20240206-48644.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024.URBAN WINTER LIFE VOL.12 (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
@@ -155,7 +171,7 @@
             <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48187</guid>
             <pubDate>Fri, 12 Jan 2024 17:36:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.16 ~ 2024.02.17]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202401/20240110/20240110-48187.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202402/20240208/20240208-48187.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CHRISTIAN KURIA LIVE IN SEOUL (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>

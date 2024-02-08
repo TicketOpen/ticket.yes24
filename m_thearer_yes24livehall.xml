@@ -4,9 +4,17 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 17:37:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 05:36:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 2am Concert ＂One Take＂]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48644</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48644</guid>
+            <pubDate>Thu, 08 Feb 2024 05:36:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.16 ~ 2024.03.17]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202402/20240206/20240206-48644.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2024.URBAN WINTER LIFE VOL.12]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48551</link>
@@ -61,7 +69,7 @@
             <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48187</guid>
             <pubDate>Fri, 12 Jan 2024 17:36:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.16 ~ 2024.02.17]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202401/20240110/20240110-48187.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202402/20240208/20240208-48187.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CHRISTIAN KURIA LIVE IN SEOUL]]></title>
