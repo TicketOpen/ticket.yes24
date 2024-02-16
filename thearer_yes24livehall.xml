@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Feb 2024 05:36:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 17:37:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Wed, 08 Nov 2023 17:38:41 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.09 ~ 2024.03.09]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202311/20231108/20231108-47724.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 KIM MYUNGSOO BIRTHDAY PARTY ‘Every day, L+ovely day’]]></title>
+            <link>http://ticket.yes24.com/Perf/48667</link>
+            <guid>http://ticket.yes24.com/Perf/48667</guid>
+            <pubDate>Fri, 16 Feb 2024 17:37:42 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.10 ~ 2024.03.10]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202402/20240215/20240215-48667.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[2024 2am Concert ＂One Take＂]]></title>
