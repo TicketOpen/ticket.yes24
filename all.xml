@@ -4,30 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Feb 2024 05:37:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Feb 2024 17:35:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Sun, 18 Feb 2024 05:36:49 GMT</pubDate>
+            <pubDate>Sun, 18 Feb 2024 17:35:21 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Sun, 18 Feb 2024 05:37:05 GMT</pubDate>
+            <pubDate>Sun, 18 Feb 2024 17:35:36 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024.URBAN WINTER LIFE VOL.12 (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://ticket.yes24.com/Perf/48551</link>
-            <guid>http://ticket.yes24.com/Perf/48551</guid>
-            <pubDate>Sun, 18 Feb 2024 05:37:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.18 ~ 2024.02.18]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202401/20240130/20240130-48551.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[GIRIBOY CONCERT: PRBOY (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
@@ -124,14 +116,6 @@
             <pubDate>Thu, 08 Feb 2024 05:36:13 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.16 ~ 2024.03.17]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202402/20240206/20240206-48644.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024.URBAN WINTER LIFE VOL.12 (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48551</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48551</guid>
-            <pubDate>Thu, 01 Feb 2024 05:36:54 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.18 ~ 2024.02.18]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202401/20240130/20240130-48551.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Eve Asia Tour 2024 ‘Culture’ in Seoul (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
