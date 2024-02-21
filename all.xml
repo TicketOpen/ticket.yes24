@@ -4,21 +4,21 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Feb 2024 17:36:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 05:37:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Tue, 20 Feb 2024 17:35:56 GMT</pubDate>
+            <pubDate>Wed, 21 Feb 2024 05:36:38 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Tue, 20 Feb 2024 17:36:09 GMT</pubDate>
+            <pubDate>Wed, 21 Feb 2024 05:36:54 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
         </item>
         <item>
@@ -78,6 +78,14 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202402/20240206/20240206-48644.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
+            <title><![CDATA[2024 시우민 생일 팬미팅 〈FROZEN TIME〉 (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/48691</link>
+            <guid>http://ticket.yes24.com/Perf/48691</guid>
+            <pubDate>Wed, 21 Feb 2024 05:37:04 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.23 ~ 2024.03.23]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202402/20240221/20240221-48691_1.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
             <title><![CDATA[CHRISTIAN KURIA LIVE IN SEOUL (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
             <link>http://ticket.yes24.com/Perf/48086</link>
             <guid>http://ticket.yes24.com/Perf/48086</guid>
@@ -100,6 +108,14 @@
             <pubDate>Sun, 18 Feb 2024 05:37:15 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.12 ~ 2024.05.12]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202401/20240126/20240126-48499.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 시우민 생일 팬미팅 〈FROZEN TIME〉 (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48691</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48691</guid>
+            <pubDate>Wed, 21 Feb 2024 05:37:12 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.23 ~ 2024.03.23]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202402/20240221/20240221-48691_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 KIM MYUNGSOO BIRTHDAY PARTY ‘Every day, L+ovely day’ (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>

@@ -4,9 +4,17 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Feb 2024 17:36:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 05:37:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 시우민 생일 팬미팅 〈FROZEN TIME〉]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48691</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48691</guid>
+            <pubDate>Wed, 21 Feb 2024 05:37:12 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.23 ~ 2024.03.23]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202402/20240221/20240221-48691_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2024 KIM MYUNGSOO BIRTHDAY PARTY ‘Every day, L+ovely day’]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48667</link>
