@@ -4,17 +4,9 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 05:36:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 17:36:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Sum 41 Live in Seoul]]></title>
-            <link>http://ticket.yes24.com/Perf/48404</link>
-            <guid>http://ticket.yes24.com/Perf/48404</guid>
-            <pubDate>Sun, 18 Feb 2024 05:37:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.27 ~ 2024.02.28]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202401/20240118/20240118-48404.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
         <item>
             <title><![CDATA[2024 EVNNE FAN-CONCERT [SQUAD:R] ASIA TOUR IN SEOUL]]></title>
             <link>http://ticket.yes24.com/Perf/48365</link>
@@ -70,6 +62,14 @@
             <pubDate>Sun, 18 Feb 2024 05:37:15 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.28 ~ 2024.03.28]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202312/20231211/20231211-48086.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[BOBBY ZERO GRAVITY IN SEOUL]]></title>
+            <link>http://ticket.yes24.com/Perf/48975</link>
+            <guid>http://ticket.yes24.com/Perf/48975</guid>
+            <pubDate>Wed, 28 Feb 2024 17:36:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.30 ~ 2024.03.30]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202402/20240228/20240228-48975_1.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[LOUD BRIDGE FESTIVAL SEOUL 2024]]></title>

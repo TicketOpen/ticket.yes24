@@ -4,9 +4,17 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 05:36:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 17:36:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BOBBY ZERO GRAVITY IN SEOUL]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48975</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48975</guid>
+            <pubDate>Wed, 28 Feb 2024 17:36:57 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.30 ~ 2024.03.30]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202402/20240228/20240228-48975_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Boys Like Girls Live in Seoul]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48951</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 29 Jan 2024 05:37:04 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.12 ~ 2024.05.12]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202401/20240126/20240126-48499.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sum 41 Live in Seoul]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48404</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48404</guid>
-            <pubDate>Fri, 19 Jan 2024 17:36:15 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.27 ~ 2024.02.28]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202401/20240118/20240118-48404.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 EVNNE FAN-CONCERT [SQUAD:R] ASIA TOUR IN SEOUL]]></title>
