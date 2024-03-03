@@ -4,17 +4,9 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Mar 2024 05:36:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Mar 2024 17:36:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2024 EVNNE FAN-CONCERT [SQUAD:R] ASIA TOUR IN SEOUL]]></title>
-            <link>http://ticket.yes24.com/Perf/48365</link>
-            <guid>http://ticket.yes24.com/Perf/48365</guid>
-            <pubDate>Sun, 18 Feb 2024 05:37:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.02 ~ 2024.03.03]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202401/20240129/20240129-48365.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
         <item>
             <title><![CDATA[파슬스 내한공연 (PARCELS LIVE IN SEOUL)]]></title>
             <link>http://ticket.yes24.com/Perf/47359</link>

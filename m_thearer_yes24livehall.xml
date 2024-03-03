@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Mar 2024 05:36:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Mar 2024 17:36:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Mon, 29 Jan 2024 05:37:04 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.12 ~ 2024.05.12]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202401/20240126/20240126-48499.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 EVNNE FAN-CONCERT [SQUAD:R] ASIA TOUR IN SEOUL]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48365</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48365</guid>
-            <pubDate>Tue, 30 Jan 2024 05:36:50 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.02 ~ 2024.03.03]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202401/20240129/20240129-48365.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LOUD BRIDGE FESTIVAL SEOUL 2024]]></title>
