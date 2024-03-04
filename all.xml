@@ -4,21 +4,30 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Mar 2024 17:36:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 06:05:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
-            <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
-            <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Sun, 03 Mar 2024 17:35:54 GMT</pubDate>
-            <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
+            <title><![CDATA[Stray Kids 4TH FANMEETING ‘SKZ’S MAGIC SCHOOL’ (YES24 티켓 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
+            <link>http://ticket.yes24.com/Perf/48871</link>
+            <guid>http://ticket.yes24.com/Perf/48871</guid>
+            <pubDate>Mon, 04 Mar 2024 06:05:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.29 ~ 2024.03.31]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240304/20240304-48871.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[Stray Kids 4TH FANMEETING ‘SKZ’S MAGIC SCHOOL’ (YES24 티켓 모바일 ─ 장소 ─ KSPO DOME(올림픽체조경기장))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48871</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48871</guid>
+            <pubDate>Mon, 04 Mar 2024 06:05:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.29 ~ 2024.03.31]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240304/20240304-48871.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Sun, 03 Mar 2024 17:36:11 GMT</pubDate>
+            <pubDate>Mon, 04 Mar 2024 06:05:36 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
         </item>
         <item>
