@@ -4,9 +4,17 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 05:37:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 17:37:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mae Muller Live in Korea]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=49029</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=49029</guid>
+            <pubDate>Wed, 06 Mar 2024 17:37:15 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.23 ~ 2024.04.23]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240306/20240306-49029.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BOBBY ZERO GRAVITY IN SEOUL]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48975</link>
