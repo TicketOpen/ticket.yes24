@@ -4,17 +4,9 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 05:37:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 17:36:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[파슬스 내한공연 (PARCELS LIVE IN SEOUL)]]></title>
-            <link>http://ticket.yes24.com/Perf/47359</link>
-            <guid>http://ticket.yes24.com/Perf/47359</guid>
-            <pubDate>Sun, 18 Feb 2024 05:37:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.07 ~ 2024.03.07]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202310/20231013/20231013-47359.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
         <item>
             <title><![CDATA[2024 슬래쉬(Slash) 내한공연 THE RIVER IS RISING TOUR]]></title>
             <link>http://ticket.yes24.com/Perf/47724</link>
@@ -48,6 +40,14 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202402/20240221/20240221-48691_1.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
+            <title><![CDATA[2024 Winter OF Dream (윈터 오에프 드림)]]></title>
+            <link>http://ticket.yes24.com/Perf/49050</link>
+            <guid>http://ticket.yes24.com/Perf/49050</guid>
+            <pubDate>Thu, 07 Mar 2024 17:36:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.24 ~ 2024.03.24]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240307/20240307-49050.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
             <title><![CDATA[CHRISTIAN KURIA LIVE IN SEOUL]]></title>
             <link>http://ticket.yes24.com/Perf/48086</link>
             <guid>http://ticket.yes24.com/Perf/48086</guid>
@@ -77,7 +77,7 @@
             <guid>http://ticket.yes24.com/Perf/49029</guid>
             <pubDate>Wed, 06 Mar 2024 17:37:07 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.23 ~ 2024.04.23]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240306/20240306-49029.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240307/20240307-49029.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[Boys Like Girls Live in Seoul]]></title>

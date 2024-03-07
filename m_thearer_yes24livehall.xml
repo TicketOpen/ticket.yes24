@@ -4,16 +4,24 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 05:37:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 17:36:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 Winter OF Dream (윈터 오에프 드림)]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=49050</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=49050</guid>
+            <pubDate>Thu, 07 Mar 2024 17:36:30 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.24 ~ 2024.03.24]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240307/20240307-49050.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mae Muller Live in Korea]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=49029</link>
             <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=49029</guid>
             <pubDate>Wed, 06 Mar 2024 17:37:15 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.23 ~ 2024.04.23]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240306/20240306-49029.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240307/20240307-49029.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BOBBY ZERO GRAVITY IN SEOUL]]></title>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 08 Nov 2023 17:38:52 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.09 ~ 2024.03.09]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202311/20231108/20231108-47724.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파슬스 내한공연 (PARCELS LIVE IN SEOUL)]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=47359</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=47359</guid>
-            <pubDate>Fri, 13 Oct 2023 17:38:27 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.07 ~ 2024.03.07]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202310/20231013/20231013-47359.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
