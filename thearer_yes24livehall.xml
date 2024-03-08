@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Mar 2024 05:36:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Mar 2024 17:36:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <guid>http://ticket.yes24.com/Perf/49050</guid>
             <pubDate>Thu, 07 Mar 2024 17:36:23 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.24 ~ 2024.03.24]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240307/20240307-49050.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240308/20240308-49050.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[CHRISTIAN KURIA LIVE IN SEOUL]]></title>
@@ -62,6 +62,14 @@
             <pubDate>Wed, 28 Feb 2024 17:36:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.30 ~ 2024.03.30]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202402/20240228/20240228-48975_1.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[749번째 고백 - My love, My destiny]]></title>
+            <link>http://ticket.yes24.com/Perf/49031</link>
+            <guid>http://ticket.yes24.com/Perf/49031</guid>
+            <pubDate>Fri, 08 Mar 2024 17:35:59 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.07 ~ 2024.04.07]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240307/20240307-49031.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[LOUD BRIDGE FESTIVAL SEOUL 2024]]></title>
