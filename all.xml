@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 05:35:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 17:37:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -27,7 +27,7 @@
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Tue, 12 Mar 2024 05:35:35 GMT</pubDate>
+            <pubDate>Tue, 12 Mar 2024 17:36:54 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
         </item>
         <item>
@@ -69,6 +69,14 @@
             <pubDate>Wed, 28 Feb 2024 17:36:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.30 ~ 2024.03.30]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202402/20240228/20240228-48975_1.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[은혁의 86F 404호 (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/49074</link>
+            <guid>http://ticket.yes24.com/Perf/49074</guid>
+            <pubDate>Tue, 12 Mar 2024 17:37:03 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.02 ~ 2024.04.02]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240311/20240311-49074.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[749번째 고백 - My love, My destiny (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
@@ -117,6 +125,14 @@
             <pubDate>Tue, 12 Mar 2024 05:35:42 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.15 ~ 2024.06.16]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240307/20240307-49014.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[은혁의 86F 404호 (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=49074</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=49074</guid>
+            <pubDate>Tue, 12 Mar 2024 17:37:12 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.02 ~ 2024.04.02]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240311/20240311-49074.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 Winter OF Dream (윈터 오에프 드림) (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
