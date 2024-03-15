@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Mar 2024 05:36:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 17:37:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Tue, 12 Mar 2024 17:37:03 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.02 ~ 2024.04.02]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240311/20240311-49074.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[JUSTJERK ACADEMY SHOWCASE 2024]]></title>
+            <link>http://ticket.yes24.com/Perf/49147</link>
+            <guid>http://ticket.yes24.com/Perf/49147</guid>
+            <pubDate>Fri, 15 Mar 2024 17:37:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.06 ~ 2024.04.06]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240315/20240315-49147.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[749번째 고백 - My love, My destiny]]></title>

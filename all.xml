@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Mar 2024 05:36:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 17:37:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -27,7 +27,7 @@
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Fri, 15 Mar 2024 05:36:14 GMT</pubDate>
+            <pubDate>Fri, 15 Mar 2024 17:37:01 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
         </item>
         <item>
@@ -79,6 +79,14 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240311/20240311-49074.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
+            <title><![CDATA[JUSTJERK ACADEMY SHOWCASE 2024 (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/49147</link>
+            <guid>http://ticket.yes24.com/Perf/49147</guid>
+            <pubDate>Fri, 15 Mar 2024 17:37:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.06 ~ 2024.04.06]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240315/20240315-49147.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
             <title><![CDATA[749번째 고백 - My love, My destiny (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
             <link>http://ticket.yes24.com/Perf/49031</link>
             <guid>http://ticket.yes24.com/Perf/49031</guid>
@@ -125,6 +133,14 @@
             <pubDate>Tue, 12 Mar 2024 05:35:42 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.15 ~ 2024.06.16]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240307/20240307-49014.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[JUSTJERK ACADEMY SHOWCASE 2024 (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=49147</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=49147</guid>
+            <pubDate>Fri, 15 Mar 2024 17:37:17 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.06 ~ 2024.04.06]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240315/20240315-49147.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[은혁의 86F 404호 (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
