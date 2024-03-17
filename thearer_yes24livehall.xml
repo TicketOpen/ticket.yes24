@@ -4,17 +4,9 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Mar 2024 05:35:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Mar 2024 17:36:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2024 2am Concert ＂One Take＂]]></title>
-            <link>http://ticket.yes24.com/Perf/48644</link>
-            <guid>http://ticket.yes24.com/Perf/48644</guid>
-            <pubDate>Sun, 18 Feb 2024 05:37:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.16 ~ 2024.03.17]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202402/20240206/20240206-48644.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
         <item>
             <title><![CDATA[2024 시우민 생일 팬미팅 〈FROZEN TIME〉]]></title>
             <link>http://ticket.yes24.com/Perf/48691</link>
