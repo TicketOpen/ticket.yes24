@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Mar 2024 17:37:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Mar 2024 05:36:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -27,7 +27,7 @@
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Tue, 19 Mar 2024 17:36:39 GMT</pubDate>
+            <pubDate>Wed, 20 Mar 2024 05:36:21 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
         </item>
         <item>
@@ -103,6 +103,14 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240307/20240307-49029.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
+            <title><![CDATA[2024 VANNER 1ST CONCERT IN SEOUL [THE FLAG：A TO V] (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/49082</link>
+            <guid>http://ticket.yes24.com/Perf/49082</guid>
+            <pubDate>Wed, 20 Mar 2024 05:36:29 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.27 ~ 2024.04.28]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240319/20240319-49082.png/dims/quality/70/" length="0" type="image/png/dims/quality/70/"/>
+        </item>
+        <item>
             <title><![CDATA[Boys Like Girls Live in Seoul (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
             <link>http://ticket.yes24.com/Perf/48951</link>
             <guid>http://ticket.yes24.com/Perf/48951</guid>
@@ -119,6 +127,14 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202401/20240126/20240126-48499.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
+            <title><![CDATA[Lolo Zouai Live: One Night in Seoul (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/49151</link>
+            <guid>http://ticket.yes24.com/Perf/49151</guid>
+            <pubDate>Wed, 20 Mar 2024 05:36:29 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.18 ~ 2024.05.18]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240320/20240320-49151.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
             <title><![CDATA[ZUTOMAYO INTENSE IN SEOUL, KOREA (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
             <link>http://ticket.yes24.com/Perf/49014</link>
             <guid>http://ticket.yes24.com/Perf/49014</guid>
@@ -127,12 +143,28 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240307/20240307-49014.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
+            <title><![CDATA[Lolo Zouai Live: One Night in Seoul (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=49151</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=49151</guid>
+            <pubDate>Wed, 20 Mar 2024 05:36:35 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.18 ~ 2024.05.18]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240320/20240320-49151.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[JUSTJERK ACADEMY SHOWCASE 2024 (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=49147</link>
             <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=49147</guid>
             <pubDate>Fri, 15 Mar 2024 17:37:17 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.06 ~ 2024.04.06]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240315/20240315-49147.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 VANNER 1ST CONCERT IN SEOUL [THE FLAG：A TO V] (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=49082</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=49082</guid>
+            <pubDate>Wed, 20 Mar 2024 05:36:35 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.27 ~ 2024.04.28]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240319/20240319-49082.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[은혁의 86F 404호 (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
