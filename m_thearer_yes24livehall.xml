@@ -4,7 +4,7 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Mar 2024 05:37:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Mar 2024 17:36:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,14 +86,6 @@
             <pubDate>Tue, 27 Feb 2024 05:36:34 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.30 ~ 2024.04.30]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202402/20240227/20240227-48951.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 시우민 생일 팬미팅 〈FROZEN TIME〉]]></title>
-            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48691</link>
-            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=48691</guid>
-            <pubDate>Wed, 21 Feb 2024 05:37:12 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.23 ~ 2024.03.23]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202402/20240221/20240221-48691_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Eve Asia Tour 2024 ‘Culture’ in Seoul]]></title>
