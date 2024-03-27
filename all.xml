@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 05:36:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 17:37:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -27,7 +27,7 @@
             <title><![CDATA[undefined (YES24 티켓 모바일 ─ 장소 ─ 노들섬 라이브하우스)]]></title>
             <link>https://TicketOpen.github.io/ticket.yes24/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket.yes24/all.xml</guid>
-            <pubDate>Wed, 27 Mar 2024 05:35:45 GMT</pubDate>
+            <pubDate>Wed, 27 Mar 2024 17:37:00 GMT</pubDate>
             <content:encoded><![CDATA[예매 가능한 공연이 없습니다.]]></content:encoded>
         </item>
         <item>
@@ -125,6 +125,38 @@
             <pubDate>Tue, 12 Mar 2024 05:35:42 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.15 ~ 2024.06.16]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240307/20240307-49014.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[아타라시이 각코!(ATARASHII GAKKO!) 첫 내한공연 (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/49166</link>
+            <guid>http://ticket.yes24.com/Perf/49166</guid>
+            <pubDate>Wed, 27 Mar 2024 17:37:10 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.19 ~ 2024.06.19]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240327/20240327-49166.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[[VIP패키지] 아타라시이 각코!(ATARASHII GAKKO!) 첫 내한공연 (YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://ticket.yes24.com/Perf/49265</link>
+            <guid>http://ticket.yes24.com/Perf/49265</guid>
+            <pubDate>Wed, 27 Mar 2024 17:37:10 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.19 ~ 2024.06.19]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240327/20240327-49265.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[[VIP패키지] 아타라시이 각코!(ATARASHII GAKKO!) 첫 내한공연 (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=49265</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=49265</guid>
+            <pubDate>Wed, 27 Mar 2024 17:37:17 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.19 ~ 2024.06.19]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240327/20240327-49265.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아타라시이 각코!(ATARASHII GAKKO!) 첫 내한공연 (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=49166</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=49166</guid>
+            <pubDate>Wed, 27 Mar 2024 17:37:17 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.19 ~ 2024.06.19]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240327/20240327-49166.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lolo Zouai Live: One Night in Seoul (YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀))]]></title>

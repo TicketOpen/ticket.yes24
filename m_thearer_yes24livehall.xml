@@ -4,9 +4,25 @@
         <title>YES24 티켓 모바일 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 05:36:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 17:37:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[VIP패키지] 아타라시이 각코!(ATARASHII GAKKO!) 첫 내한공연]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=49265</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=49265</guid>
+            <pubDate>Wed, 27 Mar 2024 17:37:17 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.19 ~ 2024.06.19]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240327/20240327-49265.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아타라시이 각코!(ATARASHII GAKKO!) 첫 내한공연]]></title>
+            <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=49166</link>
+            <guid>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=49166</guid>
+            <pubDate>Wed, 27 Mar 2024 17:37:17 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.19 ~ 2024.06.19]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240327/20240327-49166.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Lolo Zouai Live: One Night in Seoul]]></title>
             <link>http://m.ticket.yes24.com/Perf/Detail/PerfInfo.aspx?IdPerf=49151</link>
