@@ -4,17 +4,9 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Mar 2024 05:37:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 17:36:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[CHRISTIAN KURIA LIVE IN SEOUL]]></title>
-            <link>http://ticket.yes24.com/Perf/48086</link>
-            <guid>http://ticket.yes24.com/Perf/48086</guid>
-            <pubDate>Sun, 18 Feb 2024 05:37:15 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.28 ~ 2024.03.28]]></content:encoded>
-            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202312/20231211/20231211-48086.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
-        </item>
         <item>
             <title><![CDATA[BOBBY ZERO GRAVITY IN SEOUL]]></title>
             <link>http://ticket.yes24.com/Perf/48975</link>
