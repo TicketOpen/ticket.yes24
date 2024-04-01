@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 05:36:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 17:36:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,7 +56,7 @@
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202403/20240307/20240307-49029.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
-            <title><![CDATA[2024 VANNER 1ST CONCERT IN SEOUL [THE FLAG：A TO V]]]></title>
+            <title><![CDATA[2024 VANNER 1ST CONCERT [THE FLAG：A TO V] IN SEOUL]]></title>
             <link>http://ticket.yes24.com/Perf/49082</link>
             <guid>http://ticket.yes24.com/Perf/49082</guid>
             <pubDate>Wed, 20 Mar 2024 05:36:29 GMT</pubDate>
