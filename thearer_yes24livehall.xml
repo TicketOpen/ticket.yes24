@@ -4,7 +4,7 @@
         <title>YES24 티켓 ─ 장소 ─ YES24 LIVE HALL(구 악스홀)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Mar 2024 17:37:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 05:36:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sun, 18 Feb 2024 05:37:15 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.13 ~ 2024.04.14]]></content:encoded>
             <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202402/20240214/20240214-48337.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
+        </item>
+        <item>
+            <title><![CDATA[Xdinary Heroes Concert〈Closed ♭eta: v6.0〉]]></title>
+            <link>http://ticket.yes24.com/Perf/49134</link>
+            <guid>http://ticket.yes24.com/Perf/49134</guid>
+            <pubDate>Mon, 01 Apr 2024 05:36:28 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.19 ~ 2024.04.21]]></content:encoded>
+            <enclosure url="http://tkfile.yes24.com/upload2/PerfBlog/202404/20240401/20240401-49134.jpg/dims/quality/70/" length="0" type="image/jpg/dims/quality/70/"/>
         </item>
         <item>
             <title><![CDATA[Mae Muller Live in Korea]]></title>
